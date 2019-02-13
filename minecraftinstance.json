@@ -18,7 +18,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2019-02-13T09:15:15.577381Z",
+  "lastPlayed": "2019-02-13T09:27:05.9372491Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -755,24 +755,23 @@
     },
     {
       "folderName": "New World--",
-      "fingerprint": 3725315340,
-      "fileDateHash": 3581657809,
+      "fingerprint": 2612399300,
+      "fileDateHash": 1567171998,
       "sectionID": 17,
       "individualFingerprints": [
-        131020875,
-        156995318,
+        178473724,
+        178473724,
+        178473724,
+        178473724,
+        178473724,
+        178473724,
+        178473724,
+        178473724,
+        178473724,
+        178473724,
+        178473724,
         233258696,
-        242817635,
-        242817635,
-        242817635,
-        242817635,
-        242817635,
-        242817635,
-        242817635,
-        242817635,
-        242817635,
-        242817635,
-        242817635,
+        345195043,
         358416110,
         486651366,
         489458212,
@@ -788,8 +787,6 @@
         489458212,
         493233780,
         649885046,
-        739040946,
-        746877665,
         758054953,
         758054953,
         758054953,
@@ -803,25 +800,29 @@
         758054953,
         758054953,
         907525929,
-        950074050,
-        1098445354,
+        931021870,
+        1229923668,
         1236651840,
+        1425716618,
         1617152709,
-        1835609073,
+        1726170730,
+        1743165097,
+        1834638011,
         1856290401,
+        1979958126,
         1981211636,
+        1981211636,
+        2102296946,
         2106443403,
         2336574816,
         2763463119,
+        2920040287,
         3052116415,
+        3102898609,
         3266105571,
-        3266215979,
-        3533626746,
-        3536889542,
-        3859480902,
-        3980439581,
-        3992565947,
-        4017208073,
+        3464310848,
+        3613217762,
+        4189523138,
         4213863462,
         4228581982,
         4228581982,
@@ -837,9 +838,9 @@
         4272588933
       ],
       "status": 1,
-      "timestamp": "2019-02-13T06:14:50.8455444Z",
-      "lastWriteTimeUtc": "2019-02-13T06:14:50.2900304Z",
-      "queryTimestamp": "2019-02-13T06:14:51.2015911Z",
+      "timestamp": "2019-02-13T09:19:25.4590907Z",
+      "lastWriteTimeUtc": "2019-02-13T09:18:48.7580805Z",
+      "queryTimestamp": "2019-02-13T09:19:26.0662085Z",
       "fileCount": 24,
       "fileSize": 0
     },
@@ -2078,6 +2079,21 @@
       "fileSize": 1556
     },
     {
+      "folderName": "FlameLib-1.12.2-0.0.7.jar",
+      "fingerprint": 3783844668,
+      "fileDateHash": 1998852142,
+      "sectionID": 6,
+      "individualFingerprints": [
+        3783844668
+      ],
+      "status": 1,
+      "timestamp": "2019-02-13T09:19:25.4555918Z",
+      "lastWriteTimeUtc": "2019-02-13T09:07:19.9978803Z",
+      "queryTimestamp": "2019-02-13T09:19:26.0801464Z",
+      "fileCount": 1,
+      "fileSize": 46474
+    },
+    {
       "folderName": "campfire-1.12-v1.2.jar",
       "fingerprint": 4089518723,
       "fileDateHash": 4129628189,
@@ -2241,21 +2257,6 @@
       "queryTimestamp": "2019-02-13T04:01:03.9126858Z",
       "fileCount": 1,
       "fileSize": 138574
-    },
-    {
-      "folderName": "Worlds Retold- (v1.0.4) 14.23.5.2784.jar",
-      "fingerprint": 2947430485,
-      "fileDateHash": 1527906979,
-      "sectionID": 6,
-      "individualFingerprints": [
-        2947430485
-      ],
-      "status": 1,
-      "timestamp": "2019-02-13T06:05:57.3858429Z",
-      "lastWriteTimeUtc": "2019-02-13T06:05:43.4106854Z",
-      "queryTimestamp": "2019-02-13T06:05:57.7824439Z",
-      "fileCount": 1,
-      "fileSize": 2148618
     },
     {
       "folderName": "jei_1.12.2-4.14.4.264.jar",
@@ -10249,68 +10250,6 @@
       "dateInstalled": "2019-02-13T06:04:41.473872Z",
       "dateUpdated": "2019-02-13T06:04:41.4748717Z",
       "dateLastUpdateAttempted": "2019-02-13T06:04:41.4748717Z",
-      "status": 4,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
-      "addonID": 309786,
-      "gameInstanceID": "e9a3cc65-c4c1-48b4-a070-1d98cb963654",
-      "installedFile": {
-        "id": 2672336,
-        "fileName": "Worlds Retold- (v1.0.4) 14.23.5.2784.jar",
-        "fileNameOnDisk": "Worlds Retold- (v1.0.4) 14.23.5.2784.jar",
-        "fileDate": "2019-02-12T06:18:51.903",
-        "fileLength": 2148618,
-        "releaseType": 1,
-        "fileStatus": 2,
-        "downloadUrl": "https://files.forgecdn.net/files/2672/336/Worlds Retold- (v1.0.4) 14.23.5.2784.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "folderName": "META-INF",
-            "fimgerprint": 1507912928
-          },
-          {
-            "folderName": "xenoscape",
-            "fimgerprint": 2355740269
-          },
-          {
-            "folderName": "assets",
-            "fimgerprint": 25404135
-          },
-          {
-            "folderName": "mcmod.info",
-            "fimgerprint": 915631597
-          },
-          {
-            "folderName": "pack.mcmeta",
-            "fimgerprint": 1599655858
-          },
-          {
-            "folderName": "update_changelog.json",
-            "fimgerprint": 2828375874
-          }
-        ],
-        "packageFingerprint": 2947430485,
-        "gameVersion": [
-          "1.12.2"
-        ],
-        "installMetadata": null
-      },
-      "dateInstalled": "2019-02-13T06:05:43.4106854Z",
-      "dateUpdated": "2019-02-13T06:05:43.4316188Z",
-      "dateLastUpdateAttempted": "2019-02-13T06:05:43.4316188Z",
       "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
