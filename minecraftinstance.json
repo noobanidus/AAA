@@ -18,7 +18,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2019-02-13T09:03:10.9257566Z",
+  "lastPlayed": "2019-02-13T09:08:19.5895607Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -10535,6 +10535,60 @@
       "dateInstalled": "2019-02-13T08:28:22.7143734Z",
       "dateUpdated": "2019-02-13T08:28:22.7243198Z",
       "dateLastUpdateAttempted": "2019-02-13T08:28:22.7243198Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 313267,
+      "gameInstanceID": "e9a3cc65-c4c1-48b4-a070-1d98cb963654",
+      "installedFile": {
+        "id": 2668970,
+        "fileName": "FlameLib-1.12.2-0.0.7.jar",
+        "fileNameOnDisk": "FlameLib-1.12.2-0.0.7.jar",
+        "fileDate": "2019-02-04T07:12:12.96",
+        "fileLength": 46474,
+        "releaseType": 2,
+        "fileStatus": 2,
+        "downloadUrl": "https://files.forgecdn.net/files/2668/970/FlameLib-1.12.2-0.0.7.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "folderName": "META-INF",
+            "fimgerprint": 4250945255
+          },
+          {
+            "folderName": "cursedflames",
+            "fimgerprint": 3264788154
+          },
+          {
+            "folderName": "mcmod.info",
+            "fimgerprint": 948626244
+          },
+          {
+            "folderName": "pack.mcmeta",
+            "fimgerprint": 730109136
+          }
+        ],
+        "packageFingerprint": 3783844668,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "installMetadata": null
+      },
+      "dateInstalled": "2019-02-13T09:07:19.9978803Z",
+      "dateUpdated": "2019-02-13T09:07:19.9988775Z",
+      "dateLastUpdateAttempted": "2019-02-13T09:07:19.9988775Z",
       "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,

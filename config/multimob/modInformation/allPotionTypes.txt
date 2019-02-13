@@ -35,6 +35,11 @@ minecraft:strong_strength
 minecraft:weakness
 minecraft:long_weakness
 minecraft:luck
+worldsretold:freezing
+worldsretold:long_freezing
+worldsretold:venom
+worldsretold:long_venom
+worldsretold:strong_venom
 quark:haste
 quark:long_haste
 quark:strong_haste

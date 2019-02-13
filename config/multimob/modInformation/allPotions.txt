@@ -34,6 +34,8 @@ rustic:full
 rustic:magic_resistance
 rustic:wither_ward
 rustic:tipsy
+worldsretold:freezing
+worldsretold:venom
 bloodmagic:boost
 bloodmagic:planar_binding
 bloodmagic:soul_snare
@@ -67,6 +69,18 @@ botania:emptiness
 botania:bloodthirst
 botania:allure
 botania:clear
+ebwizardry:frost
+ebwizardry:transience
+ebwizardry:fireskin
+ebwizardry:ice_shroud
+ebwizardry:static_aura
+ebwizardry:decay
+ebwizardry:sixth_sense
+ebwizardry:arcane_jammer
+ebwizardry:mind_trick
+ebwizardry:mind_control
+ebwizardry:font_of_mana
+ebwizardry:fear
 evilcraft:paling
 wizardry:nullify_gravity
 wizardry:steroid
