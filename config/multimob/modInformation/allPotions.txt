@@ -34,8 +34,6 @@ rustic:full
 rustic:magic_resistance
 rustic:wither_ward
 rustic:tipsy
-worldsretold:freezing
-worldsretold:venom
 bloodmagic:boost
 bloodmagic:planar_binding
 bloodmagic:soul_snare

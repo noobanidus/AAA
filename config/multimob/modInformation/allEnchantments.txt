@@ -43,9 +43,6 @@ evilcraft:life_stealing
 evilcraft:poison_tip
 evilcraft:vengeance
 soulshardsrespawn:soul_stealer
-worldsretold:lightning_rod
-worldsretold:icebound_blade
-worldsretold:glacier
 abyssalcraft:coralium
 abyssalcraft:dread
 abyssalcraft:light_pierce
