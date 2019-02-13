@@ -47,3 +47,16 @@ recipes.remove(<extrautils2:ingredients:13>);
 
 // better leads
 recipes.addShaped("extra_lead", <minecraft:lead>*2, [[<ore:string>, <ore:string>, null], [<ore:string>, <ore:itemClay>, null], [null, null, <ore:string>]]);
+
+// mining ring
+recipes.addShapeless(<magnetrings:magnet>, [<thaumcraft:baubles:1>, <minecraft:diamond_pickaxe>, <botania:lens:10>]);
+
+recipes.addShapeless(<magnetrings:magnet:1>, [<thaumcraft:baubles:1>, <minecraft:diamond_sword>, <botania:lens:10>]);
+
+recipes.addShapeless(<magnetrings:magnet:2>, [<thaumcraft:baubles:1>, <vanillatools:tool.bow_diamond>, <botania:lens:10>]);
+
+recipes.addShapeless(<magnetrings:magnet:3>, [<magnetrings:magnet>, <magnetrings:magnet:1>, <magnetrings:magnet:2>]);
+
+// until fix
+recipes.remove(<botania:manasteelshears>);
+recipes.remove(<botania:elementiumshears>);

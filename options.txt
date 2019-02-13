@@ -93,14 +93,6 @@ key_keybind.baublesinventory:49
 key_bloodmagic.keybind.open_holding:0
 key_bloodmagic.keybind.cycle_holding_pos:0
 key_bloodmagic.keybind.cycle_holding_neg:0
-key_quark.keybind.dropoff:0
-key_quark.keybind.changeHotbar:0
-key_quark.keybind.chestSort:0
-key_quark.keybind.chestDropoff:0
-key_quark.keybind.chestMerge:0
-key_quark.keybind.chestRestock:0
-key_quark.keybind.chestExtract:0
-key_quark.keybind.lockBuilding:0
 key_quark.emote.no:0
 key_quark.emote.yes:0
 key_quark.emote.wave:0
@@ -119,6 +111,16 @@ key_quark.emote.dab:0
 key_quark.emote.jet:0
 key_quark.emote.exorcist:0
 key_quark.emote.zombie:0
+key_quark.keybind.lockBuilding:0
+key_quark.keybind.dropoff:0
+key_quark.keybind.changeHotbar:0
+key_quark.keybind.chestSort:0
+key_quark.keybind.chestDropoff:0
+key_quark.keybind.chestMerge:0
+key_quark.keybind.chestRestock:0
+key_quark.keybind.chestExtract:0
+key_key.ebwizardry.next_spell:0
+key_key.ebwizardry.previous_spell:0
 key_key.xu2.searchforitems:20
 key_key.ftbutilities.nbt:0
 key_key.hooked.fire:0
@@ -138,6 +140,9 @@ key_key.jei.bookmark:0
 key_key.jei.toggleBookmarkOverlay:0
 key_key.toggleLiquids:0
 key_key.toggleVisible:0
+key_bs.sprint.toggle:34
+key_bs.sneak.toggle:21
+key_bs.menu:24
 key_nei.options.keys.gui.botania_corporea_request:0
 key_key.modeSwitch:34
 key_key.rangeChange:19
@@ -145,6 +150,7 @@ key_key.undoKey:22
 key_key.anchorKey:35
 key_key.fuzzyKey:0
 key_key.connectedarea:0
+key_key.toggleCleanView:0
 key_key.cofh.multimode:0
 key_Toggle Farting:0
 key_Open Exalted Crafter:0
@@ -169,6 +175,7 @@ key_key.radial_menu:0
 key_key.use_ring:0
 key_key.open_pouch:0
 key_key.connect_caving_rope:0
+key_Armor Ability:45
 key_key.control:0
 key_Profile GUI:0
 soundCategory_master:0.0
