@@ -60,6 +60,7 @@ minecraft:mutated_savanna_rock
 minecraft:mutated_mesa
 minecraft:mutated_mesa_rock
 minecraft:mutated_mesa_clear_rock
+dust:crystal
 thaumcraft:magical_forest
 thaumcraft:eerie
 thaumcraft:eldritch
