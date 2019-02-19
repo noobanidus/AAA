@@ -11,7 +11,7 @@ bobView:true
 anaglyph3d:false
 maxFps:120
 fboEnable:true
-difficulty:2
+difficulty:0
 fancyGraphics:true
 ao:2
 renderClouds:true
@@ -49,7 +49,7 @@ attackIndicator:1
 showSubtitles:true
 realmsNotifications:true
 enableWeakAttacks:false
-autoJump:true
+autoJump:false
 narrator:0
 tutorialStep:none
 key_key.attack:-100
@@ -60,7 +60,7 @@ key_key.back:31
 key_key.right:32
 key_key.jump:57
 key_key.sneak:42
-key_key.sprint:29
+key_key.sprint:0
 key_key.drop:16
 key_key.inventory:18
 key_key.chat:20
@@ -93,6 +93,14 @@ key_keybind.baublesinventory:49
 key_bloodmagic.keybind.open_holding:0
 key_bloodmagic.keybind.cycle_holding_pos:0
 key_bloodmagic.keybind.cycle_holding_neg:0
+key_quark.keybind.dropoff:0
+key_quark.keybind.changeHotbar:0
+key_quark.keybind.chestSort:0
+key_quark.keybind.chestDropoff:0
+key_quark.keybind.chestMerge:0
+key_quark.keybind.chestRestock:0
+key_quark.keybind.chestExtract:0
+key_quark.keybind.lockBuilding:0
 key_quark.emote.no:0
 key_quark.emote.yes:0
 key_quark.emote.wave:0
@@ -111,22 +119,16 @@ key_quark.emote.dab:0
 key_quark.emote.jet:0
 key_quark.emote.exorcist:0
 key_quark.emote.zombie:0
-key_quark.keybind.lockBuilding:0
-key_quark.keybind.dropoff:0
-key_quark.keybind.changeHotbar:0
-key_quark.keybind.chestSort:0
-key_quark.keybind.chestDropoff:0
-key_quark.keybind.chestMerge:0
-key_quark.keybind.chestRestock:0
-key_quark.keybind.chestExtract:0
+key_cos.key.opencosarmorinventory:0
 key_key.ebwizardry.next_spell:0
 key_key.ebwizardry.previous_spell:0
 key_key.xu2.searchforitems:20
 key_key.ftbutilities.nbt:0
 key_key.hooked.fire:0
+key_ingameinfoxml.key.toggle:0
 key_key.moreoverlays.lightoverlay.desc:65
 key_key.moreoverlays.chunkbounds.desc:67
-key_oreexcavation.key.excavate:0
+key_oreexcavation.key.excavate:41
 key_oreexcavation.key.shape:0
 key_key.jei.toggleOverlay:0
 key_key.jei.focusSearch:33:CONTROL
@@ -140,9 +142,9 @@ key_key.jei.bookmark:0
 key_key.jei.toggleBookmarkOverlay:0
 key_key.toggleLiquids:0
 key_key.toggleVisible:0
-key_bs.sprint.toggle:34
-key_bs.sneak.toggle:21
-key_bs.menu:24
+key_bs.sprint.toggle:0
+key_bs.sneak.toggle:0
+key_bs.menu:0
 key_nei.options.keys.gui.botania_corporea_request:0
 key_key.modeSwitch:34
 key_key.rangeChange:19
@@ -150,12 +152,15 @@ key_key.undoKey:22
 key_key.anchorKey:35
 key_key.fuzzyKey:0
 key_key.connectedarea:0
+key_key.carry.desc:0
 key_key.toggleCleanView:0
-key_key.cofh.multimode:0
+key_key.cofh.multimode:47
 key_Toggle Farting:0
 key_Open Exalted Crafter:0
+key_key.categories.naming:79
 key_invtweaks.key.sort:0
 key_xreliquary.keybind.fortune_coin:0
+key_Trade:50
 key_key.craftingGrid:0
 key_gui.xaero_minimap_settings:77
 key_gui.xaero_switch_waypoint_set:0
@@ -175,7 +180,6 @@ key_key.radial_menu:0
 key_key.use_ring:0
 key_key.open_pouch:0
 key_key.connect_caving_rope:0
-key_Armor Ability:45
 key_key.control:0
 key_Profile GUI:0
 soundCategory_master:0.0

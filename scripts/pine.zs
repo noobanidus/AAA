@@ -23,8 +23,8 @@ val Plates = [
     <embers:plate_lead>,
     <embers:plate_silver>,
     <embers:plate_dawnstone>,
-    <embers:plate_iron>,
-    <embers:plate_gold>,
+    <embers:plate_iron> * 2,
+    <embers:plate_gold> * 2,
     <embers:plate_aluminum>,
     <embers:plate_bronze>,
     <embers:plate_electrum>,
@@ -52,7 +52,7 @@ val PlateComponents = [
     <ore:ingotVoid>
 ] as IIngredient[];
 
-recipes.addShaped(BlazeRod, [[BlazePowder,BlazePowder,BlazePowder],[BlazePowder,BlazePowder,BlazePowder],[BlazePowder,BlazePowder,BlazePowder]]);
+recipes.addShapeless(BlazeRod, [BlazePowder,BlazePowder,BlazePowder,BlazePowder,BlazePowder,BlazePowder,BlazePowder,BlazePowder,BlazePowder]);
 
 recipes.addShaped(WarpStone, [[PurpleDye,ManaDiamond,PurpleDye],[ManaDiamond,Emerald,ManaDiamond],[PurpleDye,ManaDiamond,PurpleDye]]);
 
@@ -60,5 +60,5 @@ ManaInfusion.addInfusion(WarpStone, NebulousHeart, 5000);
 
 for i, item in Plates {
     recipes.remove(item);
-    recipes.addShapeless(item, [PlateComponents[i], Hammers.anyDamage().transformDamage(1)]);
+    recipes.addShapeless(item, [PlateComponents[i], PlateComponents[i], Hammers.transformDamage(1)]);
 }

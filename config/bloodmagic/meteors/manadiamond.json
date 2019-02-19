@@ -1,0 +1,28 @@
+{
+  "catalystStack": {
+    "registryName": {
+      "domain": "botania",
+      "path": "manaresource"
+    },
+    "meta": 2
+  },
+  "components": [
+    {
+      "weight": 64,
+      "oreName": "stone"
+    },
+    {
+      "weight": 64,
+      "oreName": "livingrock"
+    },
+    {
+      "weight": 64,
+      "oreName": "livingwood"
+    }
+  ],
+  "explosionStrength": 5.0,
+  "radius": 6,
+  "maxWeight": 192,
+  "version": 3,
+  "cost": 30000
+}

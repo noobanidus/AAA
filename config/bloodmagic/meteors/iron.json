@@ -7,42 +7,86 @@
     "meta": 0
   },
   "components": [
-    {
-      "weight": 400,
-      "oreName": "oreIron"
-    },
-    {
-      "weight": 200,
-      "oreName": "oreCopper"
-    },
-    {
-      "weight": 140,
-      "oreName": "oreTin"
-    },
-    {
-      "weight": 70,
-      "oreName": "oreSilver"
-    },
-    {
-      "weight": 80,
-      "oreName": "oreLead"
-    },
-    {
-      "weight": 30,
-      "oreName": "oreGold"
-    },
-    {
-      "weight": 60,
-      "oreName": "oreLapis"
-    },
-    {
-      "weight": 100,
-      "oreName": "oreRedstone"
-    }
+      { 
+        "weight": 100,
+        "oreName": "oreIron"
+      },
+      {
+        "weight": 32,
+        "oreName": "oreCopper"
+      },
+      {
+        "weight": 23,
+        "oreName": "oreTin"
+      },
+      {
+        "weight": 11,
+        "oreName": "oreSilver"
+      },
+      {
+        "weight": 13,
+        "oreName": "oreLead"
+      },
+      {
+        "weight": 6,
+        "oreName": "oreGold"
+      },
+      {
+        "weight": 14,
+        "oreName": "oreRedstone"
+      },
+      {
+        "weight": 3,
+        "oreName": "oreCoralium"
+      },
+      {
+        "weight": 5,
+        "oreName": "oreSaltpeter"
+      },
+      {
+        "weight": 3,
+        "oreName": "oreDark"
+      },
+      {
+        "weight": 8,
+        "oreName": "oreAluminium"
+      },
+      {
+        "weight": 12,
+        "oreName": "oreQuartzEmbers"
+      },
+      {
+        "weight": 16,
+        "oreName": "oreNickel"
+      },
+      {
+        "weight": 32,
+        "oreName": "oreCoal"
+      },
+      {
+        "weight": 10,
+        "oreName": "oreLapis"
+      },
+      {
+        "weight": 10,
+        "oreName": "oreAquamarine"
+      },
+      {
+        "weight": 5,
+        "oreName": "rockCrystal"
+      },
+      {
+        "weight": 10,
+        "oreName": "bobCrystal"
+      },
+      {
+        "weight": 5,
+        "oreName": "fossilBread"
+      }
   ],
-  "explosionStrength": 15.0,
-  "radius": 5,
-  "maxWeight": 1080,
-  "version": 3,
-  "cost": 1000000
+  "explosionStrength": 5.0,
+  "radius": 4,
+  "maxWeight": 313,
+  "version": 4,
+  "cost": 100000
 }

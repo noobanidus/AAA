@@ -28,16 +28,12 @@ minecraft:luck_of_the_sea
 minecraft:lure
 minecraft:mending
 minecraft:vanishing_curse
-dust:enchantdigger
-dust:enchantstepassist
-dust:enchantflight
-dust:enchantsmelter
-dust:rangeupgrade
 extrautils2:xu.kaboomerang
 extrautils2:xu.zoomerang
 extrautils2:xu.burnerang
 extrautils2:xu.bladerang
 extrautils2:xu.boomereaperang
+arctweaks:manabound
 ebwizardry:magic_sword
 ebwizardry:magic_bow
 ebwizardry:flaming_weapon

@@ -7,42 +7,58 @@
     "meta": 0
   },
   "components": [
-    {
-      "weight": 200,
-      "oreName": "oreIron"
-    },
-    {
-      "weight": 100,
-      "oreName": "oreCopper"
-    },
-    {
-      "weight": 60,
-      "oreName": "oreTin"
-    },
-    {
-      "weight": 100,
-      "oreName": "oreGold"
-    },
-    {
-      "weight": 120,
-      "oreName": "oreLapis"
-    },
-    {
-      "weight": 30,
-      "oreName": "oreDiamond"
-    },
-    {
-      "weight": 20,
-      "oreName": "oreEmerald"
-    },
-    {
-      "weight": 20,
-      "oreName": "oreCoal"
-    }
+      { 
+        "weight": 50,
+        "oreName": "oreIron"
+      },
+      {
+        "weight": 5,
+        "oreName": "oreCopper"
+      },
+      {
+        "weight": 2,
+        "oreName": "oreTin"
+      },
+      {
+        "weight": 20,
+        "oreName": "oreSilver"
+      },
+      {
+        "weight": 5,
+        "oreName": "oreLead"
+      },
+      {
+        "weight": 20,
+        "oreName": "oreGold"
+      },
+      {
+        "weight": 20,
+        "oreName": "oreRedstone"
+      },
+      {
+        "weight": 7,
+        "oreName": "oreDark"
+      },
+      {
+        "weight": 20,
+        "oreName": "oreLapis"
+      },
+      {
+        "weight": 10,
+        "oreName": "rockCrystal"
+      },
+      {
+        "weight": 15,
+        "oreName": "oreEmerald"
+      },
+      {
+        "weight": 25,
+        "oreName": "oreDiamond"
+      }
   ],
-  "explosionStrength": 18.0,
-  "radius": 6,
-  "maxWeight": 650,
-  "version": 4,
-  "cost": 2500000
+  "explosionStrength": 5.0,
+  "radius": 4,
+  "maxWeight": 199,
+  "version": 5,
+  "cost": 250000
 }

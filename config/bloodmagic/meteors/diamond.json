@@ -7,38 +7,46 @@
     "meta": 0
   },
   "components": [
-    {
-      "weight": 50,
-      "oreName": "oreIron"
-    },
-    {
-      "weight": 100,
-      "oreName": "oreGold"
-    },
-    {
-      "weight": 10,
-      "oreName": "oreLapis"
-    },
-    {
-      "weight": 250,
-      "oreName": "oreDiamond"
-    },
-    {
-      "weight": 180,
-      "oreName": "oreEmerald"
-    },
-    {
-      "weight": 50,
-      "oreName": "oreRedstone"
-    },
-    {
-      "weight": 400,
-      "oreName": "oreDiamond"
-    }
+      { 
+        "weight": 16,
+        "oreName": "oreIron"
+      },
+      {
+        "weight": 20,
+        "oreName": "oreSilver"
+      },
+      {
+        "weight": 40,
+        "oreName": "oreGold"
+      },
+      {
+        "weight": 10,
+        "oreName": "oreRedstone"
+      },
+      {
+        "weight": 15,
+        "oreName": "oreDark"
+      },
+      {
+        "weight": 5,
+        "oreName": "oreLapis"
+      },
+      {
+        "weight": 20,
+        "oreName": "rockCrystal"
+      },
+      {
+        "weight": 30,
+        "oreName": "oreEmerald"
+      },
+      {
+        "weight": 40,
+        "oreName": "oreDiamond"
+      }
   ],
-  "explosionStrength": 10.0,
-  "radius": 3,
-  "maxWeight": 1040,
+  "explosionStrength": 5.0,
+  "radius": 4,
+  "maxWeight": 196,
   "version": 4,
-  "cost": 5000000
+  "cost": 500000
 }

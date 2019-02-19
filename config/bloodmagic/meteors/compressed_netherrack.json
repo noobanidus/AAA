@@ -1,0 +1,52 @@
+{
+  "catalystStack": {
+    "registryName": {
+      "domain": "extrautils2",
+      "path": "compressednetherrack"
+    },
+    "meta": 3
+  },
+  "components": [
+    {
+      "weight": 64,
+      "oreName": "netherrack"
+    },
+    {
+      "weight": 64,
+      "oreName": "oreQuartz"
+    },
+    {
+      "weight": 64,
+      "oreName": "soulSand"
+    },
+    {
+      "weight": 64,
+      "oreName": "blockGlowstone"
+    },
+    {
+      "weight": 10,
+      "oreName": "obsidian"
+    },
+    {
+      "weight": 30,
+      "oreName": "blockMagma"
+    },
+    {
+      "weight": 10,
+      "oreName": "blockBasalt"
+    },
+    {
+      "weight": 5,
+      "oreName": "blockNetherWart"
+    },
+    {
+      "weight": 20,
+      "oreName": "netherBrick"
+    }
+  ],
+  "explosionStrength": 5.0,
+  "radius": 6,
+  "maxWeight": 331,
+  "version": 3,
+  "cost": 50000
+}
