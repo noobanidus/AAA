@@ -60,10 +60,6 @@ recipes.addShapeless(<magnetrings:magnet:2>, [<thaumcraft:baubles:1>, <vanillato
 
 recipes.addShapeless(<magnetrings:magnet:3>, [<magnetrings:magnet>, <magnetrings:magnet:1>, <magnetrings:magnet:2>]);
 
-// until fix
-recipes.remove(<botania:manasteelshears>);
-recipes.remove(<botania:elementiumshears>);
-
 // wool
 var shears = <minecraft:shears>.anyDamage().or(<botania:manasteelshears>.anyDamage()).or(<botania:elementiumshears>.anyDamage()).or(<vanillatools:tool.shears_stone>.anyDamage()).or(<vanillatools:tool.shears_diamond>.anyDamage()).or(<vanillatools:tool.shears_gold>.anyDamage()).or(<xreliquary:shears_of_winter>.anyDamage()).or(<thebetweenlands:syrmorite_shears>.anyDamage());
 

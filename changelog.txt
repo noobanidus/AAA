@@ -118,8 +118,6 @@ aquamarine and an aqua vis crystal.
 - You can make 16 sticks out of 2 logs.
 - You can make 16 torches out of 1 stick and 1 glowstone.
 - You can make a lead using a ball of clay instead of slime.
-- ***Botania's manasteel and elementium shears are disabled due to a
-duplication bug***.
 - Wizardry Wisdom Logs can now be converted into charcoal.
 - Using shears and shapeless crafting, it is possible to (lossily) convert
 wool into string.
@@ -177,6 +175,7 @@ increase the overall spawn rate).
 - Carry On
 - Cosmetic Armor: Reworked
 - Disenchanter
+- Gaia Dimension
 - InGame Info XML (client-side, this can be disabled if you don't like it)
 - Inventory Pets (all of the pets are nerfed, but I want to test Arcane
 Archives compatibility)
@@ -188,19 +187,3 @@ Archives compatibility)
 
 Dust was not added due to my lack of experience with it and the considerable
 world generation it impacts.
-
-## Mods Updated (since initial release)
-
-- AbyssalCraft
-- Bookshelf
-- Botania Tweaks
-- Bountiful Baubles
-- Cyclops Core
-- EvilCraft
-- FastWorkbench
-- FTB Utilities
-- Nature's Aura
-- Ore Excavation
-- Reborn Core
-- Reliquary
-- Totemic
