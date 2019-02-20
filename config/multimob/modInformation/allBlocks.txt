@@ -579,11 +579,11 @@ runesofwizardry:lavastone_bricks
 runesofwizardry:dust_dye
 runesofwizardry:dust_placed
 runesofwizardry:dust_fire_storage
-runesofwizardry:dust_plant_storage
-runesofwizardry:dust_aqua_storage
-runesofwizardry:dust_glowstone_storage
-runesofwizardry:dust_inert_storage
 runesofwizardry:dust_ender_storage
+runesofwizardry:dust_inert_storage
+runesofwizardry:dust_glowstone_storage
+runesofwizardry:dust_aqua_storage
+runesofwizardry:dust_plant_storage
 bloodmagic:altar
 bloodmagic:blood_rune
 bloodmagic:ritual_controller

@@ -1,3 +1,6 @@
+import crafttweaker.enchantments.IEnchantmentDefinition;
+import crafttweaker.data.IData;
+
 //recipes.addShaped(<quark:backpack>, [[<ore:leather>, <ore:leather>, <ore:leather>],[<ore:gemEmerald>, <comforts:sleeping_bag:*>, <ore:gemEmerald>], [<ore:leather>, <ore:leather>, <ore:leather>]]);
 
 # Hide this just the wooden one
@@ -88,7 +91,11 @@ mods.botania.RuneAltar.removeRecipe(<botania:rune>*2);
 mods.botania.RuneAltar.addRecipe(<botania:rune>*2, [manasteel, manapowder, aquamarine, aqua_vis, cane], costTierOne);
 
 // Manabound book
-mods.botania.RuneAltar.addRecipe(<minecraft:enchanted_book>.withTag({StoredEnchantments: [{lvl: 1 as short, id: 55 as short}]}), [<botania:manadetector>, <botania:pump>, <minecraft:writable_book>, <thaumcraft:fabric>, <thaumcraft:crystal_essence>.withTag({Aspects: [{amount: 1, key: "praecantatio"}]}), <thaumcraft:scribing_tools>, <arcanearchives:item_rawquartz>, <forge:bucketfilled>.withTag({FluidName: "astralsorcery.liquidstarlight", Amount: 1000})], 500000);
+var enchant = <enchantment:arctweaks:manabound>.makeEnchantment(1).makeTag() as IData;
+
+var manabound_book = <minecraft:enchanted_book>.withTag(enchant);
+
+mods.botania.RuneAltar.addRecipe(manabound_book, [<botania:manadetector>, <botania:pump>, <minecraft:writable_book>, <thaumcraft:fabric>, <thaumcraft:crystal_essence>.withTag({Aspects: [{amount: 1, key: "praecantatio"}]}), <thaumcraft:scribing_tools>, <arcanearchives:item_rawquartz>, <forge:bucketfilled>.withTag({FluidName: "astralsorcery.liquidstarlight", Amount: 1000})], 500000);
 
 // Compressed tools
 c = <extrautils2:compressedcobblestone>;
