@@ -87,6 +87,9 @@ var cane = <ore:sugarcane>;
 mods.botania.RuneAltar.removeRecipe(<botania:rune>*2);
 mods.botania.RuneAltar.addRecipe(<botania:rune>*2, [manasteel, manapowder, aquamarine, aqua_vis, cane], costTierOne);
 
+// Manabound book
+mods.botania.RuneAltar.addRecipe(<minecraft:enchanted_book>.withTag({StoredEnchantments: [{lvl: 1 as short, id: 55 as short}]}), [<botania:manadetector>, <botania:pump>, <minecraft:writable_book>, <thaumcraft:fabric>, <thaumcraft:crystal_essence>.withTag({Aspects: [{amount: 1, key: "praecantatio"}]}), <thaumcraft:scribing_tools>, <arcanearchives:item_rawquartz>, <forge:bucketfilled>.withTag({FluidName: "astralsorcery.liquidstarlight", Amount: 1000})], 500000);
+
 // Compressed tools
 c = <extrautils2:compressedcobblestone>;
 d = <extrautils2:compressedcobblestone:1>;
@@ -178,3 +181,4 @@ t = <arctweaks:compressed_stone_excavator>;
 recipes.addShaped("double_compressed_stone_excavator_1", <arctweaks:double_compressed_stone_excavator>, [[null, d, null], [d, s, d], [null, s, null]]);
 recipes.addShapeless("double_compressed_stone_excavator_2", <arctweaks:double_compressed_stone_excavator>, [t, t, t, t, t, t, t, t, t]);
 
+<embers:tinker_hammer>.maxDamage = 50000;
