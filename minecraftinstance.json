@@ -18,7 +18,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2019-02-20T02:00:29.7197471Z",
+  "lastPlayed": "2019-02-20T03:21:37.7629397Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -3472,21 +3472,6 @@
       "fileSize": 70895
     },
     {
-      "folderName": "gaiadimension-1.12.2-1.0.0.jar",
-      "fingerprint": 1293989614,
-      "fileDateHash": 2275053383,
-      "sectionID": 6,
-      "individualFingerprints": [
-        1293989614
-      ],
-      "status": 1,
-      "timestamp": "2019-02-20T00:03:03.2553544Z",
-      "lastWriteTimeUtc": "2019-02-20T00:02:51.5757414Z",
-      "queryTimestamp": "2019-02-20T00:03:03.8708146Z",
-      "fileCount": 1,
-      "fileSize": 1558274
-    },
-    {
       "folderName": "FastWorkbench-1.12.2-1.6.1.jar",
       "fingerprint": 998288106,
       "fileDateHash": 155940654,
@@ -4539,6 +4524,104 @@
       "queryTimestamp": "2019-02-19T13:13:41.3271469Z",
       "fileCount": 1,
       "fileSize": 2803188
+    },
+    {
+      "folderName": "New World--------",
+      "fingerprint": 1982317045,
+      "fileDateHash": 11705801,
+      "sectionID": 17,
+      "individualFingerprints": [
+        134190753,
+        167132451,
+        184063170,
+        242817635,
+        242817635,
+        242817635,
+        242817635,
+        242817635,
+        242817635,
+        242817635,
+        242817635,
+        242817635,
+        242817635,
+        242817635,
+        242817635,
+        417146593,
+        418801279,
+        489458212,
+        489458212,
+        489458212,
+        489458212,
+        489458212,
+        489458212,
+        489458212,
+        489458212,
+        489458212,
+        489458212,
+        489458212,
+        489458212,
+        502248368,
+        626645513,
+        658057745,
+        758054953,
+        758054953,
+        758054953,
+        758054953,
+        758054953,
+        758054953,
+        758054953,
+        758054953,
+        758054953,
+        758054953,
+        758054953,
+        758054953,
+        758054953,
+        897109400,
+        1001210056,
+        1042622810,
+        1042622810,
+        1042622810,
+        1042622810,
+        1042622810,
+        1042622810,
+        1042622810,
+        1042622810,
+        1042622810,
+        1042622810,
+        1042622810,
+        1042622810,
+        1601763495,
+        1708185223,
+        1909781518,
+        1981211636,
+        2185657021,
+        2190147322,
+        2336574816,
+        2528554095,
+        2582282398,
+        2629106481,
+        2662793393,
+        2730794304,
+        2763463119,
+        2879787384,
+        2966658916,
+        3134755400,
+        3261281570,
+        3384030584,
+        3533626746,
+        3656340581,
+        3958845163,
+        4155105853,
+        4201755845,
+        4213863462,
+        4272588933
+      ],
+      "status": 1,
+      "timestamp": "2019-02-20T02:16:20.9622192Z",
+      "lastWriteTimeUtc": "2019-02-20T02:16:20.6011604Z",
+      "queryTimestamp": "2019-02-20T02:16:21.3068068Z",
+      "fileCount": 25,
+      "fileSize": 0
     },
     {
       "folderName": "CoFHCore-1.12.2-4.6.2.25-universal.jar",
@@ -5920,6 +6003,21 @@
       "queryTimestamp": "2019-02-19T13:19:21.2024435Z",
       "fileCount": 1,
       "fileSize": 432829
+    },
+    {
+      "folderName": "CraftTweaker2-1.12-4.1.14.jar",
+      "fingerprint": 3225469772,
+      "fileDateHash": 2463642954,
+      "sectionID": 6,
+      "individualFingerprints": [
+        3225469772
+      ],
+      "status": 1,
+      "timestamp": "2019-02-20T02:04:29.724694Z",
+      "lastWriteTimeUtc": "2019-02-20T01:58:22.5283026Z",
+      "queryTimestamp": "2019-02-20T02:04:30.3588052Z",
+      "fileCount": 1,
+      "fileSize": 1327552
     },
     {
       "folderName": "JustEnoughResources-1.12.2-0.8.10.50.jar",
@@ -10487,7 +10585,7 @@
     }
   ],
   "isValid": true,
-  "lastPreviousMatchUpdate": "2019-02-20T01:38:48.5562219Z",
+  "lastPreviousMatchUpdate": "2019-02-20T02:09:43.9116763Z",
   "isEnabled": true,
   "isPinned": false,
   "gameVersion": "1.12.2",
@@ -19235,69 +19333,6 @@
       "installedTargets": []
     },
     {
-      "addonID": 302529,
-      "gameInstanceID": "e9a3cc65-c4c1-48b4-a070-1d98cb963654",
-      "installedFile": {
-        "id": 2675254,
-        "fileName": "gaiadimension-1.12.2-1.0.0.jar",
-        "fileNameOnDisk": "gaiadimension-1.12.2-1.0.0.jar",
-        "fileDate": "2019-02-16T12:24:53.573",
-        "fileLength": 1558274,
-        "releaseType": 3,
-        "fileStatus": 2,
-        "downloadUrl": "https://files.forgecdn.net/files/2675/254/gaiadimension-1.12.2-1.0.0.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [
-          {
-            "addonId": 267602,
-            "type": 2
-          }
-        ],
-        "isAvailable": true,
-        "modules": [
-          {
-            "folderName": "META-INF",
-            "fimgerprint": 840112262
-          },
-          {
-            "folderName": "androsa",
-            "fimgerprint": 2480324755
-          },
-          {
-            "folderName": "assets",
-            "fimgerprint": 268377450
-          },
-          {
-            "folderName": "mcmod.info",
-            "fimgerprint": 1495196181
-          },
-          {
-            "folderName": "pack.mcmeta",
-            "fimgerprint": 2533073884
-          }
-        ],
-        "packageFingerprint": 1293989614,
-        "gameVersion": [
-          "1.12.2"
-        ],
-        "installMetadata": null
-      },
-      "dateInstalled": "2019-02-20T00:03:04.5978772Z",
-      "dateUpdated": "2018-02-20T00:03:04.5978772Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": []
-    },
-    {
       "addonID": 239197,
       "gameInstanceID": "e9a3cc65-c4c1-48b4-a070-1d98cb963654",
       "installedFile": {
@@ -19348,6 +19383,69 @@
       "dateInstalled": "2019-02-20T01:58:22.5283026Z",
       "dateUpdated": "2019-02-20T01:58:22.5392733Z",
       "dateLastUpdateAttempted": "2019-02-20T01:58:22.5392733Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 245769,
+      "gameInstanceID": "e9a3cc65-c4c1-48b4-a070-1d98cb963654",
+      "installedFile": {
+        "id": 2543811,
+        "fileName": "DisenchanterMod - 1.6 for 1.12",
+        "fileNameOnDisk": "disenchanter-[1.12]1.6.jar",
+        "fileDate": "2018-03-22T11:01:46.473",
+        "fileLength": 111192,
+        "releaseType": 1,
+        "fileStatus": 2,
+        "downloadUrl": "https://files.forgecdn.net/files/2543/811/disenchanter-[1.12]1.6.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "folderName": "META-INF",
+            "fimgerprint": 1631284581
+          },
+          {
+            "folderName": "de",
+            "fimgerprint": 4185065126
+          },
+          {
+            "folderName": "assets",
+            "fimgerprint": 2319223566
+          },
+          {
+            "folderName": "LICENSE.txt",
+            "fimgerprint": 2616107053
+          },
+          {
+            "folderName": "mcmod.info",
+            "fimgerprint": 3863383634
+          },
+          {
+            "folderName": "pack.mcmeta",
+            "fimgerprint": 3115939604
+          }
+        ],
+        "packageFingerprint": 2800174417,
+        "gameVersion": [
+          "1.12",
+          "1.12.2"
+        ],
+        "installMetadata": null
+      },
+      "dateInstalled": "2019-02-20T03:21:25.5485465Z",
+      "dateUpdated": "2019-02-20T03:21:25.5495443Z",
+      "dateLastUpdateAttempted": "2019-02-20T03:21:25.5495443Z",
       "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
