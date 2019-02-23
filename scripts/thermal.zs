@@ -3,6 +3,7 @@ for ode in oreDict {
 }
 
 recipes.remove(<thermalfoundation:storage_alloy:*>);
+recipes.remove(<thermalfoundation:storage:*>);
 recipes.remove(<thermalfoundation:rockwool:*>);
 furnace.remove(<netherfoundation:ore:*>);
 
