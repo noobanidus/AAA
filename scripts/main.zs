@@ -95,7 +95,7 @@ var enchant = <enchantment:arctweaks:manabound>.makeEnchantment(1).makeTag() as 
 
 var manabound_book = <minecraft:enchanted_book>.withTag(enchant);
 
-mods.botania.RuneAltar.addRecipe(manabound_book, [<botania:manadetector>, <botania:pump>, <minecraft:writable_book>, <thaumcraft:fabric>, <thaumcraft:crystal_essence>.withTag({Aspects: [{amount: 1, key: "praecantatio"}]}), <thaumcraft:scribing_tools>, <arcanearchives:item_rawquartz>, <forge:bucketfilled>.withTag({FluidName: "astralsorcery.liquidstarlight", Amount: 1000})], 500000);
+mods.botania.RuneAltar.addRecipe(manabound_book, [<botania:pump>, <minecraft:writable_book>, <thaumcraft:crystal_essence>.withTag({Aspects: [{amount: 1, key: "praecantatio"}]}), <arcanearchives:storage_raw_quartz>, <botania:rune:8>, <botania:specialflower>.withTag({type: "manastar"})], 100000);
 
 // Compressed tools
 c = <extrautils2:compressedcobblestone>;
