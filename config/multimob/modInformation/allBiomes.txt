@@ -88,16 +88,6 @@ traverse:thicket
 traverse:arid_highland
 traverse:rocky_plains
 wizardry:wizardry_underworld
-midnight:vigilant_forest
-midnight:black_ridge
-midnight:deceitful_bog
-midnight:fungi_forest
-midnight:obscured_peaks
-midnight:warped_fields
-midnight:crystal_spires
-midnight:night_plains
-midnight:obscured_plateau
-midnight:phantasmal_valley
 abyssalcraft:darklands
 abyssalcraft:darklands_forest
 abyssalcraft:darklands_plains

@@ -96,7 +96,6 @@ xreliquary:pacification_potion
 xreliquary:cure_potion
 totemic:bat
 totemic:spider
-midnight:stunned
 abyssalcraft:cplague
 abyssalcraft:dplague
 abyssalcraft:antimatter
