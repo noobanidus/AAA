@@ -14,7 +14,7 @@ treasure_pool.addItemEntry(<botania:manaresource:17>, 1, 0, "manasteel nugget");
 treasure_pool.addItemEntry(<thaumcraft:nugget:8>, 1, 0, "brass nugget");
 treasure_pool.addItemEntry(<melongolem:melonstick>, 1, 0, "melonstick");
 
-var junk_table = LootTables.getTable("minecraft:gameplayer/fishing/junk");
+var junk_table = LootTables.getTable("minecraft:gameplay/fishing/junk");
 
 var junk_pool = junk_table.getPool("main");
 
