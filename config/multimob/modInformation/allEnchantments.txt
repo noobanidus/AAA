@@ -39,8 +39,6 @@ ebwizardry:magic_sword
 ebwizardry:magic_bow
 ebwizardry:flaming_weapon
 ebwizardry:freezing_weapon
-endercore:xpboost
-endercore:autosmelt
 evilcraft:unusing
 evilcraft:breaking
 evilcraft:life_stealing
