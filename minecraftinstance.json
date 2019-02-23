@@ -20164,6 +20164,58 @@
       "preferenceReleaseType": null,
       "manifestName": null,
       "installedTargets": []
+    },
+    {
+      "addonID": 226035,
+      "gameInstanceID": "e9a3cc65-c4c1-48b4-a070-1d98cb963654",
+      "installedFile": {
+        "id": 2432422,
+        "fileName": "NoNausea-MC1.12-1.0.jar",
+        "fileNameOnDisk": "NoNausea-MC1.12-1.0.jar",
+        "fileDate": "2017-06-11T17:14:55.273",
+        "fileLength": 9679,
+        "releaseType": 1,
+        "fileStatus": 1,
+        "downloadUrl": "https://files.forgecdn.net/files/2432/422/NoNausea-MC1.12-1.0.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "folderName": "META-INF",
+            "fimgerprint": 4256763839
+          },
+          {
+            "folderName": "lumien",
+            "fimgerprint": 560949004
+          },
+          {
+            "folderName": "mcmod.info",
+            "fimgerprint": 2007764536
+          }
+        ],
+        "packageFingerprint": 2197328098,
+        "gameVersion": [
+          "1.12",
+          "1.12.1",
+          "1.12.2"
+        ],
+        "installMetadata": null
+      },
+      "dateInstalled": "2019-02-23T06:52:18.1122635Z",
+      "dateUpdated": "2019-02-23T06:52:18.1132586Z",
+      "dateLastUpdateAttempted": "2019-02-23T06:52:18.1132586Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
     }
   ],
   "isMigrated": false,
