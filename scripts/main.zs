@@ -93,7 +93,7 @@ mods.botania.RuneAltar.addRecipe(<botania:rune>*2, [manasteel, manapowder, aquam
 // Manabound book
 var enchant = <enchantment:arctweaks:manabound>.makeEnchantment(1).makeTag() as IData;
 
-var manabound_book = <minecraft:enchanted_book>.withTag(enchant);
+var manabound_book = <minecraft:enchanted_book>.withTag({StoredEnchantments: [{lvl: 1 as short, id: 55 as short}]});
 
 mods.botania.RuneAltar.addRecipe(manabound_book, [<botania:pump>, <minecraft:writable_book>, <thaumcraft:crystal_essence>.withTag({Aspects: [{amount: 1, key: "praecantatio"}]}), <arcanearchives:storage_raw_quartz>, <botania:rune:8>, <botania:specialflower>.withTag({type: "manastar"})], 100000);
 
@@ -189,3 +189,7 @@ recipes.addShaped("double_compressed_stone_excavator_1", <arctweaks:double_compr
 recipes.addShapeless("double_compressed_stone_excavator_2", <arctweaks:double_compressed_stone_excavator>, [t, t, t, t, t, t, t, t, t]);
 
 <embers:tinker_hammer>.maxDamage = 50000;
+
+recipes.addShaped(<bountifulbaubles:ringflywheel>, [[<ore:nuggetIron>, <ore:ingotCopper>, <ore:nuggetIron>],[<ore:ingotCopper>, <evilcraft:potentia_sphere>, <ore:ingotCopper>], [<ore:nuggetIron>, <ore:ingotCopper>, <ore:nuggetIron>]]);
+
+recipes.addShaped(<bountifulbaubles:ringflywheeladvanced>, [[null, <evilcraft:inverted_potentia>, null], [<evilcraft:inverted_potentia>, <bountifulbaubles:ringflywheel>, <evilcraft:inverted_potentia>], [null, <botania:enderhand>, null]]);

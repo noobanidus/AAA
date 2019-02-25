@@ -1,6 +1,6 @@
 import mods.botania.ManaInfusion;
 
-recipes.addShapeless(<minecraft:nether_wart>*9, [<minecraft:nether_wart_block>]);
+recipes.addShapeless(<minecraft:nether_wart>*4, [<minecraft:nether_wart_block>]);
 
 recipes.addShapeless(<minecraft:sugar>, [<betternether:agave>]);
 recipes.remove(<botania:grassseeds:6>);
