@@ -194,5 +194,5 @@ recipes.addShaped(<bountifulbaubles:ringflywheel>, [[<ore:nuggetIron>, <ore:ingo
 
 recipes.addShaped(<bountifulbaubles:ringflywheeladvanced>, [[null, <evilcraft:inverted_potentia>, null], [<evilcraft:inverted_potentia>, <bountifulbaubles:ringflywheel>, <evilcraft:inverted_potentia>], [null, <botania:enderhand>, null]]);
 
-recipes.addShapeless(<thamucraft:nugget:8>*9, [<thaumcraft:ingot:2]);
+recipes.addShapeless(<thaumcraft:nugget:8>*9, [<thaumcraft:ingot:2>]);
 recipes.addShapeless(<thaumcraft:ingot:2>, [<thaumcraft:nugget:8>, <thaumcraft:nugget:8>, <thaumcraft:nugget:8>, <thaumcraft:nugget:8>, <thaumcraft:nugget:8>, <thaumcraft:nugget:8>, <thaumcraft:nugget:8>, <thaumcraft:nugget:8>, <thaumcraft:nugget:8>]);
