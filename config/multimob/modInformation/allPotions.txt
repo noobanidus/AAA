@@ -96,6 +96,12 @@ xreliquary:pacification_potion
 xreliquary:cure_potion
 totemic:bat
 totemic:spider
+twilightforest:frosted
+midnight:stunned
+midnight:pollinated
+midnight:dragon_guard
+midnight:darkness
+midnight:tormented
 abyssalcraft:cplague
 abyssalcraft:dplague
 abyssalcraft:antimatter
