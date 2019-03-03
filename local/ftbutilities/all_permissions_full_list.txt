@@ -1,4 +1,4 @@
-13969 nodes in total
+13989 nodes in total
 Modifying this file won't have any effect, edit ranks.txt!
 
 admin_panel.ftbutilities.crash_reports.delete: OP
@@ -2795,6 +2795,9 @@ ftbutilities.claims.block.edit.quark.vertical_planks: OP
 ftbutilities.claims.block.edit.quark.vertical_stained_planks: OP
 ftbutilities.claims.block.edit.quark.world_stone_bricks: OP
 ftbutilities.claims.block.edit.quark.world_stone_pavement: OP
+ftbutilities.claims.block.edit.realfilingcabinet.aspectcabinet: OP
+ftbutilities.claims.block.edit.realfilingcabinet.manacabinet: OP
+ftbutilities.claims.block.edit.realfilingcabinet.modelcabinet: OP
 ftbutilities.claims.block.edit.roots.bonfire: OP
 ftbutilities.claims.block.edit.roots.imbuer: OP
 ftbutilities.claims.block.edit.roots.incense_burner: OP
@@ -3102,7 +3105,6 @@ ftbutilities.claims.block.edit.stone_ladder.diorite_gold_ladder: OP
 ftbutilities.claims.block.edit.stone_ladder.diorite_iron_ladder: OP
 ftbutilities.claims.block.edit.stone_ladder.granite_gold_ladder: OP
 ftbutilities.claims.block.edit.stone_ladder.granite_iron_ladder: OP
-ftbutilities.claims.block.edit.storagecabinet.storagecabinet: OP
 ftbutilities.claims.block.edit.stygian.endacid: OP
 ftbutilities.claims.block.edit.stygian.endcactus: OP
 ftbutilities.claims.block.edit.stygian.endcanopysapling: OP
@@ -6720,6 +6722,9 @@ ftbutilities.claims.block.interact.quark.vertical_planks: OP
 ftbutilities.claims.block.interact.quark.vertical_stained_planks: OP
 ftbutilities.claims.block.interact.quark.world_stone_bricks: OP
 ftbutilities.claims.block.interact.quark.world_stone_pavement: OP
+ftbutilities.claims.block.interact.realfilingcabinet.aspectcabinet: OP
+ftbutilities.claims.block.interact.realfilingcabinet.manacabinet: OP
+ftbutilities.claims.block.interact.realfilingcabinet.modelcabinet: OP
 ftbutilities.claims.block.interact.roots.bonfire: OP
 ftbutilities.claims.block.interact.roots.imbuer: OP
 ftbutilities.claims.block.interact.roots.incense_burner: OP
@@ -7027,7 +7032,6 @@ ftbutilities.claims.block.interact.stone_ladder.diorite_gold_ladder: OP
 ftbutilities.claims.block.interact.stone_ladder.diorite_iron_ladder: OP
 ftbutilities.claims.block.interact.stone_ladder.granite_gold_ladder: OP
 ftbutilities.claims.block.interact.stone_ladder.granite_iron_ladder: OP
-ftbutilities.claims.block.interact.storagecabinet.storagecabinet: OP
 ftbutilities.claims.block.interact.stygian.endacid: OP
 ftbutilities.claims.block.interact.stygian.endcactus: OP
 ftbutilities.claims.block.interact.stygian.endcanopysapling: OP
@@ -11889,6 +11893,23 @@ ftbutilities.claims.item.quark.vertical_stained_planks: ALL
 ftbutilities.claims.item.quark.witch_hat: ALL
 ftbutilities.claims.item.quark.world_stone_bricks: ALL
 ftbutilities.claims.item.quark.world_stone_pavement: ALL
+ftbutilities.claims.item.realfilingcabinet.aspectcabinet: ALL
+ftbutilities.claims.item.realfilingcabinet.debugger: ALL
+ftbutilities.claims.item.realfilingcabinet.dyedfolder: ALL
+ftbutilities.claims.item.realfilingcabinet.emptydyedfolder: ALL
+ftbutilities.claims.item.realfilingcabinet.emptyfolder: ALL
+ftbutilities.claims.item.realfilingcabinet.filter: ALL
+ftbutilities.claims.item.realfilingcabinet.folder: ALL
+ftbutilities.claims.item.realfilingcabinet.folder_aspect: ALL
+ftbutilities.claims.item.realfilingcabinet.folder_mana: ALL
+ftbutilities.claims.item.realfilingcabinet.key: ALL
+ftbutilities.claims.item.realfilingcabinet.magnifyingglass: ALL
+ftbutilities.claims.item.realfilingcabinet.manacabinet: ALL
+ftbutilities.claims.item.realfilingcabinet.modelcabinet: ALL
+ftbutilities.claims.item.realfilingcabinet.mysteryfolder: ALL
+ftbutilities.claims.item.realfilingcabinet.suitcase: ALL
+ftbutilities.claims.item.realfilingcabinet.upgrade: ALL
+ftbutilities.claims.item.realfilingcabinet.whiteouttape: ALL
 ftbutilities.claims.item.roots.bonfire: ALL
 ftbutilities.claims.item.roots.diamond_knife: ALL
 ftbutilities.claims.item.roots.gold_knife: ALL
@@ -12328,7 +12349,6 @@ ftbutilities.claims.item.stone_ladder.diorite_gold_ladder: ALL
 ftbutilities.claims.item.stone_ladder.diorite_iron_ladder: ALL
 ftbutilities.claims.item.stone_ladder.granite_gold_ladder: ALL
 ftbutilities.claims.item.stone_ladder.granite_iron_ladder: ALL
-ftbutilities.claims.item.storagecabinet.storagecabinet: ALL
 ftbutilities.claims.item.stygian.endacid: ALL
 ftbutilities.claims.item.stygian.endcactus: ALL
 ftbutilities.claims.item.stygian.endcanopysapling: ALL
@@ -14134,6 +14154,7 @@ command.particle
 command.playsound
 command.publish
 command.quark.quarkconfig
+command.realfilingcabinet./rfc
 command.reborncore.rc_dumpmods
 command.reborncore.rc_listrecipes
 command.recipe
