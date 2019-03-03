@@ -20,9 +20,4 @@ recipes.addShaped(<betternether:cincinnasite_frame>, [[<betternether:cincinnasit
 
 recipes.addShapeless(<betternether:nether_mycelium>, [<ore:mycelium>, <ore:netherrack>]);
 
-//mods.thaumcraft.Infusion.registerRecipe(String name, String research, IItemStack output, int instability, CTAspectStack[] aspects, IIngredient centralItem, IIngredient[] recipe);
-mods.thaumcraft.Infusion.registerRecipe("wart_seed", "BOTTLETAINT@1", <betternether:wart_seed>, 1, [<aspect:ignis>*64, <aspect:vitium>*64, <aspect:herba>*64], <minecraft:nether_wart_block>, [<botania:grassseeds:6>, <minecraft:gold_block>, <minecraft:gold_block>, <minecraft:gold_block>, <bloodmagic:component:8>]);
-
-recipes.addShaped(<betternether:cincinnasite_forge>, [[<ore:blockCincinnasite>, <thaumcraft:smelter_basic>, <ore:blockCincinnasite>], [<betternether:nether_brick_tile_large>, <betternether:cincinnasite_carved>, <betternether:nether_brick_tile_large>], [<ore:blockCincinnasite>, <bloodmagic:soul_forge>, <ore:blockCincinnasite>]]);
-
 recipes.addShaped(<betternether:pig_statue_01>, [[<betternether:cincinnasite_pedestal>, <ore:itemSkull>, <betternether:cincinnasite_pedestal>], [<ore:blockCincinnasite>, <betternether:cincinnasite_fire_bowl>, <ore:blockCincinnasite>], [<betternether:cincinnasite_pedestal>, <ore:itemSkull>, <betternether:cincinnasite_pedestal>]]);
