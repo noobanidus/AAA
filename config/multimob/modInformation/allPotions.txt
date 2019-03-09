@@ -25,7 +25,6 @@ minecraft:glowing
 minecraft:levitation
 minecraft:luck
 minecraft:unluck
-naturesaura:breathless
 rustic:ironskin
 rustic:feather
 rustic:blazing_trail
@@ -34,6 +33,7 @@ rustic:full
 rustic:magic_resistance
 rustic:wither_ward
 rustic:tipsy
+naturesaura:breathless
 bloodmagic:boost
 bloodmagic:planar_binding
 bloodmagic:soul_snare
