@@ -55,11 +55,11 @@ recipes.remove(<extrautils2:ingredients:13>);
 recipes.addShaped("extra_lead", <minecraft:lead>*2, [[<ore:string>, <ore:string>, null], [<ore:string>, <minecraft:clay_ball>, null], [null, null, <ore:string>]]);
 
 // mining ring
-recipes.addShapeless(<magnetrings:magnet>, [<thaumcraft:baubles:1>, <minecraft:diamond_pickaxe>, <botania:lens:10>]);
+recipes.addShaped(<magnetrings:magnet>, [[<minecraft:diamond_pickaxe>, <ore:ingotIron>, null], [<ore:ingotIron>, <ore:blockGold>, <ore:ingotIron>], [null, <ore:ingotIron>, <minecraft:compass>]]);
 
-recipes.addShapeless(<magnetrings:magnet:1>, [<thaumcraft:baubles:1>, <minecraft:diamond_sword>, <botania:lens:10>]);
+recipes.addShapeless(<magnetrings:magnet:1>, [[<minecraft:diamond_pickaxe>, <ore:ingotIron>, null], [<ore:ingotIron>, <ore:blockGold>, <ore:ingotIron>], [null, <ore:ingotIron>, <minecraft:compass>]]);
 
-recipes.addShapeless(<magnetrings:magnet:2>, [<thaumcraft:baubles:1>, <vanillatools:tool.bow_diamond>, <botania:lens:10>]);
+recipes.addShapeless(<magnetrings:magnet:2>, [[<vanillatools:tool.bow_diamond>, <ore:ingotIron>, null], [<ore:ingotIron>, <ore:blockGold>, <ore:ingotIron>], [null, <ore:ingotIron>, <minecraft:compass>]]);
 
 recipes.addShapeless(<magnetrings:magnet:3>, [<magnetrings:magnet>, <magnetrings:magnet:1>, <magnetrings:magnet:2>]);
 
