@@ -1,7 +1,3 @@
-for ode in oreDict {
-        ode.remove(loadedMods["thermalfoundation"].items);
-}
-
 recipes.remove(<thermalfoundation:storage_alloy:*>);
 recipes.remove(<thermalfoundation:storage:*>);
 recipes.remove(<thermalfoundation:rockwool:*>);
@@ -20,3 +16,9 @@ furnace.addRecipe(<netherfoundation:ore:9>, <embers:ore_lead>*2);
 furnace.addRecipe(<netherfoundation:ore:10>, <embers:ore_aluminum>*2);
 furnace.addRecipe(<netherfoundation:ore:11>, <embers:ore_nickel>*2);
 furnace.addRecipe(<netherfoundation:ore:15>, <minecraft:emerald_ore>*2);
+
+var ores = oreDict;
+
+for ode in oreDict { //["1", "2", "3"] {
+    ode.remove(loadedMods["thermalfoundation"].items);
+}

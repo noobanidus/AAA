@@ -46,13 +46,6 @@ quark:long_resistance
 quark:strong_resistance
 quark:danger_sight
 quark:long_danger_sight
-enderio:confusion
-enderio:long_confusion
-enderio:withering
-enderio:long_withering
-enderio:floating
-enderio:strong_floating
-enderio:long_floating
 abyssalcraft:cplague
 abyssalcraft:cplague_long
 abyssalcraft:dplague

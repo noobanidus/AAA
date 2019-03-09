@@ -17,8 +17,9 @@ Hammers.add(<vanillatools:tool.hammer_iron:*>);
 Hammers.add(<vanillatools:tool.hammer_diamond:*>);
 Hammers.add(<vanillatools:tool.hammer_gold:*>);
 Hammers.add(<embers:tinker_hammer:*>);
-Hammers.add(<arctweaks:compressed_stone_hammer:*>);
-Hammers.add(<arctweaks:double_compressed_stone_hammer:*>);
+Hammers.add(<compham:stone_hammer:*>);
+Hammers.add(<compham:compressed_hammer:*>);
+Hammers.add(<compham:double_hammer:*>);
 
 val Plates = [
     <embers:plate_copper>,

@@ -41,11 +41,6 @@ ebwizardry:flaming_weapon
 ebwizardry:freezing_weapon
 endercore:autosmelt
 endercore:xpboost
-enderio:shimmer
-enderio:repellent
-enderio:soulbound
-enderio:witherarrow
-enderio:witherweapon
 evilcraft:unusing
 evilcraft:breaking
 evilcraft:life_stealing
