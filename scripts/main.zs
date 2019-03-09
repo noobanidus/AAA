@@ -105,3 +105,12 @@ recipes.addShaped(<bountifulbaubles:ringflywheeladvanced>, [[null, <evilcraft:in
 
 recipes.addShapeless(<thaumcraft:nugget:8>*9, [<thaumcraft:ingot:2>]);
 recipes.addShapeless(<thaumcraft:ingot:2>, [<thaumcraft:nugget:8>, <thaumcraft:nugget:8>, <thaumcraft:nugget:8>, <thaumcraft:nugget:8>, <thaumcraft:nugget:8>, <thaumcraft:nugget:8>, <thaumcraft:nugget:8>, <thaumcraft:nugget:8>, <thaumcraft:nugget:8>]);
+
+
+recipes.addShapeless(<embers:ingot_copper>, [<embers:nugget_copper>, <embers:nugget_copper>, <embers:nugget_copper>, <embers:nugget_copper>, <embers:nugget_copper>, <embers:nugget_copper>, <embers:nugget_copper>, <embers:nugget_copper>, <embers:nugget_copper>]);
+recipes.addShapeless(<embers:ingot_silver>, [<embers:nugget_silver>, <embers:nugget_silver>, <embers:nugget_silver>, <embers:nugget_silver>, <embers:nugget_silver>, <embers:nugget_silver>, <embers:nugget_silver>, <embers:nugget_silver>, <embers:nugget_silver>]);
+
+
+recipes.addShapeless(<embers:block_copper>, [<embers:ingot_copper>, <embers:ingot_copper>, <embers:ingot_copper>, <embers:ingot_copper>, <embers:ingot_copper>, <embers:ingot_copper>, <embers:ingot_copper>, <embers:ingot_copper>, <embers:ingot_copper>]);
+recipes.addShapeless(<embers:block_silver>, [<embers:ingot_silver>, <embers:ingot_silver>, <embers:ingot_silver>, <embers:ingot_silver>, <embers:ingot_silver>, <embers:ingot_silver>, <embers:ingot_silver>, <embers:ingot_silver>, <embers:ingot_silver>]);
+
