@@ -18,7 +18,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2019-03-09T23:15:52.6868975Z",
+  "lastPlayed": "2019-03-10T06:13:24.3487472Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -892,21 +892,6 @@
       "fileSize": 72485
     },
     {
-      "folderName": "Roots-1.12.2-3.0.0-4.jar",
-      "fingerprint": 1328452486,
-      "fileDateHash": 959188954,
-      "sectionID": 6,
-      "individualFingerprints": [
-        1328452486
-      ],
-      "status": 1,
-      "timestamp": "2019-03-09T23:22:05.9669128Z",
-      "lastWriteTimeUtc": "2019-03-09T23:22:05.3465718Z",
-      "queryTimestamp": "2019-03-09T23:22:06.4077331Z",
-      "fileCount": 1,
-      "fileSize": 723860
-    },
-    {
       "folderName": "Rustic Thaumaturgy-4.3.jar",
       "fingerprint": 2433411624,
       "fileDateHash": 1655625623,
@@ -920,6 +905,21 @@
       "queryTimestamp": "2019-03-09T23:03:28.2842485Z",
       "fileCount": 1,
       "fileSize": 596203
+    },
+    {
+      "folderName": "Roots-1.12.2-3.0.0-4.jar",
+      "fingerprint": 1328452486,
+      "fileDateHash": 959188954,
+      "sectionID": 6,
+      "individualFingerprints": [
+        1328452486
+      ],
+      "status": 1,
+      "timestamp": "2019-03-09T23:22:05.9669128Z",
+      "lastWriteTimeUtc": "2019-03-09T23:22:05.3465718Z",
+      "queryTimestamp": "2019-03-09T23:22:06.4077331Z",
+      "fileCount": 1,
+      "fileSize": 723860
     },
     {
       "folderName": "LagGoggles-FORGE-1.12.2-4.1.jar",
@@ -10756,6 +10756,21 @@
       "queryTimestamp": "2019-03-09T23:03:28.3042173Z",
       "fileCount": 1,
       "fileSize": 10342
+    },
+    {
+      "folderName": "EquipmentTooltips-1.12.2-1.0.3-4.jar",
+      "fingerprint": 888762558,
+      "fileDateHash": 1044439108,
+      "sectionID": 6,
+      "individualFingerprints": [
+        888762558
+      ],
+      "status": 1,
+      "timestamp": "2019-03-10T00:57:15.4244039Z",
+      "lastWriteTimeUtc": "2019-03-10T00:45:40.055738Z",
+      "queryTimestamp": "2019-03-10T00:57:15.845278Z",
+      "fileCount": 1,
+      "fileSize": 23533
     },
     {
       "folderName": "Waystones_1.12.2-4.0.67.jar",
@@ -25375,6 +25390,60 @@
       "preferenceReleaseType": null,
       "manifestName": null,
       "installedTargets": null
+    },
+    {
+      "addonID": 293973,
+      "gameInstanceID": "a899c549-4a73-4237-9864-5e3aeca8e362",
+      "installedFile": {
+        "id": 2563651,
+        "fileName": "EquipmentTooltips-1.12.2-1.0.3-4.jar",
+        "fileNameOnDisk": "EquipmentTooltips-1.12.2-1.0.3-4.jar",
+        "fileDate": "2018-05-20T16:43:39.243",
+        "fileLength": 23533,
+        "releaseType": 1,
+        "fileStatus": 2,
+        "downloadUrl": "https://files.forgecdn.net/files/2563/651/EquipmentTooltips-1.12.2-1.0.3-4.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "folderName": "META-INF",
+            "fimgerprint": 683081655
+          },
+          {
+            "folderName": "net",
+            "fimgerprint": 3790726463
+          },
+          {
+            "folderName": "assets",
+            "fimgerprint": 2942497682
+          },
+          {
+            "folderName": "mcmod.info",
+            "fimgerprint": 3108349190
+          }
+        ],
+        "packageFingerprint": 888762558,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "installMetadata": null
+      },
+      "dateInstalled": "2019-03-10T00:45:40.0567356Z",
+      "dateUpdated": "2019-03-10T00:45:40.0597266Z",
+      "dateLastUpdateAttempted": "2019-03-10T00:45:40.0597266Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
     }
   ],
   "isMigrated": false,
