@@ -11,7 +11,7 @@ bobView:true
 anaglyph3d:false
 maxFps:120
 fboEnable:true
-difficulty:2
+difficulty:1
 fancyGraphics:true
 ao:2
 renderClouds:true
@@ -73,7 +73,7 @@ key_key.smoothCamera:0
 key_key.fullscreen:87
 key_key.spectatorOutlines:0
 key_key.swapHands:33
-key_key.saveToolbarActivator:46
+key_key.saveToolbarActivator:0
 key_key.loadToolbarActivator:45
 key_key.advancements:0
 key_key.hotbar.1:2
@@ -141,14 +141,14 @@ key_enderio.keybind.fovminusfast:0
 key_key.xu2.searchforitems:20
 key_key.ftbutilities.nbt:0
 key_key.ftbutilities.trash:211
-key_key.hooked.fire:0
+key_key.hooked.fire:46
 key_ingameinfoxml.key.toggle:0
 key_key.moreoverlays.lightoverlay.desc:65
 key_key.moreoverlays.chunkbounds.desc:67
 key_oreexcavation.key.excavate:0
 key_oreexcavation.key.shape:0
 key_key.toastcontrol.clear:71
-key_key.narrator:48:CONTROL
+key_key.narrator:0
 key_key.jei.toggleOverlay:0
 key_key.jei.focusSearch:33:CONTROL
 key_key.jei.toggleCheatMode:0
@@ -201,8 +201,8 @@ key_key.open_pouch:0
 key_key.connect_caving_rope:0
 key_key.control:0
 key_Profile GUI:0
-soundCategory_master:0.0
-soundCategory_music:0.09859155
+soundCategory_master:0.4834437
+soundCategory_music:0.20422535
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0
