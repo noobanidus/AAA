@@ -47,7 +47,7 @@
     <dimensionExclude name="Dungeon"/>
   </entry>
 
-  <entry id="EnderMiny" mobName="enderiozoo:enderminy" rate="30">
+  <entry id="EnderMiny" mobName="enderiozoo:enderminy" rate="10">
     <biomeFilter type="any" />
   </entry>
 
