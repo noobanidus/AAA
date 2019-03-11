@@ -9,7 +9,7 @@ var treasure_table = LootTables.getTable("minecraft:gameplay/fishing/treasure");
 
 var treasure_pool = treasure_table.getPool("main");
 
-treasure_pool.addItemEntry(<thaumcraft:curio:5>, 15, 0, "curio");
+treasure_pool.addItemEntry(<thaumcraft:curio:5>, 15, 0, "fishing_curio");
 
 var junk_table = LootTables.getTable("minecraft:gameplay/fishing/junk");
 

@@ -21,7 +21,7 @@ iron_pool.addEmptyEntry(15, 1, "iron_weight");
 
 var ember = LootTables.getTable("embers:entity/ancient_golem");
 
-var ember_pool = iron.addPool("curio", 0, 1, 0, 0);
+var ember_pool = ember.addPool("curio", 0, 1, 0, 0);
 ember_pool.addItemEntry(<thaumcraft:curio:2>, 5, "ember_curio");
 ember_pool.addEmptyEntry(15, 1, "ember_weight");
 
