@@ -4,6 +4,8 @@ import loottweaker.vanilla.loot.LootPool;
 import loottweaker.vanilla.loot.Functions;
 import loottweaker.vanilla.loot.Conditions;
 import loottweaker.vanilla.loot.LootCondition;
+import crafttweaker.event.BlockHarvestDropsEvent;
+import crafttweaker.block.IBlockDefinition;
 
 var snowman = LootTables.getTable("minecraft:entities/snowman");
 
@@ -11,23 +13,18 @@ var snowman_pool = snowman.addPool("curio", 0, 1, 0, 0);
 snowman_pool.addItemEntry(<thaumcraft:curio:2>, 5, "snowman_curio");
 snowman_pool.addEmptyEntry(15, 1, "snowman_weight");
 
-var embers = LootTables.getTable("embers:entities/ancient_golem");
-
-var embers_pool = embers.addPool("curio", 0, 1, 0, 0);
-embers_pool.addItemEntry(<thaumcraft:curio:2>, 5, "embers_curio");
-embers_pool.addEmptyEntry(15, 1, "embers_weight");
-
-var melon = LootTables.getTable("melongolem:melon_golem");
-
-var melon_pool = melon.addPool("curio", 0, 1, 0, 0);
-melon_pool.addItemEntry(<thaumcraft:curio:2>, 5, "melon_curio");
-melon_pool.addEmptyEntry(15, 1, "melon_weight");
-
-var iron = LootTables.getTable("minecraft:entities/villager_golem");
+var iron = LootTables.getTable("minecraft:entities/iron_golem");
 
 var iron_pool = iron.addPool("curio", 0, 1, 0, 0);
 iron_pool.addItemEntry(<thaumcraft:curio:2>, 5, "iron_curio");
 iron_pool.addEmptyEntry(15, 1, "iron_weight");
+
+var ember = LootTables.getTable("embers:entity/ancient_golem");
+
+var ember_pool = iron.addPool("curio", 0, 1, 0, 0);
+ember_pool.addItemEntry(<thaumcraft:curio:2>, 5, "ember_curio");
+ember_pool.addEmptyEntry(15, 1, "ember_weight");
+
 
 var carminite = LootTables.getTable("twilightforest:entities/tower_golem");
 
@@ -60,3 +57,12 @@ wizard_pool.addEmptyEntry(20, 1, "wizard_weight");
 mods.bloodmagic.AlchemyArray.addRecipe(<minecraft:coal_block>, <minecraft:diamond>, <thaumcraft:curio>);
 
 recipes.addShapeless(<thaumcraft:curio:4>, [<minecraft:experience_bottle>, <minecraft:experience_bottle>, <minecraft:experience_bottle>, <minecraft:experience_bottle>, <ore:book>]);
+
+
+/*var ender_lily = <extrautils2:enderlilly>.asBlock().definition as IBlockDefinition;
+
+events.onBlockBreak(function(event as BlockHarvestDropsEvent) {
+    if (event.world.random.nextInt(4) == 0 && event.block.definition == ender_lily && event.block.meta == 7) {
+        event.drops += <thaumcraft:curio:3>;
+    }
+});*/
