@@ -22,4 +22,5 @@ junk_pool.addItemEntry(<minecraft:slime_ball>, 3, 0, "slime");
 junk_pool.addItemEntry(<minecraft:reeds>, 5, 0, "reeds");
 junk_pool.addItemEntry(<adventurepack:escape_rope>, 1, 0, "rope");
 junk_pool.addItemEntry(<minecraft:lead>, 1, 0, "lead");
+junk_pool.addItemEntry(<thaumcraft:curio:5>, 9, 0, "curio");
 
