@@ -22,3 +22,9 @@ var ores = oreDict;
 for ode in oreDict { //["1", "2", "3"] {
     ode.remove(loadedMods["thermalfoundation"].items);
 }
+
+recipes.addShapeless(<embers:ingot_copper>, [<thermalfoundation:material:128>]);
+recipes.addShapeless(<embers:ingot_tin>, [<thermalfoundation:material:129>]);
+recipes.addShapeless(<embers:ingot_silver>, [<thermalfoundation:material:130>]);
+recipes.addShapeless(<embers:ingot_lead>, [<thermalfoundation:material:131>]);
+
