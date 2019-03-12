@@ -113,4 +113,3 @@ recipes.addShapeless(<embers:ingot_silver>, [<embers:nugget_silver>, <embers:nug
 
 recipes.addShapeless(<embers:block_copper>, [<embers:ingot_copper>, <embers:ingot_copper>, <embers:ingot_copper>, <embers:ingot_copper>, <embers:ingot_copper>, <embers:ingot_copper>, <embers:ingot_copper>, <embers:ingot_copper>, <embers:ingot_copper>]);
 recipes.addShapeless(<embers:block_silver>, [<embers:ingot_silver>, <embers:ingot_silver>, <embers:ingot_silver>, <embers:ingot_silver>, <embers:ingot_silver>, <embers:ingot_silver>, <embers:ingot_silver>, <embers:ingot_silver>, <embers:ingot_silver>]);
-

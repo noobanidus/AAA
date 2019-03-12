@@ -1,4 +1,4 @@
-for item in loadedMods["thermalfoundation"].items {
+for item in loadedMods["extendedcrafting"].items {
     recipes.remove(item);
 }
 

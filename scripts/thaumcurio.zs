@@ -19,13 +19,6 @@ var iron_pool = iron.addPool("curio", 0, 1, 0, 0);
 iron_pool.addItemEntry(<thaumcraft:curio:2>, 5, "iron_curio");
 iron_pool.addEmptyEntry(15, 1, "iron_weight");
 
-var ember = LootTables.getTable("embers:entity/ancient_golem");
-
-var ember_pool = ember.addPool("curio", 0, 1, 0, 0);
-ember_pool.addItemEntry(<thaumcraft:curio:2>, 5, "ember_curio");
-ember_pool.addEmptyEntry(15, 1, "ember_weight");
-
-
 var carminite = LootTables.getTable("twilightforest:entities/tower_golem");
 
 var carminite_pool = carminite.addPool("curio", 0, 1, 0, 0);
@@ -57,12 +50,3 @@ wizard_pool.addEmptyEntry(20, 1, "wizard_weight");
 mods.bloodmagic.AlchemyArray.addRecipe(<minecraft:coal_block>, <minecraft:diamond>, <thaumcraft:curio>);
 
 recipes.addShapeless(<thaumcraft:curio:4>, [<minecraft:experience_bottle>, <minecraft:experience_bottle>, <minecraft:experience_bottle>, <minecraft:experience_bottle>, <ore:book>]);
-
-
-/*var ender_lily = <extrautils2:enderlilly>.asBlock().definition as IBlockDefinition;
-
-events.onBlockBreak(function(event as BlockHarvestDropsEvent) {
-    if (event.world.random.nextInt(4) == 0 && event.block.definition == ender_lily && event.block.meta == 7) {
-        event.drops += <thaumcraft:curio:3>;
-    }
-});*/
