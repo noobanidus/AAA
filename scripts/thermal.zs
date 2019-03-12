@@ -28,3 +28,7 @@ recipes.addShapeless(<embers:ingot_tin>, [<thermalfoundation:material:129>]);
 recipes.addShapeless(<embers:ingot_silver>, [<thermalfoundation:material:130>]);
 recipes.addShapeless(<embers:ingot_lead>, [<thermalfoundation:material:131>]);
 
+<ore:ingotCopper>.add(<thermalfoundation:material:128>);
+<ore:ingotTin>.add(<thermalfoundation:material:129>);
+<ore:ingotSilver>.add(<thermalfoundation:material:130>);
+<ore:ingotLead>.add(<thermalfoundation:material:131>);
