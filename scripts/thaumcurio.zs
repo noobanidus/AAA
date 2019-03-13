@@ -50,3 +50,10 @@ wizard_pool.addEmptyEntry(20, 1, "wizard_weight");
 mods.bloodmagic.AlchemyArray.addRecipe(<minecraft:coal_block>, <minecraft:diamond>, <thaumcraft:curio>);
 
 recipes.addShapeless(<thaumcraft:curio:4>, [<minecraft:experience_bottle>, <minecraft:experience_bottle>, <minecraft:experience_bottle>, <minecraft:experience_bottle>, <ore:book>]);
+
+recipes.addShapeless(<thaumcraft:curio:1>, [<thaumcraft:curio:0>]);
+recipes.addShapeless(<thaumcraft:curio:2>, [<thaumcraft:curio:1>]);
+recipes.addShapeless(<thaumcraft:curio:3>, [<thaumcraft:curio:2>]);
+recipes.addShapeless(<thaumcraft:curio:4>, [<thaumcraft:curio:3>]);
+recipes.addShapeless(<thaumcraft:curio:5>, [<thaumcraft:curio:4>]);
+recipes.addShapeless(<thaumcraft:curio:0>, [<thaumcraft:curio:5>]);
