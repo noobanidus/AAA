@@ -119,3 +119,5 @@ recipes.addShapeless(<embers:block_silver>, [<embers:ingot_silver>, <embers:ingo
 recipes.addShapeless(<xreliquary:mob_ingredient:11>, [<extrautils2:enderlilly>]);
 
 recipes.addShapeless(<minecraft:book>, [<ebwizardry:spell_book:*>]);
+
+<ore:book>.add(<ebwizardry:spell_book:*>);
