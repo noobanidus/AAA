@@ -5,6 +5,7 @@ import crafttweaker.data.IData;
 
 # Hide this just the wooden one
 recipes.remove(<hooked:hook>);
+recipes.remove(<hooked:hook:4>);
 
 # Hide these
 recipes.remove(<chargers:wireless_charger>);
@@ -91,7 +92,7 @@ mods.botania.RuneAltar.removeRecipe(<botania:rune>*2);
 mods.botania.RuneAltar.addRecipe(<botania:rune>*2, [manasteel, manapowder, aquamarine, aqua_vis, cane], costTierOne);
 
 // Manabound book
-var enchant = <enchantment:arctweaks:manabound>.makeEnchantment(1).makeTag() as IData;
+var enchant = <enchantment:variegated:manabound>.makeEnchantment(1).makeTag() as IData;
 
 var manabound_book = <minecraft:enchanted_book>.withTag({StoredEnchantments: [{lvl: 1 as short, id: 55 as short}]});
 
@@ -121,3 +122,19 @@ recipes.addShapeless(<xreliquary:mob_ingredient:11>, [<extrautils2:enderlilly>])
 recipes.addShapeless(<minecraft:book>, [<ebwizardry:spell_book:*>]);
 
 <ore:book>.add(<ebwizardry:spell_book:*>);
+
+recipes.remove(<locks:lock_pick>);
+recipes.addShaped(<locks:lock_pick>*4, [[null, <ore:stickWood>], [<compham:stone_rod>, null]]);
+
+recipes.remove(<botania:virus>);
+recipes.remove(<botania:virus:1>);
+
+recipes.addShapeless(<botania:virus>, [<ore:manaDiamond>, <botania:vineball>, <minecraft:magma_cream>, <minecraft:fermented_spider_eye>, <minecraft:ender_eye>, <minecraft:skull:2>]);
+recipes.addShapeless(<botania:virus:1>, [<ore:manaDiamond>, <botania:vineball>, <minecraft:magma_cream>, <minecraft:fermented_spider_eye>, <minecraft:ender_eye>, <minecraft:skull:0>]);
+
+recipes.remove(<hooked:hook:1>);
+recipes.remove(<hooked:hook:2>);
+
+recipes.addShaped(<hooked:hook:1>, [[<ore:blockIron>, <ore:blockIron>, <minecraft:iron_pickaxe>], [null, <hooked:microcrafting:3>, <ore:blockIron>], [<hooked:microcrafting:3>, null, <ore:blockIron>]]);
+recipes.addShaped(<hooked:hook:2>, [[<ore:blockDiamond>, <ore:blockDiamond>, <hooked:hook:1>], [null, <ore:blockDiamond>, <ore:blockDiamond>], [<ore:blockDiamond>, null, <ore:blockDiamond>]]);
+

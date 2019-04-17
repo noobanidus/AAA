@@ -36,10 +36,6 @@
         "oreName": "oreRedstone"
       },
       {
-        "weight": 3,
-        "oreName": "oreCoralium"
-      },
-      {
         "weight": 5,
         "oreName": "oreSaltpeter"
       },
@@ -78,10 +74,6 @@
       {
         "weight": 10,
         "oreName": "bobCrystal"
-      },
-      {
-        "weight": 5,
-        "oreName": "fossilBread"
       }
   ],
   "explosionStrength": 5.0,

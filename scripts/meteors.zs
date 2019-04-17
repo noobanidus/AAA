@@ -22,9 +22,6 @@ oreRockCrystal.add(<astralsorcery:blockcustomore>);
 var oreCrystal = <ore:bobCrystal>;
 oreCrystal.add(<ebwizardry:crystal_ore>);
 
-var oreBread = <ore:fossilBread>;
-oreBread.add(<fossilfood:breadstone_ore>);
-
 var oreNetherBrick = <ore:netherBrick>;
 oreNetherBrick.add(<minecraft:nether_brick>);
 
