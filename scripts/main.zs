@@ -138,3 +138,14 @@ recipes.remove(<hooked:hook:2>);
 recipes.addShaped(<hooked:hook:1>, [[<ore:blockIron>, <ore:blockIron>, <minecraft:iron_pickaxe>], [null, <hooked:microcrafting:3>, <ore:blockIron>], [<hooked:microcrafting:3>, null, <ore:blockIron>]]);
 recipes.addShaped(<hooked:hook:2>, [[<ore:blockDiamond>, <ore:blockDiamond>, <hooked:hook:1>], [null, <ore:blockDiamond>, <ore:blockDiamond>], [<ore:blockDiamond>, null, <ore:blockDiamond>]]);
 
+recipes.removeByRecipeName("ropebridge:string");
+
+recipes.addShapeless(<minecraft:flint>, [<minecraft:gravel>, <minecraft:gravel>, <minecraft:gravel>]);
+
+recipes.addShapeless(<minecraft:slime_ball>, [<minecraft:egg>, <minecraft:egg>, <minecraft:egg>, <minecraft:egg>, <minecraft:egg>, <minecraft:egg>, <minecraft:egg>, <minecraft:egg>, <minecraft:egg>]);
+
+recipes.removeByRecipeName("betternether:sugar");
+
+mods.bloodmagic.AlchemyArray.addRecipe(<bloodmagic:sigil_whirlwind>, <bloodmagic:component:2>, <bloodmagic:slate:2>);
+
+recipes.removeByRecipeName("bountifulbaubles:ringflywheel");

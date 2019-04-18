@@ -14,3 +14,5 @@ ZenScroll.add(<darkutils:filter:7>, <darkutils:filter_inverted:7>);
 ZenScroll.add(<darkutils:filter>, <darkutils:filter_inverted>);
 ZenScroll.add(<darkutils:filter_inverted:3>, <darkutils:filter:3>);
 
+
+ZenScroll.add(<minecraft:stone:*>);
