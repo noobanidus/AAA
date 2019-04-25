@@ -28,7 +28,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2019-04-25T11:05:27.0625411Z",
+  "lastPlayed": "2019-04-25T11:15:01.828093Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -8459,14 +8459,14 @@
       "addonID": 278155,
       "gameInstanceID": "ff3ced55-c98d-489a-a35f-c52ef4f29ef0",
       "installedFile": {
-        "id": 2701807,
-        "displayName": "wizardry-0.10.0.jar",
-        "fileName": "wizardry-0.10.0.jar",
-        "fileDate": "2019-04-21T05:07:28.317Z",
-        "fileLength": 9758346,
+        "id": 2656202,
+        "displayName": "wizardry-0.9.9.jar",
+        "fileName": "wizardry-0.9.9.jar",
+        "fileDate": "2019-01-04T19:16:28.307Z",
+        "fileLength": 9555514,
         "releaseType": 2,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2701/807/wizardry-0.10.0.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2656/202/wizardry-0.9.9.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
@@ -8474,6 +8474,12 @@
             "id": 0,
             "addonId": 227083,
             "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 252910,
+            "type": 3,
             "fileId": 0
           },
           {
@@ -8487,43 +8493,37 @@
             "addonId": 267602,
             "type": 2,
             "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 252910,
-            "type": 3,
-            "fileId": 0
           }
         ],
         "isAvailable": true,
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 3935419088,
+            "fingerprint": 310524247,
             "type": 0
           },
           {
             "foldername": "com",
-            "fingerprint": 1789410413,
+            "fingerprint": 1476535386,
             "type": 0
           },
           {
             "foldername": "assets",
-            "fingerprint": 984977402,
+            "fingerprint": 1492468945,
             "type": 0
           },
           {
             "foldername": "mcmod.info",
-            "fingerprint": 3217686759,
+            "fingerprint": 441919948,
             "type": 0
           },
           {
             "foldername": "pack.mcmeta",
-            "fingerprint": 206608366,
+            "fingerprint": 502341037,
             "type": 0
           }
         ],
-        "packageFingerprint": 1261515094,
+        "packageFingerprint": 1463920672,
         "gameVersion": [
           "1.12.2"
         ],
@@ -8534,12 +8534,12 @@
         "projectStatus": 0,
         "projectId": 0,
         "gameId": 0,
-        "FileNameOnDisk": "wizardry-0.10.0.jar"
+        "FileNameOnDisk": "wizardry-0.9.9.jar"
       },
       "dateInstalled": "2019-04-15T09:16:03.1814915Z",
-      "dateUpdated": "2019-04-23T04:19:21.4512902Z",
-      "dateLastUpdateAttempted": "2019-04-25T11:03:29.5215056Z",
-      "status": 5,
+      "dateUpdated": "2019-04-25T11:13:43.9267773Z",
+      "dateLastUpdateAttempted": "2019-04-25T11:13:43.9267773Z",
+      "status": 3,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
