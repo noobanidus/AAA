@@ -52,8 +52,6 @@ variegated:boon
 variegated:boon2
 variegated:boon3
 variegated:boon4
-charm:decay
-charm:ender_sight
 extrautils2:xu2.doom
 extrautils2:xu2.gravity
 extrautils2:xu2.gravity.long

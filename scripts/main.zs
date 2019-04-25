@@ -149,3 +149,7 @@ recipes.removeByRecipeName("betternether:sugar");
 mods.bloodmagic.AlchemyArray.addRecipe(<bloodmagic:sigil_whirlwind>, <bloodmagic:component:2>, <bloodmagic:slate:2>);
 
 recipes.removeByRecipeName("bountifulbaubles:ringflywheel");
+
+furnace.addRecipe(<minecraft:diamond_horse_armor>, <translocators:diamond_nugget>);
+
+<ore:stickWood>.add(<simplytea:tea_stick>);

@@ -90,6 +90,7 @@ wizardry:crash
 wizardry:vanish
 wizardry:zach_corruption
 wizardry:suffocate
+wizardry:bouncing
 wizardry:grace
 mowziesmobs:suns_blessing
 mowziesmobs:geomancy
@@ -107,19 +108,8 @@ astralsorcery:potionspellplague
 astralsorcery:potiondropmodifier
 astralsorcery:potiontimefreeze
 bountifulbaubles:sinful
-charm:decay
-charm:ender_sight
 simplytea:caffeinated
 simplytea:restful
-soot:ale
-soot:tipsy
-soot:stoutness
-soot:inner_fire
-soot:fire_lung
-soot:steadfast
-soot:lifedrinker
-soot:snowpoff
-soot:inspiration
 wards:effect_protection
 wards:effect_fire_protection
 wards:effect_feather_falling

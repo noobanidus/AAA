@@ -47,8 +47,6 @@ soulshardsrespawn:soul_stealer
 variegated:manabound
 astralsorcery:enchantment.as.nightvision
 astralsorcery:enchantment.as.smelting
-charm:homing
-charm:salvage
 cofhcore:holding
 cofhcore:insight
 cofhcore:leech
