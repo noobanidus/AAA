@@ -1,6 +1,25 @@
 {
 	"dependencies": "netherendingores",
 	"populate": {
+		"end-aluminum": {
+			"distribution": "uniform",
+			"generator": {
+				"block": "netherendingores:ore_end_modded_1",
+				"material": "minecraft:end_stone",
+				"cluster-size": 4
+			},
+			"cluster-count": 2,
+			"min-height": 10,
+			"max-height": 55,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					1
+				]
+			}
+		},
 		"end-copper": {
 			"distribution": "uniform",
 			"generator": {
@@ -12,6 +31,50 @@
 				"cluster-size": 6
 			},
 			"cluster-count": 5,
+			"min-height": 10,
+			"max-height": 55,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					1
+				]
+			}
+		},
+		"end-lead": {
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+					"name": "netherendingores:ore_end_modded_1",
+					"metadata": 3
+				},
+				"material": "minecraft:end_stone",
+				"cluster-size": 4
+			},
+			"cluster-count": 4,
+			"min-height": 10,
+			"max-height": 55,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					1
+				]
+			}
+		},
+		"end-nickel": {
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+					"name": "netherendingores:ore_end_modded_1",
+					"metadata": 5
+				},
+				"material": "minecraft:end_stone",
+				"cluster-size": 4
+			},
+			"cluster-count": 3,
 			"min-height": 10,
 			"max-height": 55,
 			"retrogen": "true",
@@ -44,6 +107,28 @@
 					1
 				]
 			}
+		},
+		"end-tin": {
+			"distribution": "uniform",
+			"generator": {
+				"block": {
+					"name": "netherendingores:ore_end_modded_1",
+					"metadata": 8
+				},
+				"material": "minecraft:end_stone",
+				"cluster-size": 6
+			},
+			"cluster-count": 5,
+			"min-height": 10,
+			"max-height": 55,
+			"retrogen": "true",
+			"biome": "all",
+			"dimension": {
+				"restriction": "whitelist",
+				"value": [
+					1
+				]
+			}
 		}
-    }
+	}
 }

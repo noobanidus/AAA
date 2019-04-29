@@ -90,7 +90,6 @@ wizardry:crash
 wizardry:vanish
 wizardry:zach_corruption
 wizardry:suffocate
-wizardry:bouncing
 wizardry:grace
 mowziesmobs:suns_blessing
 mowziesmobs:geomancy
