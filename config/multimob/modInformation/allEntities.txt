@@ -133,6 +133,8 @@ astralsorcery:entityliquidspark
 astralsorcery:entityobservatoryhelper
 astralsorcery:entityshootingstar
 astralsorcery:entityitemdamageresistant
+quark:chest_passenger
+quark:totem_of_holding
 quark:arrow_ender
 quark:arrow_explosive
 quark:arrow_torch
@@ -144,12 +146,10 @@ quark:archeologist
 quark:wraith
 quark:dweller
 quark:ashen
-quark:chest_passenger
-quark:seat
 quark:flat_item_frame
 quark:colored_item_frame
 quark:glass_item_frame
-quark:totem_of_holding
+quark:seat
 betternether:firefly
 botania:mana_burst
 botania:signal_flare

@@ -11,7 +11,7 @@ bobView:true
 anaglyph3d:false
 maxFps:120
 fboEnable:true
-difficulty:2
+difficulty:1
 fancyGraphics:true
 ao:2
 renderClouds:false
@@ -49,7 +49,7 @@ attackIndicator:1
 showSubtitles:true
 realmsNotifications:true
 enableWeakAttacks:false
-autoJump:true
+autoJump:false
 narrator:0
 tutorialStep:none
 key_key.attack:-100
@@ -92,7 +92,6 @@ key_bloodmagic.keybind.open_holding:0
 key_bloodmagic.keybind.cycle_holding_pos:0
 key_bloodmagic.keybind.cycle_holding_neg:0
 key_arcanearchives.gui.keybinds.manifest:34
-key_quark.keybind.lockBuilding:0
 key_quark.keybind.dropoff:0
 key_quark.keybind.changeHotbar:0
 key_quark.keybind.chestSort:0
@@ -100,6 +99,7 @@ key_quark.keybind.chestDropoff:0
 key_quark.keybind.chestMerge:0
 key_quark.keybind.chestRestock:0
 key_quark.keybind.chestExtract:0
+key_quark.keybind.lockBuilding:0
 key_quark.emote.no:0
 key_quark.emote.yes:0
 key_quark.emote.wave:0
@@ -128,13 +128,13 @@ key_key.ftbutilities.nbt:0
 key_key.ftbutilities.trash:211
 key_roots.keybinds.pouch:0
 key_roots.keybinds.quiver:0
-key_roots.keybinds.spell_slot_4:0
-key_roots.keybinds.spell_slot_previous:0
-key_roots.keybinds.spell_slot_3:0
-key_roots.keybinds.spell_slot_5:0
-key_roots.keybinds.spell_slot_next:0
-key_roots.keybinds.spell_slot_2:0
 key_roots.keybinds.spell_slot_1:0
+key_roots.keybinds.spell_slot_3:0
+key_roots.keybinds.spell_slot_2:0
+key_roots.keybinds.spell_slot_5:0
+key_roots.keybinds.spell_slot_4:0
+key_roots.keybinds.spell_slot_next:0
+key_roots.keybinds.spell_slot_previous:0
 key_key.hooked.fire:46
 key_ingameinfoxml.key.toggle:0
 key_lootdrop.create_chest:0
@@ -206,7 +206,7 @@ key_key.toolbelt.cycle.left:0
 key_key.toolbelt.cycle.right:0
 key_Trade:0
 key_key.craftingGrid:0
-key_variegated.keybinds..offhand:0
+key_variegated.keybinds.offhand:0
 key_gui.xaero_minimap_settings:77
 key_gui.xaero_switch_waypoint_set:0
 key_gui.xaero_instant_waypoint:78
