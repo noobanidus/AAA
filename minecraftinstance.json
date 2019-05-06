@@ -28,7 +28,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2019-05-06T09:15:37.218461Z",
+  "lastPlayed": "2019-05-06T11:14:14.3909727Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -2238,6 +2238,21 @@
       "queryTimestamp": "2019-05-06T03:55:11.8842484Z",
       "fileCount": 1,
       "fileSize": 1112158
+    },
+    {
+      "folderName": "FTBUtilities-5.4.0.96.jar",
+      "fingerprint": 242921872,
+      "fileDateHash": 3141136303,
+      "sectionID": 8,
+      "individualFingerprints": [
+        242921872
+      ],
+      "status": 1,
+      "timestamp": "2019-05-06T11:13:02.7650506Z",
+      "lastWriteTimeUtc": "2019-05-06T09:15:25.7452047Z",
+      "queryTimestamp": "2019-05-06T11:13:04.8823275Z",
+      "fileCount": 1,
+      "fileSize": 422864
     },
     {
       "folderName": "extrautils2-1.12-1.9.9.jar",
@@ -5196,6 +5211,21 @@
       "fileSize": 25532
     },
     {
+      "folderName": "arcanearchives-0.2.0-preview13-hotfix.jar",
+      "fingerprint": 4250919334,
+      "fileDateHash": 3359290900,
+      "sectionID": 8,
+      "individualFingerprints": [
+        4250919334
+      ],
+      "status": 1,
+      "timestamp": "2019-05-06T11:13:02.751087Z",
+      "lastWriteTimeUtc": "2019-05-06T11:11:51.131906Z",
+      "queryTimestamp": "2019-05-06T11:13:04.9127542Z",
+      "fileCount": 1,
+      "fileSize": 3334691
+    },
+    {
       "folderName": "wards-1.2.jar",
       "fingerprint": 1778738108,
       "fileDateHash": 1447543749,
@@ -7739,6 +7769,21 @@
       "fileSize": 0
     },
     {
+      "folderName": "FTBUtilitiesBackups-1.0.0.3.jar",
+      "fingerprint": 3235427596,
+      "fileDateHash": 1059588988,
+      "sectionID": 8,
+      "individualFingerprints": [
+        3235427596
+      ],
+      "status": 1,
+      "timestamp": "2019-05-06T11:13:02.7810074Z",
+      "lastWriteTimeUtc": "2019-05-06T09:15:25.2198371Z",
+      "queryTimestamp": "2019-05-06T11:13:04.9287118Z",
+      "fileCount": 1,
+      "fileSize": 41822
+    },
+    {
       "folderName": "badwithernocookiereloaded-1.12.2-3.3.16.jar",
       "fingerprint": 154371963,
       "fileDateHash": 1468317495,
@@ -7992,7 +8037,7 @@
     }
   ],
   "isValid": true,
-  "lastPreviousMatchUpdate": "2019-05-06T07:25:22.1439194Z",
+  "lastPreviousMatchUpdate": "2019-05-06T11:13:06.5641326Z",
   "isEnabled": true,
   "isPinned": false,
   "gameVersion": "1.12.2",
