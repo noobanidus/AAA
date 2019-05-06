@@ -150,6 +150,15 @@ mods.bloodmagic.AlchemyArray.addRecipe(<bloodmagic:sigil_whirlwind>, <bloodmagic
 
 recipes.removeByRecipeName("bountifulbaubles:ringflywheel");
 
-furnace.addRecipe(<minecraft:diamond_horse_armor>, <translocators:diamond_nugget>);
+furnace.addRecipe(<translocators:diamond_nugget>, <minecraft:diamond_horse_armor>);
 
 <ore:stickWood>.add(<simplytea:tea_stick>);
+
+recipes.remove(<wards:ward>);
+
+recipes.addShaped(<wards:ward>, [[null, <minecraft:stone_slab>, null], [<minecraft:emerald>, <minecraft:stone>, <minecraft:emerald>], [<minecraft:stone_slab>, <minecraft:stone>, <minecraft:stone_slab>]]);
+
+recipes.remove(<minecraft:enchanting_table>);
+
+recipes.addShaped(<minecraft:enchanting_table>, [[null, <minecraft:book>, null], [<minecraft:emerald>, <minecraft:stonebrick>, <minecraft:emerald>], [<minecraft:stonebrick>, <minecraft:stonebrick>, <minecraft:stonebrick>]]);
+

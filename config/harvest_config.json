@@ -29,6 +29,24 @@
         "blockName": "minecraft:nether_wart",
         "meta": 3
       }
+    },
+    {
+      "initialBlock": {
+        "blockName": "rusticthaumaturgy:cindermote_crop",
+        "meta": 7
+      }
+    },
+    {
+      "initialBlock": {
+        "blockName": "rusticthaumaturgy:shimmerpetal_crop",
+        "meta": 7
+      }
+    },
+    {
+      "initialBlock": {
+        "blockName": "rusticthaumaturgy:viscap_crop",
+        "meta": 7
+      }
     }
   ],
   "exhaustionPerHarvest": 0.005,
