@@ -162,3 +162,4 @@ recipes.remove(<minecraft:enchanting_table>);
 
 recipes.addShaped(<minecraft:enchanting_table>, [[null, <minecraft:book>, null], [<minecraft:emerald>, <minecraft:stonebrick>, <minecraft:emerald>], [<minecraft:stonebrick>, <minecraft:stonebrick>, <minecraft:stonebrick>]]);
 
+recipes.addShapeless(<minecraft:magma_cream>*4, [<minecraft:magma>]);
