@@ -109,6 +109,8 @@ traverse:desert_shrubland
 traverse:thicket
 traverse:arid_highland
 traverse:rocky_plains
+wizardry:wizardry_torikkisea
+wizardry:wizardry_torikki
 wizardry:wizardry_underworld
 dimdoors:limbo
 dimdoors:white_void

@@ -1,4 +1,4 @@
-12680 nodes in total
+12682 nodes in total
 Modifying this file won't have any effect, edit ranks.txt!
 
 admin_panel.ftbutilities.crash_reports.delete: OP
@@ -3623,7 +3623,6 @@ ftbutilities.claims.block.edit.wizardry.nacre_block_brick: OP
 ftbutilities.claims.block.edit.wizardry.nacre_fluid: OP
 ftbutilities.claims.block.edit.wizardry.pearl_holder: OP
 ftbutilities.claims.block.edit.wizardry.torikki_grass: OP
-ftbutilities.claims.block.edit.wizardry.unicorn_trail: OP
 ftbutilities.claims.block.edit.wizardry.wisdom_leaves: OP
 ftbutilities.claims.block.edit.wizardry.wisdom_sapling: OP
 ftbutilities.claims.block.edit.wizardry.wisdom_wood_door: OP
@@ -7249,7 +7248,6 @@ ftbutilities.claims.block.interact.wizardry.nacre_block_brick: OP
 ftbutilities.claims.block.interact.wizardry.nacre_fluid: OP
 ftbutilities.claims.block.interact.wizardry.pearl_holder: OP
 ftbutilities.claims.block.interact.wizardry.torikki_grass: OP
-ftbutilities.claims.block.interact.wizardry.unicorn_trail: OP
 ftbutilities.claims.block.interact.wizardry.wisdom_leaves: OP
 ftbutilities.claims.block.interact.wizardry.wisdom_sapling: OP
 ftbutilities.claims.block.interact.wizardry.wisdom_wood_door: ALL
@@ -7633,6 +7631,7 @@ ftbutilities.claims.item.arcanearchives.item_mountaintear: ALL
 ftbutilities.claims.item.arcanearchives.item_radiantbucket: ALL
 ftbutilities.claims.item.arcanearchives.item_rawquartz: ALL
 ftbutilities.claims.item.arcanearchives.item_rivertear: ALL
+ftbutilities.claims.item.arcanearchives.item_sceptermanipulation: ALL
 ftbutilities.claims.item.arcanearchives.item_scepterrevelation: ALL
 ftbutilities.claims.item.arcanearchives.item_tomeofarcana: ALL
 ftbutilities.claims.item.arcanearchives.monitoring_crystal: ALL
@@ -10738,6 +10737,7 @@ ftbutilities.claims.item.nifty.valonite_fence_gate: ALL
 ftbutilities.claims.item.nifty.valonite_slab: ALL
 ftbutilities.claims.item.nifty.valonite_stairs: ALL
 ftbutilities.claims.item.nifty.valonite_trapdoor: ALL
+ftbutilities.claims.item.nvg.goggles: ALL
 ftbutilities.claims.item.openglider.hang_glider_advanced: ALL
 ftbutilities.claims.item.openglider.hang_glider_basic: ALL
 ftbutilities.claims.item.openglider.hang_glider_part: ALL
@@ -12581,6 +12581,7 @@ ftbutilities.claims.item.wizardry.halo_fake: ALL
 ftbutilities.claims.item.wizardry.halo_infuser: ALL
 ftbutilities.claims.item.wizardry.halo_real: ALL
 ftbutilities.claims.item.wizardry.jar_block: ALL
+ftbutilities.claims.item.wizardry.jar_item: ALL
 ftbutilities.claims.item.wizardry.magic_wand: ALL
 ftbutilities.claims.item.wizardry.magicians_worktable: ALL
 ftbutilities.claims.item.wizardry.mana_battery: ALL
@@ -12589,6 +12590,7 @@ ftbutilities.claims.item.wizardry.nacre_block: ALL
 ftbutilities.claims.item.wizardry.nacre_block_brick: ALL
 ftbutilities.claims.item.wizardry.nacre_pearl: ALL
 ftbutilities.claims.item.wizardry.orb: ALL
+ftbutilities.claims.item.wizardry.pearl_belt: ALL
 ftbutilities.claims.item.wizardry.pearl_holder: ALL
 ftbutilities.claims.item.wizardry.ring: ALL
 ftbutilities.claims.item.wizardry.sky_dust: ALL
