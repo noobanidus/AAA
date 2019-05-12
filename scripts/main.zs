@@ -56,11 +56,11 @@ recipes.remove(<extrautils2:ingredients:13>);
 recipes.addShaped("extra_lead", <minecraft:lead>*2, [[<ore:string>, <ore:string>, null], [<ore:string>, <minecraft:clay_ball>, null], [null, null, <ore:string>]]);
 
 // mining ring
-recipes.remove(<magnetrings:magnet>);
-recipes.remove(<magnetrings:magnet:1>);
-recipes.remove(<magnetrings:magnet:2>);
-recipes.remove(<magnetrings:magnet:3>);
-recipes.remove(<magnetrings:magnet:4>);
+//recipes.remove(<magnetrings:magnet>);
+//recipes.remove(<magnetrings:magnet:1>);
+//recipes.remove(<magnetrings:magnet:2>);
+//recipes.remove(<magnetrings:magnet:3>);
+//recipes.remove(<magnetrings:magnet:4>);
 
 recipes.addShaped(<magnetrings:magnet>, [[<minecraft:diamond_pickaxe>, <ore:ingotIron>, null], [<ore:ingotIron>, <ore:blockGold>, <ore:ingotIron>], [null, <ore:ingotIron>, <minecraft:compass>]]);
 
@@ -68,9 +68,9 @@ recipes.addShaped(<magnetrings:magnet:1>, [[<minecraft:diamond_sword>, <ore:ingo
 
 recipes.addShaped(<magnetrings:magnet:2>, [[<vanillatools:tool.bow_diamond>, <ore:ingotIron>, null], [<ore:ingotIron>, <ore:blockGold>, <ore:ingotIron>], [null, <ore:ingotIron>, <minecraft:compass>]]);
 
-recipes.addShaped(<magnetrings:magnet:3>, [[<minecraft:experience_bottle>, <ore:ingotIron>, null], [<ore:ingotIron>, <ore:blockGold>, <ore:ingotIron>], [null, <ore:ingotIron>, <minecraft:compass>]]);
+//recipes.addShaped(<magnetrings:magnet:3>, [[<minecraft:experience_bottle>, <ore:ingotIron>, null], [<ore:ingotIron>, <ore:blockGold>, <ore:ingotIron>], [null, <ore:ingotIron>, <minecraft:compass>]]);
 
-recipes.addShapeless(<magnetrings:magnet:4>, [<magnetrings:magnet>, <magnetrings:magnet:1>, <magnetrings:magnet:2>, <magnetrings:magnet:3>]);
+recipes.addShapeless(<magnetrings:magnet:3>, [<magnetrings:magnet>, <magnetrings:magnet:1>, <magnetrings:magnet:2>]);
 
 // wool
 var shears = <minecraft:shears>.anyDamage().or(<botania:manasteelshears>.anyDamage()).or(<botania:elementiumshears>.anyDamage()).or(<vanillatools:tool.shears_stone>.anyDamage()).or(<vanillatools:tool.shears_diamond>.anyDamage()).or(<vanillatools:tool.shears_gold>.anyDamage()).or(<xreliquary:shears_of_winter>.anyDamage()).or(<thebetweenlands:syrmorite_shears>.anyDamage());
