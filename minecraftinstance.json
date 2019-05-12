@@ -28,7 +28,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2019-05-12T06:03:08.0092091Z",
+  "lastPlayed": "2019-05-12T06:53:10.4169272Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -519,21 +519,6 @@
       "queryTimestamp": "2019-05-12T05:59:56.1403809Z",
       "fileCount": 1,
       "fileSize": 22122
-    },
-    {
-      "folderName": "Gyth-1.12.2-2.1.37.jar",
-      "fingerprint": 4290310282,
-      "fileDateHash": 4234088946,
-      "sectionID": 6,
-      "individualFingerprints": [
-        4290310282
-      ],
-      "status": 1,
-      "timestamp": "2019-04-15T09:15:59.5374649Z",
-      "lastWriteTimeUtc": "2019-04-04T12:00:00.8483173Z",
-      "queryTimestamp": "2019-05-11T10:07:41.1690955Z",
-      "fileCount": 1,
-      "fileSize": 49368
     },
     {
       "folderName": "Psi-r1.1-74.jar",
@@ -1379,6 +1364,118 @@
       "queryTimestamp": "2019-05-11T10:07:41.1770744Z",
       "fileCount": 1,
       "fileSize": 108450
+    },
+    {
+      "folderName": "New World-----------------------",
+      "fingerprint": 1654484011,
+      "fileDateHash": 840100722,
+      "sectionID": 10,
+      "individualFingerprints": [
+        68365600,
+        105364386,
+        119714143,
+        282116337,
+        418801279,
+        419562868,
+        471243550,
+        489458212,
+        489458212,
+        489458212,
+        489458212,
+        489458212,
+        489458212,
+        489458212,
+        489458212,
+        489458212,
+        489458212,
+        489458212,
+        489458212,
+        489458212,
+        489458212,
+        711982494,
+        758054953,
+        758054953,
+        758054953,
+        758054953,
+        758054953,
+        758054953,
+        758054953,
+        758054953,
+        758054953,
+        758054953,
+        758054953,
+        758054953,
+        758054953,
+        758054953,
+        758054953,
+        758054953,
+        1096779216,
+        1197322558,
+        1526469647,
+        1614441383,
+        1662013897,
+        1776115045,
+        1864096661,
+        1890103153,
+        1923612160,
+        1923612160,
+        2155785570,
+        2155785570,
+        2336574816,
+        2457880875,
+        2462691926,
+        2468735373,
+        2468735373,
+        2468735373,
+        2468735373,
+        2468735373,
+        2468735373,
+        2468735373,
+        2468735373,
+        2468735373,
+        2468735373,
+        2468735373,
+        2468735373,
+        2468735373,
+        2699850864,
+        2763463119,
+        2852811402,
+        3048272474,
+        3048272474,
+        3134755400,
+        3224954827,
+        3309042791,
+        3327691743,
+        3599981113,
+        3606680287,
+        3654367275,
+        3786698968,
+        3786698968,
+        3786698968,
+        3786698968,
+        3786698968,
+        3786698968,
+        3786698968,
+        3786698968,
+        3786698968,
+        3786698968,
+        3786698968,
+        3786698968,
+        3786698968,
+        3786698968,
+        3863908582,
+        4079976652,
+        4213863462,
+        4272588933,
+        4275483608,
+        4290677765
+      ],
+      "status": 1,
+      "timestamp": "2019-05-12T06:52:01.9691969Z",
+      "lastWriteTimeUtc": "2019-05-12T06:52:01.1618485Z",
+      "queryTimestamp": "2019-05-12T06:52:02.4668693Z",
+      "fileCount": 29,
+      "fileSize": 0
     },
     {
       "folderName": "SuperiorShields-1.12.2-1.0.2.jar",
@@ -3999,6 +4096,21 @@
       "fileSize": 882483
     },
     {
+      "folderName": "arcanearchives-0.2.0-preview13-hotfix4-unreleased.jar",
+      "fingerprint": 3466653752,
+      "fileDateHash": 2817712355,
+      "sectionID": 8,
+      "individualFingerprints": [
+        3466653752
+      ],
+      "status": 1,
+      "timestamp": "2019-05-12T06:45:20.0671455Z",
+      "lastWriteTimeUtc": "2019-05-12T06:44:43.2975991Z",
+      "queryTimestamp": "2019-05-12T06:45:21.0966157Z",
+      "fileCount": 1,
+      "fileSize": 3350873
+    },
+    {
       "folderName": "librarianlib-1.12.2-4.15.jar",
       "fingerprint": 207872127,
       "fileDateHash": 2503588008,
@@ -5939,6 +6051,21 @@
       "fileSize": 166714
     },
     {
+      "folderName": "nvg-1.0.0.jar",
+      "fingerprint": 781355479,
+      "fileDateHash": 2587708411,
+      "sectionID": 8,
+      "individualFingerprints": [
+        781355479
+      ],
+      "status": 1,
+      "timestamp": "2019-05-12T06:03:15.134315Z",
+      "lastWriteTimeUtc": "2019-05-12T06:02:59.7600343Z",
+      "queryTimestamp": "2019-05-12T06:03:15.5384094Z",
+      "fileCount": 1,
+      "fileSize": 102226
+    },
+    {
       "folderName": "CoFHCore-1.12.2-4.6.2.25-universal.jar",
       "fingerprint": 1877767350,
       "fileDateHash": 1620827782,
@@ -6356,21 +6483,6 @@
       "queryTimestamp": "2019-05-11T10:07:41.2199598Z",
       "fileCount": 1,
       "fileSize": 1417090
-    },
-    {
-      "folderName": "arcanearchives-0.2.0-preview13-hotfix3.jar",
-      "fingerprint": 3865169982,
-      "fileDateHash": 2657489383,
-      "sectionID": 8,
-      "individualFingerprints": [
-        3865169982
-      ],
-      "status": 1,
-      "timestamp": "2019-05-11T10:07:40.2779289Z",
-      "lastWriteTimeUtc": "2019-05-11T03:42:49.7478971Z",
-      "queryTimestamp": "2019-05-11T10:07:41.2199598Z",
-      "fileCount": 1,
-      "fileSize": 3342787
     },
     {
       "folderName": "Rustic Thaumaturgy-4.4.jar",
@@ -8185,7 +8297,7 @@
     }
   ],
   "isValid": true,
-  "lastPreviousMatchUpdate": "2019-05-12T05:59:58.0890232Z",
+  "lastPreviousMatchUpdate": "2019-05-12T06:45:23.6263675Z",
   "isEnabled": true,
   "isPinned": false,
   "gameVersion": "1.12.2",
@@ -11487,7 +11599,7 @@
       },
       "dateInstalled": "2019-04-15T09:16:03.1775022Z",
       "dateUpdated": "2018-04-15T09:16:03.1775022Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
+      "dateLastUpdateAttempted": "2019-05-12T06:49:15.3743656Z",
       "status": 3,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -22836,96 +22948,6 @@
       "dateInstalled": "2019-04-25T08:48:41.5892765Z",
       "dateUpdated": "2019-05-06T04:24:51.1921333Z",
       "dateLastUpdateAttempted": "2019-05-06T04:24:51.1921333Z",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
-      "addonID": 226696,
-      "gameInstanceID": "ff3ced55-c98d-489a-a35f-c52ef4f29ef0",
-      "installedFile": {
-        "id": 2644000,
-        "fileName": "Gyth-1.12.2-2.1.37.jar",
-        "fileDate": "2018-12-03T23:53:45.953",
-        "fileLength": 49368,
-        "releaseType": 1,
-        "fileStatus": 2,
-        "downloadUrl": "https://files.forgecdn.net/files/2644/0/Gyth-1.12.2-2.1.37.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [
-          {
-            "id": 0,
-            "addonId": 73488,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 228525,
-            "type": 1,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 238222,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 239197,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 245211,
-            "type": 2,
-            "fileId": 0
-          }
-        ],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 0,
-            "type": 0
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 0,
-            "type": 0
-          },
-          {
-            "foldername": "net",
-            "fingerprint": 0,
-            "type": 0
-          }
-        ],
-        "packageFingerprint": 4290310282,
-        "gameVersion": [
-          "1.12.2"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameId": 0,
-        "FileNameOnDisk": "Gyth-1.12.2-2.1.37.jar"
-      },
-      "dateInstalled": "2019-04-15T09:16:03.1545645Z",
-      "dateUpdated": "2018-04-15T09:16:03.1545645Z",
-      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
       "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
