@@ -443,6 +443,24 @@ false
 '>
 </td></tr>
 <tr>
+<td><code>ftbutilities.claims.block.interact.blockcraftery.editable_door</code></td>
+<td><code>bool</code></td>
+<td class='true' colspan='2'><code>true</code></td>
+<td title='
+true 
+false 
+'>
+</td></tr>
+<tr>
+<td><code>ftbutilities.claims.block.interact.blockcraftery.editable_door_reinforced</code></td>
+<td><code>bool</code></td>
+<td class='true' colspan='2'><code>true</code></td>
+<td title='
+true 
+false 
+'>
+</td></tr>
+<tr>
 <td><code>ftbutilities.claims.block.interact.cathedral.dwemer_door_normal</code></td>
 <td><code>bool</code></td>
 <td class='true' colspan='2'><code>true</code></td>
@@ -1054,7 +1072,7 @@ false
 </table><br><table><tr><th>Available command nodes</th><th>Usage</th></tr>
 <tr><td><code>command.advancement</code></td><td>/advancement &lt;grant|revoke|test&gt; &lt;player&gt;</td></tr>
 <tr><td><code>command.astralsorcery.astralsorcery</code></td><td class='error' title='Invalid usage language key!'>/astralsorcery &lt;action&gt; [player] [arguments...]</td></tr>
-<tr><td><code>command.atum.atumweather</code></td><td>atumweather</td></tr>
+<tr><td><code>command.atum.atumweather</code></td><td>/atumweather &lt;clear<br>sandstorm&gt;</td></tr>
 <tr><td><code>command.badwithernocookiereloaded.listen</code></td><td class='error' title='Invalid usage language key!'>/listen
  - toggles display of the sound event names in the current text stream</td></tr>
 <tr><td><code>command.baubles.baubles</code></td><td class='error' title='Invalid usage language key!'>/baubles &lt;action&gt; [&lt;player&gt; [&lt;params&gt;]]</td></tr>
@@ -1072,7 +1090,7 @@ false
 <tr><td><code>command.bloodmagic.bloodmagic.network.help.get</code></td><td>/bloodmagic network get [player]</td></tr>
 <tr><td><code>command.bloodmagic.bloodmagic.network.help.set</code></td><td>/bloodmagic network set [player] [amount]</td></tr>
 <tr><td><code>command.bloodmagic.bloodmagic.network.help.syphon</code></td><td>/bloodmagic network syphon [player] [amount]</td></tr>
-<tr><td><code>command.bloodmagic.bloodmagic.network.help.tickethistory</code></td><td>commands.bloodmagic.network.tickethistory.usage</td></tr>
+<tr><td><code>command.bloodmagic.bloodmagic.network.help.tickethistory</code></td><td>/bloodmagic network tickethistory [player]</td></tr>
 <tr><td><code>command.bloodmagic.bloodmagic.orb.help.get</code></td><td>/bloodmagic orb get [player|?|help]</td></tr>
 <tr><td><code>command.bloodmagic.bloodmagic.orb.help.set</code></td><td>/bloodmagic orb set [player|?|help]</td></tr>
 <tr><td><code>command.bloodmagic.bloodmagic.ritual.help.create</code></td><td>Creates the specified ritual with the MRS at your feet, ignores other blocks by default. (Optional parameters: ([&lt;player&gt; (safe|true|false)] | [safe|true|false]))</td></tr>
@@ -1087,8 +1105,11 @@ false
 <tr><td><code>command.botania.botania-share</code></td><td>&lt;entry&gt;</td></tr>
 <tr><td><code>command.botania_tweaks.botaniatweaks-debug-stats</code></td><td>/botaniatweaks-debug-stats [flowerName | all | total]</td></tr>
 <tr><td><code>command.botania_tweaks.botaniatweaks-reset-stats</code></td><td>/botaniatweaks-reset-stats [flowerName | all]</td></tr>
+<tr><td><code>command.bountiful.bountiful</code></td><td class='error' title='Invalid usage language key!'>/bountiful</td></tr>
 <tr><td><code>command.buildinggadgets.deleteblockmaps</code></td><td class='error' title='Invalid usage language key!'>DeleteBlockMaps &lt;player&gt;</td></tr>
 <tr><td><code>command.buildinggadgets.findblockmaps</code></td><td class='error' title='Invalid usage language key!'>FindBlockMaps &lt;player&gt;</td></tr>
+<tr><td><code>command.champions.championegg</code></td><td>/championegg &lt;entity&gt; &lt;tier&gt; [affixes]...</td></tr>
+<tr><td><code>command.champions.spawnchampion</code></td><td>/spawnchampion &lt;entity&gt; &lt;tier&gt; [affixes]...</td></tr>
 <tr><td><code>command.charset.charset</code></td><td class='error' title='Invalid usage language key!'>/charset [help, hand, at, gateTickLength]</td></tr>
 <tr><td><code>command.charset.mutter</code></td><td class='error' title='Invalid usage language key!'>/mutter [--long] [--show-item] some text. Clears if empty</td></tr>
 <tr><td><code>command.clear</code></td><td>/clear [player] [item] [data] [maxCount] [dataTag]</td></tr>
@@ -1275,7 +1296,20 @@ false
 <tr><td><code>command.trigger</code></td><td>/trigger &lt;objective&gt; &lt;add|set&gt; &lt;value&gt;</td></tr>
 <tr><td><code>command.vtt.vtt</code></td><td class='error' title='Invalid usage language key!'>null</td></tr>
 <tr><td><code>command.weather</code></td><td>/weather &lt;clear|rain|thunder&gt; [duration in seconds]</td></tr>
-<tr><td><code>command.wizardry.wizardry</code></td><td>/wizardry &lt;reload/reset&gt; [config/inventory]</td></tr>
+<tr><td><code>command.wizardry.wizardry.debug</code></td><td>/debug &lt;start|stop&gt;</td></tr>
+<tr><td><code>command.wizardry.wizardry.genpearl</code></td><td>/wizardry genpearl</td></tr>
+<tr><td><code>command.wizardry.wizardry.genstaff</code></td><td>/wizardry genstaff</td></tr>
+<tr><td><code>command.wizardry.wizardry.help.debug</code></td><td>/debug &lt;start|stop&gt;</td></tr>
+<tr><td><code>command.wizardry.wizardry.help.genpearl</code></td><td>/wizardry genpearl</td></tr>
+<tr><td><code>command.wizardry.wizardry.help.genstaff</code></td><td>/wizardry genstaff</td></tr>
+<tr><td><code>command.wizardry.wizardry.help.listmodules</code></td><td>/wizardry listmodules</td></tr>
+<tr><td><code>command.wizardry.wizardry.help.resetmodules</code></td><td>/wizardry resetmodules</td></tr>
+<tr><td><code>command.wizardry.wizardry.help.tptorikki</code></td><td>/wizardry tptorikki</td></tr>
+<tr><td><code>command.wizardry.wizardry.help.tpunderworld</code></td><td>/wizardry tpunderworld</td></tr>
+<tr><td><code>command.wizardry.wizardry.listmodules</code></td><td>/wizardry listmodules</td></tr>
+<tr><td><code>command.wizardry.wizardry.resetmodules</code></td><td>/wizardry resetmodules</td></tr>
+<tr><td><code>command.wizardry.wizardry.tptorikki</code></td><td>/wizardry tptorikki</td></tr>
+<tr><td><code>command.wizardry.wizardry.tpunderworld</code></td><td>/wizardry tpunderworld</td></tr>
 <tr><td><code>command.worldborder</code></td><td>/worldborder &lt;set|center|damage|warning|get|add&gt; ...</td></tr>
 <tr><td><code>command.xp</code></td><td>/xp &lt;amount&gt; [player]<br>/xp &lt;amount&gt;L [player]</td></tr>
 </table>
