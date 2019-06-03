@@ -1,0 +1,15 @@
+config/*aero*
+crash-reports
+*.log
+saves
+pillar
+stall-reports
+*cache*
+patchouli_data.json
+*.zip
+*.png
+local
+logs
+init
+fonts
+library
