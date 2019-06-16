@@ -4,7 +4,6 @@ import crafttweaker.data.IData;
 //recipes.addShaped(<quark:backpack>, [[<ore:leather>, <ore:leather>, <ore:leather>],[<ore:gemEmerald>, <comforts:sleeping_bag:*>, <ore:gemEmerald>], [<ore:leather>, <ore:leather>, <ore:leather>]]);
 
 # Hide this just the wooden one
-recipes.remove(<hooked:hook>);
 recipes.remove(<hooked:hook:4>);
 
 # Hide these
