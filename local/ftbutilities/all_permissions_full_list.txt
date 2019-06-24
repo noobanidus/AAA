@@ -1,4 +1,4 @@
-13202 nodes in total
+13232 nodes in total
 Modifying this file won't have any effect, edit ranks.txt!
 
 admin_panel.ftbutilities.crash_reports.delete: OP
@@ -2094,6 +2094,7 @@ ftbutilities.claims.block.edit.mob_grinding_utils.tank: OP
 ftbutilities.claims.block.edit.mob_grinding_utils.tank_sink: OP
 ftbutilities.claims.block.edit.mob_grinding_utils.wither_muffler: OP
 ftbutilities.claims.block.edit.mob_grinding_utils.xp_tap: OP
+ftbutilities.claims.block.edit.mod_lavacow.glowshroom: OP
 ftbutilities.claims.block.edit.modularrouters.item_router: OP
 ftbutilities.claims.block.edit.modularrouters.template_frame: OP
 ftbutilities.claims.block.edit.mowziesmobs.campfire: OP
@@ -3746,11 +3747,11 @@ ftbutilities.claims.block.edit.variegated.compressed_vis_battery: OP
 ftbutilities.claims.block.edit.villagermarket.villager_market: OP
 ftbutilities.claims.block.edit.wards.ward: OP
 ftbutilities.claims.block.edit.waystones.waystone: OP
+ftbutilities.claims.block.edit.wizardry.altar_sacrament: OP
 ftbutilities.claims.block.edit.wizardry.cloud: OP
 ftbutilities.claims.block.edit.wizardry.crafting_plate: OP
 ftbutilities.claims.block.edit.wizardry.creative_mana_battery: OP
 ftbutilities.claims.block.edit.wizardry.fake_air: OP
-ftbutilities.claims.block.edit.wizardry.halo_infuser: OP
 ftbutilities.claims.block.edit.wizardry.jar_block: OP
 ftbutilities.claims.block.edit.wizardry.light: OP
 ftbutilities.claims.block.edit.wizardry.magicians_worktable: OP
@@ -5858,6 +5859,7 @@ ftbutilities.claims.block.interact.mob_grinding_utils.tank: OP
 ftbutilities.claims.block.interact.mob_grinding_utils.tank_sink: OP
 ftbutilities.claims.block.interact.mob_grinding_utils.wither_muffler: OP
 ftbutilities.claims.block.interact.mob_grinding_utils.xp_tap: OP
+ftbutilities.claims.block.interact.mod_lavacow.glowshroom: OP
 ftbutilities.claims.block.interact.modularrouters.item_router: OP
 ftbutilities.claims.block.interact.modularrouters.template_frame: OP
 ftbutilities.claims.block.interact.mowziesmobs.campfire: OP
@@ -7510,11 +7512,11 @@ ftbutilities.claims.block.interact.variegated.compressed_vis_battery: OP
 ftbutilities.claims.block.interact.villagermarket.villager_market: OP
 ftbutilities.claims.block.interact.wards.ward: OP
 ftbutilities.claims.block.interact.waystones.waystone: OP
+ftbutilities.claims.block.interact.wizardry.altar_sacrament: OP
 ftbutilities.claims.block.interact.wizardry.cloud: OP
 ftbutilities.claims.block.interact.wizardry.crafting_plate: OP
 ftbutilities.claims.block.interact.wizardry.creative_mana_battery: OP
 ftbutilities.claims.block.interact.wizardry.fake_air: OP
-ftbutilities.claims.block.interact.wizardry.halo_infuser: OP
 ftbutilities.claims.block.interact.wizardry.jar_block: OP
 ftbutilities.claims.block.interact.wizardry.light: OP
 ftbutilities.claims.block.interact.wizardry.magicians_worktable: OP
@@ -7895,10 +7897,12 @@ ftbutilities.claims.item.animus.sigil_consumption: ALL
 ftbutilities.claims.item.animus.sigil_leech: ALL
 ftbutilities.claims.item.animus.sigil_storm: ALL
 ftbutilities.claims.item.animus.sigil_transposition: ALL
-ftbutilities.claims.item.arc_gbook.guidebook: ALL
+ftbutilities.claims.item.arcanearchives.agegleam: ALL
 ftbutilities.claims.item.arcanearchives.brazier_of_hoarding: ALL
 ftbutilities.claims.item.arcanearchives.cleansegleam: ALL
 ftbutilities.claims.item.arcanearchives.containment_field: ALL
+ftbutilities.claims.item.arcanearchives.devouring_charm: ALL
+ftbutilities.claims.item.arcanearchives.elixirspindle: ALL
 ftbutilities.claims.item.arcanearchives.gemcutters_table: ALL
 ftbutilities.claims.item.arcanearchives.gemsocket: ALL
 ftbutilities.claims.item.arcanearchives.lectern_manifest: ALL
@@ -7916,6 +7920,7 @@ ftbutilities.claims.item.arcanearchives.orderstone: ALL
 ftbutilities.claims.item.arcanearchives.parchtear: ALL
 ftbutilities.claims.item.arcanearchives.phoenixway: ALL
 ftbutilities.claims.item.arcanearchives.quartz_sliver: ALL
+ftbutilities.claims.item.arcanearchives.radiant_amphora: ALL
 ftbutilities.claims.item.arcanearchives.radiant_chest: ALL
 ftbutilities.claims.item.arcanearchives.radiant_crafting_table: ALL
 ftbutilities.claims.item.arcanearchives.radiant_dust: ALL
@@ -7931,9 +7936,11 @@ ftbutilities.claims.item.arcanearchives.scepter_manipulation: ALL
 ftbutilities.claims.item.arcanearchives.scepter_revelation: ALL
 ftbutilities.claims.item.arcanearchives.scintillating_inlay: ALL
 ftbutilities.claims.item.arcanearchives.shaped_quartz: ALL
+ftbutilities.claims.item.arcanearchives.slaughtergleam: ALL
 ftbutilities.claims.item.arcanearchives.storage_raw_quartz: ALL
 ftbutilities.claims.item.arcanearchives.storage_shaped_quartz: ALL
 ftbutilities.claims.item.arcanearchives.stormway: ALL
+ftbutilities.claims.item.arcanearchives.switchgleam: ALL
 ftbutilities.claims.item.arcanearchives.tome_arcana: ALL
 ftbutilities.claims.item.arcanearchives.writ_expulsion: ALL
 ftbutilities.claims.item.astralsorcery.blockaltar: ALL
@@ -10218,6 +10225,7 @@ ftbutilities.claims.item.fluidfunnel.funnel: ALL
 ftbutilities.claims.item.fluidfunnel.tank: ALL
 ftbutilities.claims.item.fluidfunnel.tap: ALL
 ftbutilities.claims.item.forge.bucketfilled: ALL
+ftbutilities.claims.item.gbook_snapshot.guidebook: ALL
 ftbutilities.claims.item.giacomos_bookshelf.bookshelf_acacia: ALL
 ftbutilities.claims.item.giacomos_bookshelf.bookshelf_big_oak: ALL
 ftbutilities.claims.item.giacomos_bookshelf.bookshelf_birch: ALL
@@ -10373,7 +10381,6 @@ ftbutilities.claims.item.metalchests.chest_upgrade: ALL
 ftbutilities.claims.item.metalchests.metal_chest: ALL
 ftbutilities.claims.item.metalchests.metal_hungry_chest: ALL
 ftbutilities.claims.item.metalchests.metal_hungry_sorting_chest: ALL
-ftbutilities.claims.item.metalchests.minecart_metal_chest: ALL
 ftbutilities.claims.item.microblockcbe.microblock: ALL
 ftbutilities.claims.item.microblockcbe.saw_diamond: ALL
 ftbutilities.claims.item.microblockcbe.saw_iron: ALL
@@ -10809,6 +10816,28 @@ ftbutilities.claims.item.mob_grinding_utils.tank: ALL
 ftbutilities.claims.item.mob_grinding_utils.tank_sink: ALL
 ftbutilities.claims.item.mob_grinding_utils.wither_muffler: ALL
 ftbutilities.claims.item.mob_grinding_utils.xp_tap: ALL
+ftbutilities.claims.item.mod_lavacow.bonesword: ALL
+ftbutilities.claims.item.mod_lavacow.canebeef: ALL
+ftbutilities.claims.item.mod_lavacow.canepork: ALL
+ftbutilities.claims.item.mod_lavacow.canerottenmeat: ALL
+ftbutilities.claims.item.mod_lavacow.cheirolepis: ALL
+ftbutilities.claims.item.mod_lavacow.cheirolepis_cooked: ALL
+ftbutilities.claims.item.mod_lavacow.fissionpotion: ALL
+ftbutilities.claims.item.mod_lavacow.frozenthigh: ALL
+ftbutilities.claims.item.mod_lavacow.glowshroom: ALL
+ftbutilities.claims.item.mod_lavacow.goldenheart: ALL
+ftbutilities.claims.item.mod_lavacow.hyphae: ALL
+ftbutilities.claims.item.mod_lavacow.intestine: ALL
+ftbutilities.claims.item.mod_lavacow.meatball: ALL
+ftbutilities.claims.item.mod_lavacow.mousse: ALL
+ftbutilities.claims.item.mod_lavacow.nethersoup: ALL
+ftbutilities.claims.item.mod_lavacow.parasite_item: ALL
+ftbutilities.claims.item.mod_lavacow.parasite_item_cooked: ALL
+ftbutilities.claims.item.mod_lavacow.piranha: ALL
+ftbutilities.claims.item.mod_lavacow.piranha_cooked: ALL
+ftbutilities.claims.item.mod_lavacow.poisonspore: ALL
+ftbutilities.claims.item.mod_lavacow.sharptooth: ALL
+ftbutilities.claims.item.mod_lavacow.undyingheart: ALL
 ftbutilities.claims.item.modularrouters.augment: ALL
 ftbutilities.claims.item.modularrouters.augment_core: ALL
 ftbutilities.claims.item.modularrouters.blank_module: ALL
@@ -13084,6 +13113,7 @@ ftbutilities.claims.item.waystones.return_scroll: ALL
 ftbutilities.claims.item.waystones.warp_scroll: ALL
 ftbutilities.claims.item.waystones.warp_stone: ALL
 ftbutilities.claims.item.waystones.waystone: ALL
+ftbutilities.claims.item.wizardry.altar_sacrament: ALL
 ftbutilities.claims.item.wizardry.blackened_spirit: ALL
 ftbutilities.claims.item.wizardry.bomb: ALL
 ftbutilities.claims.item.wizardry.book: ALL
@@ -13092,13 +13122,13 @@ ftbutilities.claims.item.wizardry.cloud: ALL
 ftbutilities.claims.item.wizardry.crafting_plate: ALL
 ftbutilities.claims.item.wizardry.creative_mana_battery: ALL
 ftbutilities.claims.item.wizardry.devil_dust: ALL
+ftbutilities.claims.item.wizardry.fairy_bell: ALL
 ftbutilities.claims.item.wizardry.fairy_dust: ALL
 ftbutilities.claims.item.wizardry.fairy_imbued_apple: ALL
 ftbutilities.claims.item.wizardry.fairy_item: ALL
 ftbutilities.claims.item.wizardry.fairy_wings: ALL
 ftbutilities.claims.item.wizardry.halo_creative: ALL
 ftbutilities.claims.item.wizardry.halo_fake: ALL
-ftbutilities.claims.item.wizardry.halo_infuser: ALL
 ftbutilities.claims.item.wizardry.halo_real: ALL
 ftbutilities.claims.item.wizardry.jar_item: ALL
 ftbutilities.claims.item.wizardry.levitation_orb: ALL
@@ -13207,6 +13237,7 @@ ftbutilities.tpa.cross_dim: ALL
 Available command nodes:
 
 command.advancement
+command.arcanearchives.brazier
 command.arcanearchives.hive
 command.astralsorcery.astralsorcery
 command.atum.atumweather
@@ -13276,6 +13307,7 @@ command.ebwizardry.discoverspell
 command.effect
 command.effortlessbuilding.reach
 command.enchant
+command.endercore.scoreboardinfo
 command.entitydata
 command.execute
 command.extraalchemy.ea-medal
