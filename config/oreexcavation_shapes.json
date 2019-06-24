@@ -25,6 +25,18 @@
       ]
     },
     {
+      "name": "5x5 no corners",
+      "depth": -1,
+      "reticle": 12,
+      "mask": [
+        "OXXXO",
+        "XXXXX",
+        "XXXXX",
+        "XXXXX",
+        "OXXXO"
+      ]
+    },
+    {
       "name": "5x5",
       "depth": -1,
       "reticle": 12,
