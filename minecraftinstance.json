@@ -28,7 +28,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2019-06-24T07:55:45.9432232Z",
+  "lastPlayed": "2019-06-24T14:03:15.3665097Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -325,6 +325,21 @@
       "queryTimestamp": "2019-06-24T01:45:19.2310888Z",
       "fileCount": 1,
       "fileSize": 478526
+    },
+    {
+      "folderName": "arcanearchives-0.2.0-preview16-hotfix3.jar",
+      "fingerprint": 2176723109,
+      "fileDateHash": 1774513211,
+      "sectionID": 8,
+      "individualFingerprints": [
+        2176723109
+      ],
+      "status": 1,
+      "timestamp": "2019-06-24T14:03:03.134294Z",
+      "lastWriteTimeUtc": "2019-06-24T14:01:13.3290513Z",
+      "queryTimestamp": "2019-06-24T14:03:04.4733864Z",
+      "fileCount": 1,
+      "fileSize": 4196078
     },
     {
       "folderName": "New World------------------",
@@ -1053,6 +1068,21 @@
       "queryTimestamp": "2019-06-24T01:45:19.2390481Z",
       "fileCount": 1,
       "fileSize": 7391
+    },
+    {
+      "folderName": "jei_1.12.2-4.15.0.283.jar",
+      "fingerprint": 3315444696,
+      "fileDateHash": 3045561279,
+      "sectionID": 8,
+      "individualFingerprints": [
+        3315444696
+      ],
+      "status": 1,
+      "timestamp": "2019-06-24T12:59:32.9186091Z",
+      "lastWriteTimeUtc": "2019-06-24T11:19:57.1893612Z",
+      "queryTimestamp": "2019-06-24T12:59:34.2529771Z",
+      "fileCount": 1,
+      "fileSize": 650304
     },
     {
       "folderName": "arcanearchives-0.2.0-preview11.jar",
@@ -2822,6 +2852,21 @@
       "fileSize": 161626
     },
     {
+      "folderName": "mysticallib-1.12.2-1.2.1-2.jar",
+      "fingerprint": 3586270246,
+      "fileDateHash": 1621281610,
+      "sectionID": 8,
+      "individualFingerprints": [
+        3586270246
+      ],
+      "status": 1,
+      "timestamp": "2019-06-24T12:59:32.9505209Z",
+      "lastWriteTimeUtc": "2019-06-24T11:44:50.6772851Z",
+      "queryTimestamp": "2019-06-24T12:59:34.2689347Z",
+      "fileCount": 1,
+      "fileSize": 410001
+    },
+    {
       "folderName": "LittleTiles_v1.5.0-pre134_mc1.12.2.jar",
       "fingerprint": 691326300,
       "fileDateHash": 2282779721,
@@ -2835,21 +2880,6 @@
       "queryTimestamp": "2019-06-24T01:45:19.2550236Z",
       "fileCount": 1,
       "fileSize": 1408661
-    },
-    {
-      "folderName": "mysticallib-1.12.2-1.2.1-2.jar",
-      "fingerprint": 3855504874,
-      "fileDateHash": 2336293862,
-      "sectionID": 8,
-      "individualFingerprints": [
-        3855504874
-      ],
-      "status": 1,
-      "timestamp": "2019-06-24T01:45:58.2789992Z",
-      "lastWriteTimeUtc": "2019-06-23T13:39:40.5106759Z",
-      "queryTimestamp": "2019-06-24T01:45:59.5070299Z",
-      "fileCount": 1,
-      "fileSize": 408511
     },
     {
       "folderName": "JustEnoughCalculation-1.12.2-3.1.4.jar",
@@ -3274,18 +3304,18 @@
     },
     {
       "folderName": "MysticWorld-1.12.2-1.2.0-8.jar",
-      "fingerprint": 900705615,
-      "fileDateHash": 2740972648,
+      "fingerprint": 3403041803,
+      "fileDateHash": 3759771685,
       "sectionID": 8,
       "individualFingerprints": [
-        900705615
+        3403041803
       ],
       "status": 1,
-      "timestamp": "2019-06-16T04:03:34.5410976Z",
-      "lastWriteTimeUtc": "2019-06-15T12:46:08.4776848Z",
-      "queryTimestamp": "2019-06-24T01:45:19.2590141Z",
+      "timestamp": "2019-06-24T12:59:32.9525157Z",
+      "lastWriteTimeUtc": "2019-06-24T11:45:51.6117854Z",
+      "queryTimestamp": "2019-06-24T12:59:34.2729236Z",
       "fileCount": 1,
-      "fileSize": 1049432
+      "fileSize": 1065441
     },
     {
       "folderName": "Netherending-Ores-1.12.2-1.3-hotfix1.jar",
@@ -5306,21 +5336,6 @@
       "fileSize": 17073
     },
     {
-      "folderName": "jei_1.12.2-4.15.0.282.jar",
-      "fingerprint": 2252422545,
-      "fileDateHash": 1253849936,
-      "sectionID": 8,
-      "individualFingerprints": [
-        2252422545
-      ],
-      "status": 1,
-      "timestamp": "2019-06-24T08:07:03.275192Z",
-      "lastWriteTimeUtc": "2019-06-24T07:45:50.346238Z",
-      "queryTimestamp": "2019-06-24T08:07:04.7342197Z",
-      "fileCount": 1,
-      "fileSize": 650302
-    },
-    {
       "folderName": "VanillaSatchels-1.12.2-1.0.2.4-universal.jar",
       "fingerprint": 4052040398,
       "fileDateHash": 3659377885,
@@ -5337,18 +5352,18 @@
     },
     {
       "folderName": "Roots-1.12.2-3.0.0-17.jar",
-      "fingerprint": 3123996929,
-      "fileDateHash": 2986641292,
+      "fingerprint": 3976468119,
+      "fileDateHash": 1111281367,
       "sectionID": 8,
       "individualFingerprints": [
-        3123996929
+        3976468119
       ],
       "status": 1,
-      "timestamp": "2019-06-16T04:03:34.5460834Z",
-      "lastWriteTimeUtc": "2019-06-15T13:11:34.4797922Z",
-      "queryTimestamp": "2019-06-24T01:45:19.2759691Z",
+      "timestamp": "2019-06-24T12:59:32.9565049Z",
+      "lastWriteTimeUtc": "2019-06-24T11:46:47.1846522Z",
+      "queryTimestamp": "2019-06-24T12:59:34.2908756Z",
       "fileCount": 1,
-      "fileSize": 1269907
+      "fileSize": 1267748
     },
     {
       "folderName": "Xaeros_Minimap_1.17.2_Forge_1.12.jar",
@@ -7195,21 +7210,6 @@
       "fileSize": 141925
     },
     {
-      "folderName": "arcanearchives-0.2.0-preview16.jar",
-      "fingerprint": 730445922,
-      "fileDateHash": 3843639437,
-      "sectionID": 8,
-      "individualFingerprints": [
-        730445922
-      ],
-      "status": 1,
-      "timestamp": "2019-06-24T01:45:16.8970736Z",
-      "lastWriteTimeUtc": "2019-06-23T13:21:17.6063779Z",
-      "queryTimestamp": "2019-06-24T01:45:19.2958972Z",
-      "fileCount": 1,
-      "fileSize": 4186364
-    },
-    {
       "folderName": "Patchouli-1.0-18.jar",
       "fingerprint": 849668793,
       "fileDateHash": 302034648,
@@ -7417,6 +7417,21 @@
       "queryTimestamp": "2019-06-24T01:45:19.2969064Z",
       "fileCount": 32,
       "fileSize": 0
+    },
+    {
+      "folderName": "arcanearchives-0.2.0-preview16-hotfix2.jar",
+      "fingerprint": 2208027546,
+      "fileDateHash": 2210613762,
+      "sectionID": 8,
+      "individualFingerprints": [
+        2208027546
+      ],
+      "status": 1,
+      "timestamp": "2019-06-24T13:48:33.2517505Z",
+      "lastWriteTimeUtc": "2019-06-24T13:39:06.6565582Z",
+      "queryTimestamp": "2019-06-24T13:48:34.6507205Z",
+      "fileCount": 1,
+      "fileSize": 4328738
     },
     {
       "folderName": "hungering-1.0.0.jar",
@@ -9368,7 +9383,7 @@
     }
   ],
   "isValid": true,
-  "lastPreviousMatchUpdate": "2019-06-24T11:13:00.3938885Z",
+  "lastPreviousMatchUpdate": "2019-06-24T13:48:36.6928865Z",
   "isEnabled": true,
   "isPinned": false,
   "gameVersion": "1.12.2",
