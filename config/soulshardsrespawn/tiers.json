@@ -10,7 +10,7 @@
   {
     "killRequirement": 64,
     "checkPlayer": true,
-    "checkLight": true,
+    "checkLight": false,
     "checkRedstone": false,
     "spawnAmount": 2,
     "cooldown": 400
@@ -18,7 +18,7 @@
   {
     "killRequirement": 128,
     "checkPlayer": true,
-    "checkLight": true,
+    "checkLight": false,
     "checkRedstone": false,
     "spawnAmount": 4,
     "cooldown": 200
@@ -26,7 +26,7 @@
   {
     "killRequirement": 256,
     "checkPlayer": false,
-    "checkLight": true,
+    "checkLight": false,
     "checkRedstone": false,
     "spawnAmount": 4,
     "cooldown": 100
