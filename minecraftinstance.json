@@ -9541,6 +9541,76 @@
       "installedTargets": null
     },
     {
+      "addonID": 220495,
+      "gameInstanceID": "048d31dd-7055-494c-a9be-45d710eb6414",
+      "installedFile": {
+        "id": 2713186,
+        "displayName": "SophisticatedWolves-3.13.8",
+        "fileName": "SophisticatedWolves-1.12.2-3.13.8.jar",
+        "fileDate": "2019-05-19T12:30:33.77Z",
+        "fileLength": 267691,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2713/186/SophisticatedWolves-1.12.2-3.13.8.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2421877827,
+            "type": 0
+          },
+          {
+            "foldername": "sophisticated_wolves",
+            "fingerprint": 2215028764,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 338307116,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 627860821,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 313480345,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 244774096,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameId": 0,
+        "FileNameOnDisk": "SophisticatedWolves-1.12.2-3.13.8.jar"
+      },
+      "dateInstalled": "2019-06-25T04:52:32.5618455Z",
+      "dateUpdated": "2019-06-25T04:52:32.5628443Z",
+      "dateLastUpdateAttempted": "2019-06-25T04:52:32.5628443Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
       "addonID": 241721,
       "gameInstanceID": "048d31dd-7055-494c-a9be-45d710eb6414",
       "installedFile": {
