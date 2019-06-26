@@ -128,11 +128,6 @@ biomesoplenty:origin_island
 biomesoplenty:tropical_island
 biomesoplenty:volcanic_island
 biomesoplenty:flower_island
-biomesoplenty:corrupted_sands
-biomesoplenty:fungi_forest
-biomesoplenty:phantasmagoric_inferno
-biomesoplenty:undergarden
-biomesoplenty:visceral_heap
 elementaristics:mind
 atum:dead_oasis
 atum:deadwood_forest
@@ -164,7 +159,6 @@ climaticbiomesjbg:hot_mountain_trees
 climaticbiomesjbg:temperate_river
 climaticbiomesjbg:subtropical_river
 climaticbiomesjbg:tropical_river
-evilcraft:biome_degraded
 integrateddynamics:biome_meneglin
 redwoods:redwood_forest
 redwoods:lush_redwood_forest
