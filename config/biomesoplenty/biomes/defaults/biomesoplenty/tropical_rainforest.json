@@ -127,7 +127,7 @@
         }
       },
       "amountPerChunk": 0.2,
-      "enable": true,
+      "enable": false,
       "grassBorderWith": {
         "block": "minecraft:grass",
         "properties": {
@@ -183,7 +183,7 @@
       },
       "generationAttempts": 16,
       "amountPerChunk": 0.1,
-      "enable": true
+      "enable": false
     },
     "flower_lily": {
       "with": {

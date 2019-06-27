@@ -9532,6 +9532,71 @@
       "installedTargets": null
     },
     {
+      "addonID": 250603,
+      "gameInstanceID": "048d31dd-7055-494c-a9be-45d710eb6414",
+      "installedFile": {
+        "id": 2635454,
+        "displayName": "World-Stripper-1.6.0-1.12.2.jar",
+        "fileName": "World-Stripper-1.6.0-1.12.2.jar",
+        "fileDate": "2018-11-05T14:11:11.303Z",
+        "fileLength": 50296,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2635/454/World-Stripper-1.6.0-1.12.2.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 4200024715,
+            "type": 0
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 3826521071,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 2131396685,
+            "type": 0
+          },
+          {
+            "foldername": "offending_image.png",
+            "fingerprint": 2351219585,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 2474798541,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameId": 0,
+        "FileNameOnDisk": "World-Stripper-1.6.0-1.12.2.jar"
+      },
+      "dateInstalled": "2019-06-10T04:51:09.983058Z",
+      "dateUpdated": "2019-06-10T04:51:09.984056Z",
+      "dateLastUpdateAttempted": "2019-06-10T04:51:09.984056Z",
+      "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
       "addonID": 230497,
       "gameInstanceID": "048d31dd-7055-494c-a9be-45d710eb6414",
       "installedFile": {
@@ -9588,71 +9653,6 @@
       "dateUpdated": "2019-06-26T22:38:03.2743329Z",
       "dateLastUpdateAttempted": "2019-06-26T22:38:03.2743329Z",
       "status": 4,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": []
-    },
-    {
-      "addonID": 250603,
-      "gameInstanceID": "048d31dd-7055-494c-a9be-45d710eb6414",
-      "installedFile": {
-        "id": 2635454,
-        "displayName": "World-Stripper-1.6.0-1.12.2.jar",
-        "fileName": "World-Stripper-1.6.0-1.12.2.jar",
-        "fileDate": "2018-11-05T14:11:11.303Z",
-        "fileLength": 50296,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2635/454/World-Stripper-1.6.0-1.12.2.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 4200024715,
-            "type": 0
-          },
-          {
-            "foldername": "com",
-            "fingerprint": 3826521071,
-            "type": 0
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 2131396685,
-            "type": 0
-          },
-          {
-            "foldername": "offending_image.png",
-            "fingerprint": 2351219585,
-            "type": 0
-          }
-        ],
-        "packageFingerprint": 2474798541,
-        "gameVersion": [
-          "1.12.2"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameId": 0,
-        "FileNameOnDisk": "World-Stripper-1.6.0-1.12.2.jar"
-      },
-      "dateInstalled": "2019-06-10T04:51:09.983058Z",
-      "dateUpdated": "2019-06-10T04:51:09.984056Z",
-      "dateLastUpdateAttempted": "2019-06-10T04:51:09.984056Z",
-      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -10976,7 +10976,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": []
+      "installedTargets": null
     },
     {
       "addonID": 289760,
@@ -19567,76 +19567,6 @@
       "installedTargets": null
     },
     {
-      "addonID": 314904,
-      "gameInstanceID": "048d31dd-7055-494c-a9be-45d710eb6414",
-      "installedFile": {
-        "id": 2716458,
-        "displayName": "FTBUtilitiesBackups-1.0.0.4.jar",
-        "fileName": "FTBUtilitiesBackups-1.0.0.4.jar",
-        "fileDate": "2019-05-27T14:31:48.39Z",
-        "fileLength": 42092,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2716/458/FTBUtilitiesBackups-1.0.0.4.jar",
-        "isAlternate": false,
-        "alternateFileId": 2716459,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 2316126764,
-            "type": 0
-          },
-          {
-            "foldername": "com",
-            "fingerprint": 3621869198,
-            "type": 0
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 2681097282,
-            "type": 0
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 3152582459,
-            "type": 0
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 1144489633,
-            "type": 0
-          }
-        ],
-        "packageFingerprint": 3573654632,
-        "gameVersion": [
-          "1.12.2"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameId": 0,
-        "FileNameOnDisk": "FTBUtilitiesBackups-1.0.0.4.jar"
-      },
-      "dateInstalled": "2019-06-26T05:10:26.0559342Z",
-      "dateUpdated": "2019-06-26T05:10:26.0579319Z",
-      "dateLastUpdateAttempted": "2019-06-26T05:10:26.0579319Z",
-      "status": 4,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": []
-    },
-    {
       "addonID": 318255,
       "gameInstanceID": "048d31dd-7055-494c-a9be-45d710eb6414",
       "installedFile": {
@@ -19706,6 +19636,76 @@
       "dateUpdated": "2019-06-10T04:14:51.2179869Z",
       "dateLastUpdateAttempted": "2019-06-10T04:14:51.2179869Z",
       "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
+      "addonID": 314904,
+      "gameInstanceID": "048d31dd-7055-494c-a9be-45d710eb6414",
+      "installedFile": {
+        "id": 2716458,
+        "displayName": "FTBUtilitiesBackups-1.0.0.4.jar",
+        "fileName": "FTBUtilitiesBackups-1.0.0.4.jar",
+        "fileDate": "2019-05-27T14:31:48.39Z",
+        "fileLength": 42092,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2716/458/FTBUtilitiesBackups-1.0.0.4.jar",
+        "isAlternate": false,
+        "alternateFileId": 2716459,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2316126764,
+            "type": 0
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 3621869198,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 2681097282,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 3152582459,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 1144489633,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 3573654632,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameId": 0,
+        "FileNameOnDisk": "FTBUtilitiesBackups-1.0.0.4.jar"
+      },
+      "dateInstalled": "2019-06-26T05:10:26.0559342Z",
+      "dateUpdated": "2019-06-26T05:10:26.0579319Z",
+      "dateLastUpdateAttempted": "2019-06-26T05:10:26.0579319Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -19983,66 +19983,6 @@
       "installedTargets": null
     },
     {
-      "addonID": 303759,
-      "gameInstanceID": "048d31dd-7055-494c-a9be-45d710eb6414",
-      "installedFile": {
-        "id": 2625227,
-        "displayName": "maxpotidext-0.0.2.1.jar",
-        "fileName": "maxpotidext-0.0.2.1.jar",
-        "fileDate": "2018-10-07T11:03:25.167Z",
-        "fileLength": 17785,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2625/227/maxpotidext-0.0.2.1.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 1052316046,
-            "type": 0
-          },
-          {
-            "foldername": "zabi",
-            "fingerprint": 3997388493,
-            "type": 0
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 1324414036,
-            "type": 0
-          }
-        ],
-        "packageFingerprint": 2759111242,
-        "gameVersion": [
-          "1.12.2"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameId": 0,
-        "FileNameOnDisk": "maxpotidext-0.0.2.1.jar"
-      },
-      "dateInstalled": "2019-06-10T08:15:39.299329Z",
-      "dateUpdated": "2019-06-10T08:15:39.3003265Z",
-      "dateLastUpdateAttempted": "2019-06-10T08:15:39.3003265Z",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
       "addonID": 276951,
       "gameInstanceID": "048d31dd-7055-494c-a9be-45d710eb6414",
       "installedFile": {
@@ -20111,6 +20051,66 @@
       "dateInstalled": "2019-06-10T04:14:35.7494436Z",
       "dateUpdated": "2019-06-10T04:14:35.7514397Z",
       "dateLastUpdateAttempted": "2019-06-10T04:14:35.7514397Z",
+      "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
+      "addonID": 303759,
+      "gameInstanceID": "048d31dd-7055-494c-a9be-45d710eb6414",
+      "installedFile": {
+        "id": 2625227,
+        "displayName": "maxpotidext-0.0.2.1.jar",
+        "fileName": "maxpotidext-0.0.2.1.jar",
+        "fileDate": "2018-10-07T11:03:25.167Z",
+        "fileLength": 17785,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2625/227/maxpotidext-0.0.2.1.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 1052316046,
+            "type": 0
+          },
+          {
+            "foldername": "zabi",
+            "fingerprint": 3997388493,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 1324414036,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 2759111242,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameId": 0,
+        "FileNameOnDisk": "maxpotidext-0.0.2.1.jar"
+      },
+      "dateInstalled": "2019-06-10T08:15:39.299329Z",
+      "dateUpdated": "2019-06-10T08:15:39.3003265Z",
+      "dateLastUpdateAttempted": "2019-06-10T08:15:39.3003265Z",
       "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -20265,76 +20265,6 @@
       "installedTargets": null
     },
     {
-      "addonID": 304889,
-      "gameInstanceID": "048d31dd-7055-494c-a9be-45d710eb6414",
-      "installedFile": {
-        "id": 2695033,
-        "displayName": "storagecabinet-1.1.0.jar",
-        "fileName": "storagecabinet-1.1.0.jar",
-        "fileDate": "2019-04-03T07:54:20.24Z",
-        "fileLength": 34901,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2695/33/storagecabinet-1.1.0.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 2311325181,
-            "type": 0
-          },
-          {
-            "foldername": "com",
-            "fingerprint": 3666970254,
-            "type": 0
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 4271529456,
-            "type": 0
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 3273911401,
-            "type": 0
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 6988781,
-            "type": 0
-          }
-        ],
-        "packageFingerprint": 1986797622,
-        "gameVersion": [
-          "1.12.2"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameId": 0,
-        "FileNameOnDisk": "storagecabinet-1.1.0.jar"
-      },
-      "dateInstalled": "2019-06-10T04:54:43.9846472Z",
-      "dateUpdated": "2019-06-10T04:54:43.9856455Z",
-      "dateLastUpdateAttempted": "2019-06-10T04:54:43.9856455Z",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
       "addonID": 298187,
       "gameInstanceID": "048d31dd-7055-494c-a9be-45d710eb6414",
       "installedFile": {
@@ -20472,6 +20402,76 @@
       "installedTargets": null
     },
     {
+      "addonID": 304889,
+      "gameInstanceID": "048d31dd-7055-494c-a9be-45d710eb6414",
+      "installedFile": {
+        "id": 2695033,
+        "displayName": "storagecabinet-1.1.0.jar",
+        "fileName": "storagecabinet-1.1.0.jar",
+        "fileDate": "2019-04-03T07:54:20.24Z",
+        "fileLength": 34901,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2695/33/storagecabinet-1.1.0.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2311325181,
+            "type": 0
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 3666970254,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 4271529456,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 3273911401,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 6988781,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 1986797622,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameId": 0,
+        "FileNameOnDisk": "storagecabinet-1.1.0.jar"
+      },
+      "dateInstalled": "2019-06-10T04:54:43.9846472Z",
+      "dateUpdated": "2019-06-10T04:54:43.9856455Z",
+      "dateLastUpdateAttempted": "2019-06-10T04:54:43.9856455Z",
+      "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
       "addonID": 271384,
       "gameInstanceID": "048d31dd-7055-494c-a9be-45d710eb6414",
       "installedFile": {
@@ -20537,66 +20537,6 @@
       "installedTargets": null
     },
     {
-      "addonID": 264684,
-      "gameInstanceID": "048d31dd-7055-494c-a9be-45d710eb6414",
-      "installedFile": {
-        "id": 2606175,
-        "displayName": "Dirt2Path - 1.12.2 - 1.8.0",
-        "fileName": "dirt2path-1.8.0.jar",
-        "fileDate": "2018-08-20T16:13:31.133Z",
-        "fileLength": 6069,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2606/175/dirt2path-1.8.0.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 488917075,
-            "type": 0
-          },
-          {
-            "foldername": "com",
-            "fingerprint": 2212135311,
-            "type": 0
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 3429932374,
-            "type": 0
-          }
-        ],
-        "packageFingerprint": 1031004075,
-        "gameVersion": [
-          "1.12.2"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameId": 0,
-        "FileNameOnDisk": "dirt2path-1.8.0.jar"
-      },
-      "dateInstalled": "2019-06-10T04:12:18.7997413Z",
-      "dateUpdated": "2019-06-10T04:12:18.8007386Z",
-      "dateLastUpdateAttempted": "2019-06-10T04:12:18.8007386Z",
-      "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
       "addonID": 224472,
       "gameInstanceID": "048d31dd-7055-494c-a9be-45d710eb6414",
       "installedFile": {
@@ -20650,6 +20590,66 @@
       "dateInstalled": "2019-06-10T04:14:12.9991541Z",
       "dateUpdated": "2019-06-10T04:14:13.0001519Z",
       "dateLastUpdateAttempted": "2019-06-10T04:14:13.0001519Z",
+      "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
+      "addonID": 264684,
+      "gameInstanceID": "048d31dd-7055-494c-a9be-45d710eb6414",
+      "installedFile": {
+        "id": 2606175,
+        "displayName": "Dirt2Path - 1.12.2 - 1.8.0",
+        "fileName": "dirt2path-1.8.0.jar",
+        "fileDate": "2018-08-20T16:13:31.133Z",
+        "fileLength": 6069,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2606/175/dirt2path-1.8.0.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 488917075,
+            "type": 0
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 2212135311,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 3429932374,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 1031004075,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameId": 0,
+        "FileNameOnDisk": "dirt2path-1.8.0.jar"
+      },
+      "dateInstalled": "2019-06-10T04:12:18.7997413Z",
+      "dateUpdated": "2019-06-10T04:12:18.8007386Z",
+      "dateLastUpdateAttempted": "2019-06-10T04:12:18.8007386Z",
       "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -20821,6 +20821,83 @@
       "installedTargets": null
     },
     {
+      "addonID": 225603,
+      "gameInstanceID": "048d31dd-7055-494c-a9be-45d710eb6414",
+      "installedFile": {
+        "id": 2554100,
+        "displayName": "Schematica-1.12.2-1.8.0.169-universal.jar",
+        "fileName": "Schematica-1.12.2-1.8.0.169-universal.jar",
+        "fileDate": "2018-04-22T11:25:44.013Z",
+        "fileLength": 336150,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2554/100/Schematica-1.12.2-1.8.0.169-universal.jar",
+        "isAlternate": false,
+        "alternateFileId": 2554101,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 225605,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2259009432,
+            "type": 0
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 3232049188,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 36905434,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 2532504184,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 1188179102,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 3242696918,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameId": 0,
+        "FileNameOnDisk": "Schematica-1.12.2-1.8.0.169-universal.jar"
+      },
+      "dateInstalled": "2019-06-25T11:02:02.0591828Z",
+      "dateUpdated": "2019-06-25T11:02:02.0601573Z",
+      "dateLastUpdateAttempted": "2019-06-25T11:02:02.0601573Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
       "addonID": 257996,
       "gameInstanceID": "048d31dd-7055-494c-a9be-45d710eb6414",
       "installedFile": {
@@ -20902,83 +20979,6 @@
       "dateUpdated": "2018-06-25T06:47:16.4592889Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
       "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
-      "addonID": 225603,
-      "gameInstanceID": "048d31dd-7055-494c-a9be-45d710eb6414",
-      "installedFile": {
-        "id": 2554100,
-        "displayName": "Schematica-1.12.2-1.8.0.169-universal.jar",
-        "fileName": "Schematica-1.12.2-1.8.0.169-universal.jar",
-        "fileDate": "2018-04-22T11:25:44.013Z",
-        "fileLength": 336150,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2554/100/Schematica-1.12.2-1.8.0.169-universal.jar",
-        "isAlternate": false,
-        "alternateFileId": 2554101,
-        "dependencies": [
-          {
-            "id": 0,
-            "addonId": 225605,
-            "type": 3,
-            "fileId": 0
-          }
-        ],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 2259009432,
-            "type": 0
-          },
-          {
-            "foldername": "com",
-            "fingerprint": 3232049188,
-            "type": 0
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 36905434,
-            "type": 0
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 2532504184,
-            "type": 0
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 1188179102,
-            "type": 0
-          }
-        ],
-        "packageFingerprint": 3242696918,
-        "gameVersion": [
-          "1.12.2"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameId": 0,
-        "FileNameOnDisk": "Schematica-1.12.2-1.8.0.169-universal.jar"
-      },
-      "dateInstalled": "2019-06-25T11:02:02.0591828Z",
-      "dateUpdated": "2019-06-25T11:02:02.0601573Z",
-      "dateLastUpdateAttempted": "2019-06-25T11:02:02.0601573Z",
-      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
