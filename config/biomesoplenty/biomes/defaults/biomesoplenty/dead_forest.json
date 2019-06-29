@@ -72,7 +72,7 @@
       },
       "generationAttempts": 32,
       "amountPerChunk": 0.3,
-      "enable": false
+      "enable": true
     },
     "dead_leaf_piles": {
       "with": {

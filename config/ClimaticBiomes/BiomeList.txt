@@ -129,15 +129,6 @@ biomesoplenty:tropical_island
 biomesoplenty:volcanic_island
 biomesoplenty:flower_island
 elementaristics:mind
-atum:dead_oasis
-atum:deadwood_forest
-atum:dried_river
-atum:limestone_crags
-atum:limestone_mountains
-atum:oasis
-atum:sand_dunes
-atum:sand_hills
-atum:sand_plains
 auxbiomes:marsh
 auxbiomes:wasteland
 auxbiomes:ice_wasteland
