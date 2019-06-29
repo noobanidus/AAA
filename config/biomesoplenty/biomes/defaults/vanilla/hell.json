@@ -16,7 +16,7 @@
       "maxRadius": 9,
       "bottomExtra": 4,
       "amountPerChunk": 0.2,
-      "enable": false,
+      "enable": true,
       "halfHeight": 7,
       "emptyChance": 0.25,
       "layerSize": 3
@@ -30,7 +30,7 @@
       },
       "generationAttempts": 64,
       "amountPerChunk": 0.25,
-      "enable": false
+      "enable": true
     },
     "roots": {
       "with": {
@@ -41,7 +41,7 @@
       },
       "generationAttempts": 32,
       "amountPerChunk": 4.0,
-      "enable": false
+      "enable": true
     }
   }
 }

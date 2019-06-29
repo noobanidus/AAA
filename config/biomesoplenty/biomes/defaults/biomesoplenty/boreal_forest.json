@@ -104,7 +104,7 @@
       },
       "amountPerChunk": 12.0,
       "maxHeight": 32,
-      "enable": false
+      "enable": true
     },
     "roots": {
       "with": {
@@ -142,7 +142,7 @@
       },
       "generationAttempts": 16,
       "amountPerChunk": 0.1,
-      "enable": false
+      "enable": true
     }
   },
   "weights": {
