@@ -1,11 +1,15 @@
 {
+  "enableRain": true,
   "canGenerateRivers": true,
   "beachBiomeLocation": "biomesoplenty:gravel_beach",
+  "rainfall": 0.7,
   "skyColor": -1,
+  "guiColour": 8379261,
   "fogDensity": 1.0,
   "hasBiomeEssence": true,
   "variationBelow": 6.0,
   "variationAbove": 25.0,
+  "waterColor": 16777215,
   "seaFloorBlock": {
     "block": "minecraft:dirt",
     "properties": {
@@ -28,8 +32,10 @@
     }
   },
   "fogColor": -1,
+  "temperature": 0.6,
   "canGenerateVillages": true,
   "canSpawnInBiome": true,
+  "enableSnow": false,
   "generators": {
     "glowshrooms": {
       "with": {
@@ -107,23 +113,7 @@
       "enable": true
     },
     "flax": {
-      "with": {
-        "block": "biomesoplenty:double_plant",
-        "properties": {
-          "half": "lower",
-          "variant": "flax"
-        }
-      },
-      "generationAttempts": 6,
-      "amountPerChunk": 0.1,
-      "enable": true,
-      "withTop": {
-        "block": "biomesoplenty:double_plant",
-        "properties": {
-          "half": "upper",
-          "variant": "flax"
-        }
-      }
+      "enable": true
     },
     "sugar_cane": {
       "minHeight": 1,
@@ -145,15 +135,6 @@
       "generators": {}
     },
     "peridot": {
-      "minHeight": 4,
-      "with": {
-        "block": "biomesoplenty:gem_ore",
-        "properties": {
-          "variant": "peridot"
-        }
-      },
-      "amountPerChunk": 12.0,
-      "maxHeight": 32,
       "enable": true
     },
     "lakes": {

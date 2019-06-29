@@ -35,20 +35,7 @@
       "enable": true
     },
     "quicksand": {
-      "liquid": {
-        "block": "biomesoplenty:sand",
-        "properties": {
-          "level": "0"
-        }
-      },
-      "amountPerChunk": 0.2,
-      "enable": true,
-      "grassBorderWith": {
-        "block": "minecraft:grass",
-        "properties": {
-          "snowy": "false"
-        }
-      }
+      "enable": true
     },
     "roots": {
       "with": {
@@ -62,15 +49,6 @@
       "enable": true
     },
     "ruby": {
-      "minHeight": 4,
-      "with": {
-        "block": "biomesoplenty:gem_ore",
-        "properties": {
-          "variant": "ruby"
-        }
-      },
-      "amountPerChunk": 12.0,
-      "maxHeight": 32,
       "enable": true
     }
   }

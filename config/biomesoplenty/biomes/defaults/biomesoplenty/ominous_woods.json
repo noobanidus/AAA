@@ -1,10 +1,14 @@
 {
+  "enableRain": true,
   "canGenerateRivers": false,
+  "rainfall": 0.6,
   "skyColor": 3687520,
+  "guiColour": 4145489,
   "fogDensity": 0.175,
   "hasBiomeEssence": true,
   "variationBelow": 5.0,
   "variationAbove": 10.0,
+  "waterColor": 1973030,
   "seaFloorBlock": {
     "block": "minecraft:dirt",
     "properties": {
@@ -28,8 +32,10 @@
     }
   },
   "fogColor": 3882316,
+  "temperature": 0.6,
   "canGenerateVillages": false,
   "canSpawnInBiome": false,
+  "enableSnow": false,
   "generators": {
     "glowshrooms": {
       "with": {
@@ -59,14 +65,6 @@
       "enable": true
     },
     "thorns": {
-      "with": {
-        "block": "biomesoplenty:plant_1",
-        "properties": {
-          "variant": "thorn"
-        }
-      },
-      "generationAttempts": 32,
-      "amountPerChunk": 0.3,
       "enable": true
     },
     "dead_leaf_piles": {
@@ -90,39 +88,10 @@
       "enable": true
     },
     "poison_lakes": {
-      "liquid": {
-        "block": "biomesoplenty:poison",
-        "properties": {
-          "level": "0"
-        }
-      },
-      "amountPerChunk": 0.1,
-      "enable": true,
-      "grassBorderWith": {
-        "block": "minecraft:grass",
-        "properties": {
-          "snowy": "false"
-        }
-      }
+      "enable": true
     },
     "bramble": {
-      "with": {
-        "block": "biomesoplenty:bramble_plant",
-        "properties": {
-          "down": "false",
-          "east": "false",
-          "north": "false",
-          "south": "false",
-          "up": "false",
-          "west": "false"
-        }
-      },
-      "generationAttempts": 128,
-      "amountPerChunk": 0.75,
-      "maxHeight": 4,
-      "enable": true,
-      "minLength": 5,
-      "maxLength": 15
+      "enable": true
     },
     "roots": {
       "with": {
@@ -136,15 +105,6 @@
       "enable": true
     },
     "malachite": {
-      "minHeight": 4,
-      "with": {
-        "block": "biomesoplenty:gem_ore",
-        "properties": {
-          "variant": "malachite"
-        }
-      },
-      "amountPerChunk": 12.0,
-      "maxHeight": 32,
       "enable": true
     },
     "trees": {
@@ -153,14 +113,6 @@
       "generators": {}
     },
     "poison_ivy": {
-      "with": {
-        "block": "biomesoplenty:plant_0",
-        "properties": {
-          "variant": "poisonivy"
-        }
-      },
-      "generationAttempts": 16,
-      "amountPerChunk": 0.1,
       "enable": true
     },
     "grass": {

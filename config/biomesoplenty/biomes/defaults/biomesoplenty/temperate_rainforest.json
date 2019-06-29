@@ -1,11 +1,15 @@
 {
+  "enableRain": true,
   "canGenerateRivers": true,
   "beachBiomeLocation": "biomesoplenty:gravel_beach",
+  "rainfall": 1.2,
   "skyColor": -1,
+  "guiColour": 12311907,
   "fogDensity": 1.0,
   "hasBiomeEssence": true,
   "variationBelow": 25.0,
   "variationAbove": 55.0,
+  "waterColor": 16777215,
   "seaFloorBlock": {
     "block": "minecraft:dirt",
     "properties": {
@@ -28,18 +32,12 @@
     }
   },
   "fogColor": -1,
+  "temperature": 0.75,
   "canGenerateVillages": false,
   "canSpawnInBiome": true,
+  "enableSnow": false,
   "generators": {
     "cattail": {
-      "with": {
-        "block": "biomesoplenty:plant_1",
-        "properties": {
-          "variant": "cattail"
-        }
-      },
-      "generationAttempts": 32,
-      "amountPerChunk": 1.0,
       "enable": true
     },
     "medium_lily": {
@@ -102,34 +100,10 @@
       "enable": true
     },
     "poison_ivy": {
-      "with": {
-        "block": "biomesoplenty:plant_0",
-        "properties": {
-          "variant": "poisonivy"
-        }
-      },
-      "generationAttempts": 16,
-      "amountPerChunk": 0.1,
       "enable": true
     },
     "flax": {
-      "with": {
-        "block": "biomesoplenty:double_plant",
-        "properties": {
-          "half": "lower",
-          "variant": "flax"
-        }
-      },
-      "generationAttempts": 32,
-      "amountPerChunk": 0.2,
-      "enable": true,
-      "withTop": {
-        "block": "biomesoplenty:double_plant",
-        "properties": {
-          "half": "upper",
-          "variant": "flax"
-        }
-      }
+      "enable": true
     },
     "grass": {
       "amountPerChunk": 15.0,
@@ -137,14 +111,6 @@
       "generators": {}
     },
     "blue_milk_caps": {
-      "with": {
-        "block": "biomesoplenty:mushroom",
-        "properties": {
-          "variant": "blue_milk_cap"
-        }
-      },
-      "generationAttempts": 16,
-      "amountPerChunk": 0.1,
       "enable": true
     },
     "double_cattail": {
@@ -257,15 +223,6 @@
       }
     },
     "amber": {
-      "minHeight": 4,
-      "with": {
-        "block": "biomesoplenty:gem_ore",
-        "properties": {
-          "variant": "amber"
-        }
-      },
-      "amountPerChunk": 12.0,
-      "maxHeight": 32,
       "enable": true
     },
     "roots": {

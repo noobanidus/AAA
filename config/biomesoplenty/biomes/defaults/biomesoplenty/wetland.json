@@ -1,10 +1,14 @@
 {
+  "enableRain": true,
   "canGenerateRivers": false,
+  "rainfall": 0.7,
   "skyColor": -1,
+  "guiColour": 5215831,
   "fogDensity": 1.0,
   "hasBiomeEssence": true,
   "variationBelow": 5.0,
   "variationAbove": 15.0,
+  "waterColor": 6512772,
   "seaFloorBlock": {
     "block": "biomesoplenty:mud",
     "properties": {
@@ -26,18 +30,12 @@
     }
   },
   "fogColor": -1,
+  "temperature": 0.6,
   "canGenerateVillages": false,
   "canSpawnInBiome": true,
+  "enableSnow": false,
   "generators": {
     "cattail": {
-      "with": {
-        "block": "biomesoplenty:plant_1",
-        "properties": {
-          "variant": "cattail"
-        }
-      },
-      "generationAttempts": 32,
-      "amountPerChunk": 8.0,
       "enable": true
     },
     "medium_lily": {
@@ -127,14 +125,6 @@
       "generators": {}
     },
     "blue_milk_caps": {
-      "with": {
-        "block": "biomesoplenty:mushroom",
-        "properties": {
-          "variant": "blue_milk_cap"
-        }
-      },
-      "generationAttempts": 16,
-      "amountPerChunk": 0.1,
       "enable": true
     },
     "double_cattail": {
@@ -237,15 +227,6 @@
       "enable": true
     },
     "malachite": {
-      "minHeight": 4,
-      "with": {
-        "block": "biomesoplenty:gem_ore",
-        "properties": {
-          "variant": "malachite"
-        }
-      },
-      "amountPerChunk": 12.0,
-      "maxHeight": 32,
       "enable": true
     },
     "water_reeds": {

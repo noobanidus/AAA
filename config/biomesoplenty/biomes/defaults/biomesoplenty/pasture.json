@@ -1,11 +1,15 @@
 {
+  "enableRain": true,
   "canGenerateRivers": true,
   "beachBiomeLocation": "minecraft:beaches",
+  "rainfall": 0.3,
   "skyColor": -1,
+  "guiColour": 13165952,
   "fogDensity": 1.0,
   "hasBiomeEssence": false,
   "variationBelow": 4.0,
   "variationAbove": 6.0,
+  "waterColor": 16777215,
   "seaFloorBlock": {
     "block": "minecraft:dirt",
     "properties": {
@@ -29,8 +33,10 @@
     }
   },
   "fogColor": -1,
+  "temperature": 0.8,
   "canGenerateVillages": false,
   "canSpawnInBiome": true,
+  "enableSnow": false,
   "generators": {
     "glowshrooms": {
       "with": {
@@ -60,26 +66,9 @@
       "generators": {}
     },
     "peridot": {
-      "minHeight": 4,
-      "with": {
-        "block": "biomesoplenty:gem_ore",
-        "properties": {
-          "variant": "peridot"
-        }
-      },
-      "amountPerChunk": 12.0,
-      "maxHeight": 32,
       "enable": true
     },
     "barley": {
-      "with": {
-        "block": "biomesoplenty:plant_1",
-        "properties": {
-          "variant": "barley"
-        }
-      },
-      "generationAttempts": 32,
-      "amountPerChunk": 45.0,
       "enable": true
     },
     "roots": {
