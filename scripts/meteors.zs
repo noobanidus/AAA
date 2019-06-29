@@ -1,18 +1,3 @@
-var oreThaumQuartz = <ore:thaumcraftQuartz>;
-oreThaumQuartz.add(<thaumcraft:ore_quartz>);
-
-var orePorousStone = <ore:porousStone>;
-orePorousStone.add(<thaumcraft:stone_porous>);
-
-var oreBlockFlesh = <ore:blockFlesh>;
-oreBlockFlesh.add(<thaumcraft:flesh_block>);
-
-var oreStoneArcane = <ore:stoneArcane>;
-oreStoneArcane.add(<thaumcraft:stone_arcane>);
-
-var oreStoneArcaneBricks = <ore:stoneArcaneBrick>;
-oreStoneArcaneBricks.add(<thaumcraft:stone_arcane_brick>);
-
 var oreShimmerrock = <ore:shimmerrock>;
 oreShimmerrock.add(<botania:shimmerrock>);
 

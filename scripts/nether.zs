@@ -7,9 +7,6 @@ recipes.remove(<botania:grassseeds:6>);
 
 ManaInfusion.addInfusion(<botania:grassseeds:6>, <betternether:nether_grass>, 2500);
 
-recipes.removeShapeless(<minecraft:sugar>, [<betternether:nether_reed>]);
-recipes.addShapeless(<rusticthaumaturgy:dust_tiny_blaze>, [<betternether:nether_reed>]);
-
 furnace.addRecipe(<betternether:cincinnasite>, <betternether:cincinnasite_ore>);
 
 recipes.addShaped(<betternether:cincinnasite_pot>, [[null, null, null], [<betternether:cincinnasite_wall>, null, <betternether:cincinnasite_wall>], [null, <betternether:cincinnasite_wall>, null]]);

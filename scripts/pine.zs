@@ -11,57 +11,11 @@ val PurpleDye = <ore:dyePurple>;
 val ManaDiamond = <botania:manaresource:2>;
 
 val Hammers = <ore:hammerCrafting>;
-Hammers.add(<vanillatools:tool.hammer_wood:*>);
-Hammers.add(<vanillatools:tool.hammer_stone:*>);
-Hammers.add(<vanillatools:tool.hammer_iron:*>);
-Hammers.add(<vanillatools:tool.hammer_diamond:*>);
-Hammers.add(<vanillatools:tool.hammer_gold:*>);
-Hammers.add(<embers:tinker_hammer:*>);
-Hammers.add(<compham:stone_hammer:*>);
-Hammers.add(<compham:compressed_hammer:*>);
-Hammers.add(<compham:double_hammer:*>);
 
 val Plates = [
-    <embers:plate_copper>,
-    <embers:plate_lead>,
-    <embers:plate_silver>,
-    <embers:plate_dawnstone>,
-    <embers:plate_iron> * 2,
-    <embers:plate_gold> * 2,
-    <embers:plate_aluminum>,
-    <embers:plate_bronze>,
-    <embers:plate_electrum>,
-    <embers:plate_nickel>,
-    <embers:plate_tin>,
-    <thaumcraft:plate> * 2,
-    <thaumcraft:plate:2> * 2,
-    <thaumcraft:plate:3> * 2,
 ] as IItemStack[];
 
 val PlateComponents = [
-    <ore:ingotCopper>,
-    <ore:ingotLead>,
-    <ore:ingotSilver>,
-    <ore:ingotDawnstone>,
-    <ore:ingotIron>,
-    <ore:ingotGold>,
-    <ore:ingotAluminum>,
-    <ore:ingotBronze>,
-    <ore:ingotElectrum>,
-    <ore:ingotNickel>,
-    <ore:ingotTin>,
-    <ore:ingotBrass>,
-    <ore:ingotThaumium>,
-    <ore:ingotVoid>
 ] as IIngredient[];
 
-recipes.addShapeless(BlazeRod, [BlazePowder,BlazePowder,BlazePowder,BlazePowder,BlazePowder,BlazePowder,BlazePowder,BlazePowder,BlazePowder]);
 
-recipes.addShaped(WarpStone, [[PurpleDye,ManaDiamond,PurpleDye],[ManaDiamond,Emerald,ManaDiamond],[PurpleDye,ManaDiamond,PurpleDye]]);
-
-ManaInfusion.addInfusion(WarpStone, NebulousHeart, 5000);
-
-for i, item in Plates {
-    recipes.remove(item);
-    recipes.addShapeless(item, [PlateComponents[i], PlateComponents[i], Hammers.transformDamage(1)]);
-}
