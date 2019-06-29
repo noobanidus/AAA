@@ -1,0 +1,29 @@
+[discord.relay]
+	Token="NTUyMjk0MzU5MDg1NjEzMDk4.XLbkzw.KsDkwoqVx8Qf0BUvuEmCNokdjwo"
+	Server="495786359890509845"
+	RemoteNickFormat="<{NICK}> "
+	ShowJoinPart=true
+
+[api]
+	[api.local]
+		BindAddress="127.0.0.1:4242"
+		#OPTIONAL
+		Token=""
+		Buffer=1000
+		RemoteNickFormat="[{PROTOCOL}] {NICK} "
+		ShowJoinPart=true
+
+
+[[gateway]]
+	name="minecraft"
+	enable=true
+
+[[gateway.inout]]
+	account="discord.relay"
+	channel="ID:541453651831554072"
+	[gateway.inout.options]
+		webhookurl="https://discordapp.com/api/webhooks/552295619910303755/dmTYjoUIQ2bI_cWrNis5CWA2ebxG8jvjzMJsYI_5t5ieNUtLtOlazGqKYPn7Vl6iFQsj"
+[[gateway.inout]]
+	account="api.local"
+	channel="api"
+
