@@ -18549,6 +18549,77 @@
       "installedTargets": []
     },
     {
+      "addonID": 60089,
+      "gameInstanceID": "048d31dd-7055-494c-a9be-45d710eb6414",
+      "installedFile": {
+        "id": 2671937,
+        "displayName": "[1.12.2] Mouse Tweaks 2.10",
+        "fileName": "MouseTweaks-2.10-mc1.12.2.jar",
+        "fileDate": "2019-02-11T11:33:40.123Z",
+        "fileLength": 75170,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2671/937/MouseTweaks-2.10-mc1.12.2.jar",
+        "isAlternate": false,
+        "alternateFileId": 2671938,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 3802495670,
+            "type": 0
+          },
+          {
+            "foldername": "yalter",
+            "fingerprint": 2419623870,
+            "type": 0
+          },
+          {
+            "foldername": "litemod.json",
+            "fingerprint": 3374986446,
+            "type": 0
+          },
+          {
+            "foldername": "mousetweaks_logo.png",
+            "fingerprint": 523611981,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 101733854,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 533666569,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "FileNameOnDisk": "MouseTweaks-2.10-mc1.12.2.jar"
+      },
+      "dateInstalled": "2019-06-30T00:45:42.8814095Z",
+      "dateUpdated": "2019-06-30T00:45:42.8873928Z",
+      "dateLastUpdateAttempted": "2019-06-30T00:45:42.8873928Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
       "addonID": 74610,
       "gameInstanceID": "048d31dd-7055-494c-a9be-45d710eb6414",
       "installedFile": {
@@ -21424,6 +21495,67 @@
       "preferenceReleaseType": null,
       "manifestName": null,
       "installedTargets": null
+    },
+    {
+      "addonID": 289242,
+      "gameInstanceID": "048d31dd-7055-494c-a9be-45d710eb6414",
+      "installedFile": {
+        "id": 2707159,
+        "displayName": "sampler-1.84.jar",
+        "fileName": "sampler-1.84.jar",
+        "fileDate": "2019-05-04T16:32:32.53Z",
+        "fileLength": 307776,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2707/159/sampler-1.84.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 3389879464,
+            "type": 0
+          },
+          {
+            "foldername": "sampler",
+            "fingerprint": 3780653191,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 357307753,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 3933845486,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "FileNameOnDisk": "sampler-1.84.jar"
+      },
+      "dateInstalled": "2019-06-30T00:45:53.1775267Z",
+      "dateUpdated": "2019-06-30T00:45:53.178524Z",
+      "dateLastUpdateAttempted": "2019-06-30T00:45:53.178524Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
     },
     {
       "addonID": 319404,
