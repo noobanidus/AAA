@@ -1,5 +1,6 @@
 import crafttweaker.enchantments.IEnchantmentDefinition;
 import crafttweaker.data.IData;
+import mods.chisel.Carving;
 
 //recipes.addShaped(<quark:backpack>, [[<ore:leather>, <ore:leather>, <ore:leather>],[<ore:gemEmerald>, <comforts:sleeping_bag:*>, <ore:gemEmerald>], [<ore:leather>, <ore:leather>, <ore:leather>]]);
 
@@ -46,14 +47,6 @@ var shears = <minecraft:shears>.anyDamage().or(
     <thermalfoundation:tool.shears_constantan>.anyDamage()).or(
     <thermalfoundation:tool.shears_diamond>.anyDamage()).or(
     <thermalfoundation:tool.shears_gold>.anyDamage());
-
-
-
-
-
-
-
-
 
 // wisdom wood charcoal
 furnace.addRecipe(<minecraft:coal:1>, <wizardry:wisdom_wood_log>, 0.15);
@@ -126,3 +119,5 @@ recipes.remove(<minecraft:enchanting_table>);
 recipes.addShaped(<minecraft:enchanting_table>, [[null, <minecraft:book>, null], [<minecraft:emerald>, <minecraft:stonebrick>, <minecraft:emerald>], [<minecraft:stonebrick>, <minecraft:stonebrick>, <minecraft:stonebrick>]]);
 
 recipes.addShapeless(<minecraft:magma_cream>*4, [<minecraft:magma>]);
+
+Carving.addVariation("marble", <ore:stoneAlabaster>);
