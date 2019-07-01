@@ -113,6 +113,7 @@ Examples:
     </biomeFilter>   
     <dimensionExclude name="twilight_forest"/><!-- sic! TF uses its id for human readable name, too -->
     <dimensionExclude name="Dungeon"/>
+    <dimensionExclude name="atum"/>
   </entry>
 
   <entry id="EnderMiny" mobName="enderiozoo:enderminy" rate="30">
@@ -124,6 +125,7 @@ Examples:
       <biome type="END" exclude="true" />
     </biomeFilter>
     <dimensionExclude name="twilight_forest"/><!-- sic! TF uses its id for human readable name, too -->
+    <dimensionExclude name="atum"/>  
   </entry>
 
   <entry id="FallenKnight" mobName="enderiozoo:fallenknight" rate="30" minGroupSize="1" maxGroupSize="4">
@@ -133,6 +135,7 @@ Examples:
       <biome type="END" exclude="true" />
     </biomeFilter>
     <dimensionExclude name="twilight_forest"/><!-- sic! TF uses its id for human readable name, too -->
+    <dimensionExclude name="atum"/>    
   </entry>
 
   <entry id="WitherWitch" mobName="enderiozoo:witherwitch" rate="5" minGroupSize="1" maxGroupSize="1">
@@ -146,6 +149,7 @@ Examples:
       <biome type="END" exclude="true" />
     </biomeFilter>
     <dimensionExclude name="twilight_forest"/><!-- sic! TF uses its id for human readable name, too -->
+    <dimensionExclude name="atum"/>    
   </entry>
 
   <entry id="DireWolf" mobName="enderiozoo:direwolf" rate="30" minGroupSize="2" maxGroupSize="6">
@@ -155,6 +159,7 @@ Examples:
       <biome type="NETHER" exclude="true" />
       <biome type="END" exclude="true" />
     </biomeFilter>
+    <dimensionExclude name="atum"/>  
   </entry>
 
    <entry id="Owl" mobName="enderiozoo:owl" rate="5" minGroupSize="1" maxGroupSize="1" creatureType="CREATURE">
@@ -167,9 +172,10 @@ Examples:
       <biome type="NETHER" exclude="true" />
       <biome type="END" exclude="true" />
     </biomeFilter>
+    <dimensionExclude name="atum"/>
   </entry>
 
-  <entry id="LoveChild" mobName="enderiozoo:lovechild" creatureType="MONSTER" rate="10" minGroupSize="1" maxGroupSize="1" remove="false">
+  <entry id="LoveChild" mobName="enderiozoo:lovechild" creatureType="MONSTER" rate="10" minGroupSize="1" maxGroupSize="1" remove="true">
     <biomeFilter type="any">
       <biome type="BASE_LAND_TYPES" />
       <biome type="NETHER" exclude="true" />

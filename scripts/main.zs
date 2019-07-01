@@ -120,4 +120,7 @@ recipes.addShaped(<minecraft:enchanting_table>, [[null, <minecraft:book>, null],
 
 recipes.addShapeless(<minecraft:magma_cream>*4, [<minecraft:magma>]);
 
-Carving.addVariation("marble", <ore:stoneAlabaster>);
+Carving.addVariation("marble", <atum:alabaster>);
+Carving.addVariation("basalt", <adventurersamulets:slate>);
+Carving.addVariation("basalt", <rustic:slate>);
+
