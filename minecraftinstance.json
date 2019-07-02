@@ -29,7 +29,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2019-07-01T02:31:32.8976951Z",
+  "lastPlayed": "2019-07-02T11:01:17.3819736Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -9914,6 +9914,74 @@
       "preferenceReleaseType": null,
       "manifestName": null,
       "installedTargets": null
+    },
+    {
+      "addonID": 263905,
+      "gameInstanceID": "048d31dd-7055-494c-a9be-45d710eb6414",
+      "installedFile": {
+        "id": 2553810,
+        "displayName": "EnchantingTable-1.12-1.1.3.jar",
+        "fileName": "EnchantingTable-1.12-1.1.3.jar",
+        "fileDate": "2018-04-21T12:44:19.5Z",
+        "fileLength": 37704,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2553/810/EnchantingTable-1.12-1.1.3.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2787066834,
+            "type": 0
+          },
+          {
+            "foldername": "net",
+            "fingerprint": 961248030,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 1169416562,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 2182276346,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 1374160562,
+        "gameVersion": [
+          "1.12",
+          "1.12.1",
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2017-06-07T05:00:00Z",
+        "gameId": 0,
+        "FileNameOnDisk": "EnchantingTable-1.12-1.1.3.jar"
+      },
+      "dateInstalled": "2019-07-02T10:58:23.0359267Z",
+      "dateUpdated": "2019-07-02T10:58:23.0359267Z",
+      "dateLastUpdateAttempted": "2019-07-02T10:58:23.0359267Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
     },
     {
       "addonID": 268373,
