@@ -16,12 +16,10 @@ ZenScroll.add(<immersiveengineering:metal_decoration1_slab:6>, <immersiveenginee
 ZenScroll.add(<darkutils:filter_inverted:10>, <darkutils:filter:10>);
 ZenScroll.add(<botania:custombrick:10>, <botania:custombrick:11>, <botania:custombrick:12>, <botania:custombrick:13>, <botania:custombrick:14>, <botania:custombrick:15>, <botania:custombrick>, <botania:custombrick:1>, <botania:custombrick:2>, <botania:custombrick:3>, <botania:custombrick:4>, <botania:custombrick:5>, <botania:custombrick:6>, <botania:custombrick:7>, <botania:custombrick:8>, <botania:custombrick:9>);
 ZenScroll.add(<immersiveengineering:metal_decoration1:1>, <immersiveengineering:metal_decoration1:2>, <immersiveengineering:metal_decoration1:3>);
-ZenScroll.add(<statues:blockvillagerpurplecoatstatue>, <statues:blockvillagerstatue>, <statues:blockvillagerwhitecoatstatue>, <statues:blockvillagerbrowncoatstatue>);
 ZenScroll.add(<immersiveengineering:metal_decoration1_slab:3>, <immersiveengineering:metal_decoration1_slab:1>, <immersiveengineering:metal_decoration1_slab:2>);
 ZenScroll.add(<immersiveengineering:aluminum_scaffolding_stairs1>, <immersiveengineering:aluminum_scaffolding_stairs2>, <immersiveengineering:aluminum_scaffolding_stairs0>);
 ZenScroll.add(<rftools:shield_template_block:1>, <rftools:shield_template_block:2>, <rftools:shield_template_block:3>, <rftools:shield_template_block>);
 ZenScroll.add(<immersiveengineering:treated_wood>, <immersiveengineering:treated_wood:1>, <immersiveengineering:treated_wood:2>);
-ZenScroll.add(<statues:blockrabbitstatue>, <statues:blockrabbitwhitespotstatue>, <statues:blockrabbitwhitestatue>, <statues:blockrabbityellowstatue>, <statues:blockrabbitblackspotstatue>, <statues:blockrabbitbrownstatue>);
 ZenScroll.add(<blockcraftery:editable_pressure_plate_all>, <blockcraftery:editable_pressure_plate_mobs>, <blockcraftery:editable_pressure_plate_items>, <blockcraftery:editable_pressure_plate_player>);
 ZenScroll.add(<betteranimalsplus:hirschgeistskull_1>, <betteranimalsplus:hirschgeistskullwearable>);
 ZenScroll.add(<uppers:upper>, <minecraft:hopper>);

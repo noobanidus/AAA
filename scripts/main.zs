@@ -50,6 +50,7 @@ var shears = <minecraft:shears>.anyDamage().or(
 
 // wisdom wood charcoal
 furnace.addRecipe(<minecraft:coal:1>, <wizardry:wisdom_wood_log>, 0.15);
+furnace.addRecipe(<thermalfoundation:material:165>, <thermalfoundation:material:101>, 0.15);
 
 recipes.addShapeless(<minecraft:string>*2, [<ore:blockWool>, shears.transformDamage(1)]);
 
@@ -76,9 +77,7 @@ var enchant = <enchantment:variegated:manabound>.makeEnchantment(1).makeTag() as
 
 var manabound_book = <minecraft:enchanted_book>.withTag({StoredEnchantments: [{lvl: 1 as short, id: 55 as short}]});
 
-recipes.addShaped(<bountifulbaubles:ringflywheel>, [[<ore:nuggetIron>, <ore:ingotCopper>, <ore:nuggetIron>],[<ore:ingotCopper>, <evilcraft:potentia_sphere>, <ore:ingotCopper>], [<ore:nuggetIron>, <ore:ingotCopper>, <ore:nuggetIron>]]);
-
-recipes.addShaped(<bountifulbaubles:ringflywheeladvanced>, [[null, <evilcraft:inverted_potentia>, null], [<evilcraft:inverted_potentia>, <bountifulbaubles:ringflywheel>, <evilcraft:inverted_potentia>], [null, <botania:enderhand>, null]]);
+mods.botania.RuneAltar.addRecipe(manabound_book, [<botania:pump>, <minecraft:writable_book>, <bloodmagic:component:8>, <arcanearchives:storage_raw_quartz>, <botania:rune:8>, <botania:specialflower>.withTag({type: "manastar"})], 100000);
 
 <ore:plankWood>.add(<wizardry:wisdom_wood_planks>);
 
@@ -108,8 +107,6 @@ recipes.removeByRecipeName("betternether:sugar");
 
 mods.bloodmagic.AlchemyArray.addRecipe(<bloodmagic:sigil_whirlwind>, <bloodmagic:component:2>, <bloodmagic:slate:2>);
 
-recipes.removeByRecipeName("bountifulbaubles:ringflywheel");
-
 furnace.addRecipe(<translocators:diamond_nugget>, <minecraft:diamond_horse_armor>);
 
 <ore:stickWood>.add(<simplytea:tea_stick>);
@@ -124,3 +121,12 @@ Carving.addVariation("marble", <atum:alabaster>);
 Carving.addVariation("basalt", <adventurersamulets:slate>);
 Carving.addVariation("basalt", <rustic:slate>);
 
+recipes.remove(<clickmachine:auto_clicker>);
+recipes.addShaped(<clickmachine:auto_clicker>, [[<minecraft:stone:4>, <minecraft:stone:4>, <minecraft:stone:4>], [<minecraft:stone:4>, <minecraft:hopper>, <minecraft:stone:4>], [<minecraft:stone:4>, <minecraft:redstone_block>, <minecraft:stone:4>]]);
+
+var db = <minecraft:diamond_block>;
+var gb = <minecraft:gold_block>;
+var eb = <minecraft:emerald_block>;
+
+recipes.remove(<bloodmagic:activation_crystal:1>);
+recipes.addShaped(<bloodmagic:activation_crystal:1>, [[db, eb, gb], [eb, <bloodmagic:activation_crystal:1>, eb], [gb, eb, db]]);
