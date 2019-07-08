@@ -1,7 +1,7 @@
 {
   "generateTechRebornFeatures": true,
   "generateOres": true,
-  "retroGenOres": false,
+  "retroGenOres": true,
   "overworldOresInModdedDims": true,
   "overworldOres": [
     {
@@ -48,11 +48,11 @@
       "blockName": "tile.techreborn.ore",
       "blockNiceName": "Bauxite",
       "meta": 4,
-      "veinSize": 0,
+      "veinSize": 5,
       "veinsPerChunk": 10,
       "minYHeight": 10,
       "maxYHeight": 60,
-      "shouldSpawn": false
+      "shouldSpawn": true
     },
     {
       "blockName": "tile.techreborn.ore",

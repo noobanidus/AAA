@@ -29,7 +29,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2019-07-08T09:44:36.6790741Z",
+  "lastPlayed": "2019-07-08T10:09:04.3962611Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -8344,6 +8344,77 @@
       "preferenceReleaseType": null,
       "manifestName": null,
       "installedTargets": null
+    },
+    {
+      "addonID": 316304,
+      "gameInstanceID": "a690e0c3-76ab-464e-827b-9ce1090c70c5",
+      "installedFile": {
+        "id": 2687139,
+        "displayName": "lootcapacitortooltips-1.3.jar",
+        "fileName": "lootcapacitortooltips-1.3.jar",
+        "fileDate": "2019-03-14T17:37:38.093Z",
+        "fileLength": 9535,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2687/139/lootcapacitortooltips-1.3.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2428632756,
+            "type": 0
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 696591320,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 2019469353,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 22487156,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 811688840,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 60008387,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2017-09-18T05:00:00Z",
+        "gameId": 0,
+        "FileNameOnDisk": "lootcapacitortooltips-1.3.jar"
+      },
+      "dateInstalled": "2019-07-08T09:54:39.5311042Z",
+      "dateUpdated": "2019-07-08T09:54:39.5321018Z",
+      "dateLastUpdateAttempted": "2019-07-08T09:54:39.5321018Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
     },
     {
       "addonID": 224713,
