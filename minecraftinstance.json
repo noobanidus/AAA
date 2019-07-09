@@ -29,7 +29,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2019-07-08T12:35:33.5055406Z",
+  "lastPlayed": "2019-07-09T06:27:46.7712276Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -404,6 +404,21 @@
       "queryTimestamp": "2019-07-08T12:34:28.9918592Z",
       "fileCount": 1,
       "fileSize": 25313
+    },
+    {
+      "folderName": "arcanearchives-0.2.0-preview18-hotfix4.jar",
+      "fingerprint": 965537241,
+      "fileDateHash": 1796878706,
+      "sectionID": 8,
+      "individualFingerprints": [
+        965537241
+      ],
+      "status": 1,
+      "timestamp": "2019-07-09T06:26:50.7382231Z",
+      "lastWriteTimeUtc": "2019-07-09T06:20:15.0778907Z",
+      "queryTimestamp": "2019-07-09T06:26:51.8903626Z",
+      "fileCount": 1,
+      "fileSize": 4570450
     },
     {
       "folderName": "EquipmentTooltips-1.12.2-1.0.3-4.jar",
@@ -5458,7 +5473,7 @@
     }
   ],
   "isValid": true,
-  "lastPreviousMatchUpdate": "2019-07-08T12:34:31.4494834Z",
+  "lastPreviousMatchUpdate": "2019-07-09T06:11:39.0475594Z",
   "isEnabled": true,
   "isPinned": false,
   "gameVersion": "1.12.2",
@@ -14040,7 +14055,7 @@
       "dateInstalled": "2019-06-29T06:55:32.8266137Z",
       "dateUpdated": "2018-06-29T06:55:32.8266137Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
-      "status": 5,
+      "status": 3,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -19904,7 +19919,7 @@
       "dateInstalled": "2019-06-10T04:23:53.5721208Z",
       "dateUpdated": "2019-07-08T09:07:26.7195352Z",
       "dateLastUpdateAttempted": "2019-07-08T09:07:26.7195352Z",
-      "status": 4,
+      "status": 3,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -20114,7 +20129,7 @@
       "dateInstalled": "2019-06-10T04:23:54.2213832Z",
       "dateUpdated": "2019-07-08T09:07:59.8403041Z",
       "dateLastUpdateAttempted": "2019-07-08T09:07:59.8403041Z",
-      "status": 4,
+      "status": 3,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
