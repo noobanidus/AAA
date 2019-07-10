@@ -1,7 +1,7 @@
 {
   "generateTechRebornFeatures": true,
   "generateOres": true,
-  "retroGenOres": true,
+  "retroGenOres": false,
   "overworldOresInModdedDims": true,
   "overworldOres": [
     {
