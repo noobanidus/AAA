@@ -3,11 +3,18 @@
 make sure to disable defaultCommand if you want your edits to have any effect */ 
 	"tps": { 
 		"type": "EXECUTE",
-		"execute": "forge tps",
+		"execute": "sampler tps",
 		"help": "Print platform tps",
 		"timeout": 200,
-		"defaultCommand": true
+		"defaultCommand": false
 	},
+    "entity": {
+        "type": "EXECUTE",
+        "execute": "forge entity list",
+        "help": "Print list of entities",
+        "timeout": 200,
+        "defaultCommand": false
+    },
 	/* lists all the players, this is just a straight pass-through */ 
 	"list": { 
 		"type": "EXECUTE",
