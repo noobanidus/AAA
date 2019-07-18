@@ -29,7 +29,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2019-07-18T07:56:47.9606316Z",
+  "lastPlayed": "2019-07-18T08:23:44.9445367Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -2006,6 +2006,21 @@
       "fileSize": 211210
     },
     {
+      "folderName": "ClimaticBiomes-2.11.0-MC1.12.2.jar",
+      "fingerprint": 861225175,
+      "fileDateHash": 943594774,
+      "sectionID": 8,
+      "individualFingerprints": [
+        861225175
+      ],
+      "status": 1,
+      "timestamp": "2019-07-18T08:21:50.3494942Z",
+      "lastWriteTimeUtc": "2019-07-18T07:56:28.8132719Z",
+      "queryTimestamp": "2019-07-18T08:21:54.1066263Z",
+      "fileCount": 1,
+      "fileSize": 287345
+    },
+    {
       "folderName": "infinimend-1.12-1.0.2.jar",
       "fingerprint": 3455444277,
       "fileDateHash": 1218646930,
@@ -2049,21 +2064,6 @@
       "queryTimestamp": "2019-07-18T05:01:53.2482796Z",
       "fileCount": 1,
       "fileSize": 1117860
-    },
-    {
-      "folderName": "Charm-1.12.2-1.2.0.jar",
-      "fingerprint": 3836964927,
-      "fileDateHash": 508256482,
-      "sectionID": 8,
-      "individualFingerprints": [
-        3836964927
-      ],
-      "status": 1,
-      "timestamp": "2019-07-18T07:38:57.2175873Z",
-      "lastWriteTimeUtc": "2019-07-17T01:33:12.0898319Z",
-      "queryTimestamp": "2019-07-18T07:38:59.0350044Z",
-      "fileCount": 1,
-      "fileSize": 2350225
     },
     {
       "folderName": "RedstoneFlux-1.12-2.1.0.6-universal.jar",
@@ -2609,21 +2609,6 @@
       "fileSize": 423985
     },
     {
-      "folderName": "ClimaticBiomes-2.10.2-MC1.12.2.jar",
-      "fingerprint": 1874913080,
-      "fileDateHash": 276269531,
-      "sectionID": 8,
-      "individualFingerprints": [
-        1874913080
-      ],
-      "status": 1,
-      "timestamp": "2019-07-17T01:32:30.9644028Z",
-      "lastWriteTimeUtc": "2019-07-08T09:07:02.270125Z",
-      "queryTimestamp": "2019-07-18T05:01:53.2542639Z",
-      "fileCount": 1,
-      "fileSize": 276426
-    },
-    {
       "folderName": "EqualDragons-1.1.jar",
       "fingerprint": 3491320668,
       "fileDateHash": 3107547853,
@@ -2819,6 +2804,21 @@
       "fileSize": 106200
     },
     {
+      "folderName": "Charm-1.12.2-1.2.2.jar",
+      "fingerprint": 2310734752,
+      "fileDateHash": 1839208569,
+      "sectionID": 8,
+      "individualFingerprints": [
+        2310734752
+      ],
+      "status": 1,
+      "timestamp": "2019-07-18T08:21:50.3195732Z",
+      "lastWriteTimeUtc": "2019-07-18T07:41:26.3779671Z",
+      "queryTimestamp": "2019-07-18T08:21:54.1165998Z",
+      "fileCount": 1,
+      "fileSize": 2369851
+    },
+    {
       "folderName": "New World",
       "fingerprint": 1399039979,
       "fileDateHash": 1122954828,
@@ -2908,6 +2908,21 @@
       "queryTimestamp": "2019-07-18T05:01:53.2582227Z",
       "fileCount": 25,
       "fileSize": 0
+    },
+    {
+      "folderName": "rats-1.2.0.jar",
+      "fingerprint": 973822731,
+      "fileDateHash": 89394654,
+      "sectionID": 8,
+      "individualFingerprints": [
+        973822731
+      ],
+      "status": 1,
+      "timestamp": "2019-07-18T08:21:50.3624591Z",
+      "lastWriteTimeUtc": "2019-07-18T08:21:41.3878326Z",
+      "queryTimestamp": "2019-07-18T08:21:54.1165998Z",
+      "fileCount": 1,
+      "fileSize": 1111666
     },
     {
       "folderName": "fairylights-2.1.9-1.12.2.jar",
@@ -3268,6 +3283,140 @@
       "queryTimestamp": "2019-07-18T05:01:53.2632357Z",
       "fileCount": 1,
       "fileSize": 687265
+    },
+    {
+      "folderName": "New World-------------",
+      "fingerprint": 65767608,
+      "fileDateHash": 2384345583,
+      "sectionID": 10,
+      "individualFingerprints": [
+        88728684,
+        418364933,
+        418801279,
+        451443972,
+        489458212,
+        489458212,
+        489458212,
+        489458212,
+        489458212,
+        489458212,
+        489458212,
+        489458212,
+        489458212,
+        489458212,
+        489458212,
+        518280179,
+        521758094,
+        521758094,
+        521758094,
+        521758094,
+        521758094,
+        521758094,
+        521758094,
+        521758094,
+        521758094,
+        521758094,
+        521758094,
+        530397844,
+        556806056,
+        602301580,
+        603855462,
+        724659825,
+        758054953,
+        758054953,
+        758054953,
+        758054953,
+        758054953,
+        758054953,
+        758054953,
+        758054953,
+        758054953,
+        758054953,
+        758054953,
+        758054953,
+        771314325,
+        797505050,
+        875898221,
+        946684898,
+        1299060983,
+        1330329714,
+        1417213679,
+        1562003159,
+        1606634387,
+        1674332543,
+        1680369207,
+        1685152590,
+        2041054356,
+        2052061562,
+        2089102037,
+        2155785570,
+        2155785570,
+        2291137719,
+        2449232165,
+        2455706544,
+        2460166291,
+        2476945057,
+        2484402027,
+        2521672924,
+        2618824862,
+        2643933950,
+        2659508606,
+        2670962934,
+        2696029632,
+        2763463119,
+        2829451197,
+        2905753947,
+        3114979374,
+        3134755400,
+        3181806401,
+        3184781582,
+        3209842843,
+        3225078313,
+        3225078313,
+        3225078313,
+        3225078313,
+        3225078313,
+        3225078313,
+        3225078313,
+        3225078313,
+        3225078313,
+        3225078313,
+        3225078313,
+        3228932044,
+        3279369655,
+        3383409723,
+        3410035877,
+        3480624903,
+        3576782416,
+        3603999557,
+        3650105178,
+        3695448288,
+        3736006272,
+        3771282984,
+        3771282984,
+        3771282984,
+        3771282984,
+        3771282984,
+        3771282984,
+        3771556584,
+        3867272697,
+        4027712220,
+        4213863462,
+        4213863462,
+        4228280027,
+        4228856904,
+        4270278703,
+        4272588933,
+        4272588933,
+        4272588933,
+        4285383821
+      ],
+      "status": 1,
+      "timestamp": "2019-07-18T08:21:50.3863957Z",
+      "lastWriteTimeUtc": "2019-07-18T08:14:24.894653Z",
+      "queryTimestamp": "2019-07-18T08:21:54.1215872Z",
+      "fileCount": 25,
+      "fileSize": 0
     },
     {
       "folderName": "InventoryTweaks-1.64+dev.146.jar",
@@ -4678,21 +4827,6 @@
       "fileSize": 2678946
     },
     {
-      "folderName": "SuperFactoryManager-1.12.2-2.0.19.jar",
-      "fingerprint": 3434875599,
-      "fileDateHash": 8729916,
-      "sectionID": 8,
-      "individualFingerprints": [
-        3434875599
-      ],
-      "status": 1,
-      "timestamp": "2019-07-17T01:32:34.397141Z",
-      "lastWriteTimeUtc": "2019-06-29T01:11:42.6012726Z",
-      "queryTimestamp": "2019-07-18T05:01:53.2811613Z",
-      "fileCount": 1,
-      "fileSize": 714254
-    },
-    {
       "folderName": "SeedsForWizardry 1.0 For MC Forge 1.12.2.jar",
       "fingerprint": 143495703,
       "fileDateHash": 207210779,
@@ -4833,6 +4967,21 @@
       "queryTimestamp": "2019-07-18T05:01:53.2821586Z",
       "fileCount": 24,
       "fileSize": 0
+    },
+    {
+      "folderName": "SuperFactoryManager-1.12.2-2.0.20.jar",
+      "fingerprint": 452339861,
+      "fileDateHash": 714717247,
+      "sectionID": 8,
+      "individualFingerprints": [
+        452339861
+      ],
+      "status": 1,
+      "timestamp": "2019-07-18T08:21:50.3674471Z",
+      "lastWriteTimeUtc": "2019-07-18T07:41:33.7131771Z",
+      "queryTimestamp": "2019-07-18T08:21:54.1405367Z",
+      "fileCount": 1,
+      "fileSize": 718709
     },
     {
       "folderName": "LootTweaker-1.12.2-0.0.10.jar",
@@ -5443,7 +5592,7 @@
     }
   ],
   "isValid": true,
-  "lastPreviousMatchUpdate": "2019-07-18T07:39:00.6198764Z",
+  "lastPreviousMatchUpdate": "2019-07-18T08:21:55.9520717Z",
   "isEnabled": true,
   "isPinned": false,
   "gameVersion": "1.12.2",
@@ -18218,6 +18367,84 @@
       "installedTargets": []
     },
     {
+      "addonID": 323596,
+      "gameInstanceID": "a690e0c3-76ab-464e-827b-9ce1090c70c5",
+      "installedFile": {
+        "id": 2737428,
+        "displayName": "rats-1.2.0-1.12.2",
+        "fileName": "rats-1.2.0.jar",
+        "fileDate": "2019-07-08T03:50:02.91Z",
+        "fileLength": 1111666,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2737/428/rats-1.2.0.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 243298,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 3126393265,
+            "type": 0
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 2921926187,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 2471192574,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 2801587949,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 3273911401,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 973822731,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2017-09-18T05:00:00Z",
+        "gameId": 0,
+        "FileNameOnDisk": "rats-1.2.0.jar"
+      },
+      "dateInstalled": "2019-07-18T08:21:41.3878326Z",
+      "dateUpdated": "2019-07-18T08:21:41.3898285Z",
+      "dateLastUpdateAttempted": "2019-07-18T08:21:41.3898285Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
       "addonID": 253230,
       "gameInstanceID": "a690e0c3-76ab-464e-827b-9ce1090c70c5",
       "installedFile": {
@@ -19446,25 +19673,58 @@
         "alternateFileId": 2743348,
         "dependencies": [],
         "isAvailable": true,
-        "modules": [],
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 3321594808,
+            "type": 3
+          },
+          {
+            "foldername": "vswe",
+            "fingerprint": 2837041745,
+            "type": 3
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 1764214519,
+            "type": 3
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 1402182164,
+            "type": 3
+          }
+        ],
         "packageFingerprint": 452339861,
         "gameVersion": [
           "1.12.2"
         ],
+        "sortableGameVersion": [
+          {
+            "gameVersionPadded": "0000000001.0000000012.0000000002",
+            "gameVersion": "1.12.2",
+            "gameVersionReleaseDate": "2017-09-18T05:00:00Z",
+            "gameVersionName": "1.12.2"
+          }
+        ],
         "hasInstallScript": false,
         "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
+        "categorySectionPackageType": 6,
+        "restrictProjectFileAccess": 1,
+        "projectStatus": 4,
+        "renderCacheId": 1598243,
+        "projectId": 306935,
+        "packageFingerprintId": 333847836,
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
-        "gameId": 0,
+        "gameVersionMappingId": 1864178,
+        "gameVersionId": 4458,
+        "gameId": 432,
         "FileNameOnDisk": "SuperFactoryManager-1.12.2-2.0.20.jar"
       },
-      "dateInstalled": "2019-06-10T04:38:04.6090768Z",
-      "dateUpdated": "2019-07-18T07:41:33.733096Z",
-      "dateLastUpdateAttempted": "2019-07-18T07:41:33.733096Z",
-      "status": 4,
+      "dateInstalled": "2019-07-18T08:21:55.9520717Z",
+      "dateUpdated": "2018-07-18T08:21:55.9520717Z",
+      "dateLastUpdateAttempted": "0001-01-01T00:00:00",
+      "status": 5,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -19473,7 +19733,7 @@
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
       "manifestName": null,
-      "installedTargets": null
+      "installedTargets": []
     },
     {
       "addonID": 319227,
