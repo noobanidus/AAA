@@ -29,7 +29,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2019-07-18T08:23:44.9445367Z",
+  "lastPlayed": "2019-07-18T11:16:44.7419382Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -1591,21 +1591,6 @@
       "fileSize": 264423
     },
     {
-      "folderName": "Roots-1.12.2-3.0.3.jar",
-      "fingerprint": 2958600894,
-      "fileDateHash": 3721025531,
-      "sectionID": 8,
-      "individualFingerprints": [
-        2958600894
-      ],
-      "status": 1,
-      "timestamp": "2019-07-18T06:55:45.2671126Z",
-      "lastWriteTimeUtc": "2019-07-18T05:46:46.8617773Z",
-      "queryTimestamp": "2019-07-18T06:55:46.1924744Z",
-      "fileCount": 1,
-      "fileSize": 1372244
-    },
-    {
       "folderName": "LunatriusCore-1.12.2-1.2.0.42-universal.jar",
       "fingerprint": 1145034958,
       "fileDateHash": 283650924,
@@ -2908,21 +2893,6 @@
       "queryTimestamp": "2019-07-18T05:01:53.2582227Z",
       "fileCount": 25,
       "fileSize": 0
-    },
-    {
-      "folderName": "rats-1.2.0.jar",
-      "fingerprint": 973822731,
-      "fileDateHash": 89394654,
-      "sectionID": 8,
-      "individualFingerprints": [
-        973822731
-      ],
-      "status": 1,
-      "timestamp": "2019-07-18T08:21:50.3624591Z",
-      "lastWriteTimeUtc": "2019-07-18T08:21:41.3878326Z",
-      "queryTimestamp": "2019-07-18T08:21:54.1165998Z",
-      "fileCount": 1,
-      "fileSize": 1111666
     },
     {
       "folderName": "fairylights-2.1.9-1.12.2.jar",
@@ -4855,6 +4825,21 @@
       "queryTimestamp": "2019-07-18T05:01:53.2811613Z",
       "fileCount": 1,
       "fileSize": 33622
+    },
+    {
+      "folderName": "Roots-1.12.2-3.0.4.jar",
+      "fingerprint": 1931601040,
+      "fileDateHash": 1519315207,
+      "sectionID": 8,
+      "individualFingerprints": [
+        1931601040
+      ],
+      "status": 1,
+      "timestamp": "2019-07-18T08:33:09.8606961Z",
+      "lastWriteTimeUtc": "2019-07-18T08:32:57.6243393Z",
+      "queryTimestamp": "2019-07-18T08:33:10.7530282Z",
+      "fileCount": 1,
+      "fileSize": 1372331
     },
     {
       "folderName": "PotionCore-1.8_for_1.12.2.jar",
@@ -18356,84 +18341,6 @@
       "dateUpdated": "2018-07-18T07:39:00.6168734Z",
       "dateLastUpdateAttempted": "0001-01-01T00:00:00",
       "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": []
-    },
-    {
-      "addonID": 323596,
-      "gameInstanceID": "a690e0c3-76ab-464e-827b-9ce1090c70c5",
-      "installedFile": {
-        "id": 2737428,
-        "displayName": "rats-1.2.0-1.12.2",
-        "fileName": "rats-1.2.0.jar",
-        "fileDate": "2019-07-08T03:50:02.91Z",
-        "fileLength": 1111666,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2737/428/rats-1.2.0.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [
-          {
-            "id": 0,
-            "addonId": 243298,
-            "type": 3,
-            "fileId": 0
-          }
-        ],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 3126393265,
-            "type": 0
-          },
-          {
-            "foldername": "com",
-            "fingerprint": 2921926187,
-            "type": 0
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 2471192574,
-            "type": 0
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 2801587949,
-            "type": 0
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 3273911401,
-            "type": 0
-          }
-        ],
-        "packageFingerprint": 973822731,
-        "gameVersion": [
-          "1.12.2"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2017-09-18T05:00:00Z",
-        "gameId": 0,
-        "FileNameOnDisk": "rats-1.2.0.jar"
-      },
-      "dateInstalled": "2019-07-18T08:21:41.3878326Z",
-      "dateUpdated": "2019-07-18T08:21:41.3898285Z",
-      "dateLastUpdateAttempted": "2019-07-18T08:21:41.3898285Z",
-      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
