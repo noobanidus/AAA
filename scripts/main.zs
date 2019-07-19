@@ -3,8 +3,6 @@ import crafttweaker.data.IData;
 import mods.chisel.Carving;
 
 //recipes.addShaped(<quark:backpack>, [[<ore:leather>, <ore:leather>, <ore:leather>],[<ore:gemEmerald>, <comforts:sleeping_bag:*>, <ore:gemEmerald>], [<ore:leather>, <ore:leather>, <ore:leather>]]);
-
-# Hide this just the wooden one
 recipes.remove(<hooked:hook:4>);
 
 // better leads
@@ -130,3 +128,7 @@ var eb = <minecraft:emerald_block>;
 
 recipes.remove(<bloodmagic:activation_crystal:1>);
 recipes.addShaped(<bloodmagic:activation_crystal:1>, [[db, eb, gb], [eb, <bloodmagic:activation_crystal:1>, eb], [gb, eb, db]]);
+
+eb = <charm:ender_pearl_block>;
+
+recipes.addShaped(<hooked:hook:4>, [[eb, eb, <darkutils:ender_tether>], [null, <hooked:hook:2>, eb], [<hooked:hook:2>, null, eb]]);
