@@ -115,6 +115,8 @@ recipes.addShaped(<minecraft:enchanting_table>, [[null, <minecraft:book>, null],
 
 recipes.addShapeless(<minecraft:magma_cream>*4, [<minecraft:magma>]);
 
+recipes.addShapeless(<quark:enderdragon_scale>, [<bountifulbaubles:enderdragonscale>]);
+
 Carving.addVariation("marble", <atum:alabaster>);
 Carving.addVariation("basalt", <adventurersamulets:slate>);
 Carving.addVariation("basalt", <rustic:slate>);
