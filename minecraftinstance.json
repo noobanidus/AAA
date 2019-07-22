@@ -29,7 +29,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2019-07-19T07:42:06.9114044Z",
+  "lastPlayed": "2019-07-22T07:16:19.1308917Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -44,6 +44,21 @@
   "installPath": "E:\\ftb\\NewRevelations\\Instances\\ArcRevisited\\",
   "name": "ArcRevisited",
   "cachedScans": [
+    {
+      "folderName": "Charset-Lib-0.5.6.2.jar",
+      "fingerprint": 2623482113,
+      "fileDateHash": 2961747222,
+      "sectionID": 8,
+      "individualFingerprints": [
+        2623482113
+      ],
+      "status": 1,
+      "timestamp": "2019-07-22T07:15:42.4118622Z",
+      "lastWriteTimeUtc": "2019-07-22T07:10:49.0111192Z",
+      "queryTimestamp": "2019-07-22T07:15:43.4645761Z",
+      "fileCount": 1,
+      "fileSize": 1051484
+    },
     {
       "folderName": "EvilCraft-1.12.2-0.10.76.jar",
       "fingerprint": 3229590757,
@@ -555,6 +570,21 @@
       "fileSize": 169528
     },
     {
+      "folderName": "xnet-1.12-1.8.2.jar",
+      "fingerprint": 1881973158,
+      "fileDateHash": 438733473,
+      "sectionID": 8,
+      "individualFingerprints": [
+        1881973158
+      ],
+      "status": 1,
+      "timestamp": "2019-07-22T07:15:42.4477653Z",
+      "lastWriteTimeUtc": "2019-07-22T07:11:46.789685Z",
+      "queryTimestamp": "2019-07-22T07:15:43.4735495Z",
+      "fileCount": 1,
+      "fileSize": 496307
+    },
+    {
       "folderName": "jetif-1.12.2-1.5.1.jar",
       "fingerprint": 83244307,
       "fileDateHash": 756609981,
@@ -703,21 +733,6 @@
       "queryTimestamp": "2019-07-22T07:09:49.9013192Z",
       "fileCount": 1,
       "fileSize": 20198
-    },
-    {
-      "folderName": "mcjtylib-1.12-3.5.3.jar",
-      "fingerprint": 859064496,
-      "fileDateHash": 3919489910,
-      "sectionID": 8,
-      "individualFingerprints": [
-        859064496
-      ],
-      "status": 1,
-      "timestamp": "2019-07-17T01:32:33.1771932Z",
-      "lastWriteTimeUtc": "2019-06-19T02:43:20.0506139Z",
-      "queryTimestamp": "2019-07-22T07:09:49.9013192Z",
-      "fileCount": 1,
-      "fileSize": 544583
     },
     {
       "folderName": "supersoundmuffler-1.12.2-1.0.2.10.jar",
@@ -1289,21 +1304,6 @@
       "fileSize": 106843
     },
     {
-      "folderName": "arcanearchives-0.2.0-preview19-hotfix3.jar",
-      "fingerprint": 757910572,
-      "fileDateHash": 1139769088,
-      "sectionID": 8,
-      "individualFingerprints": [
-        757910572
-      ],
-      "status": 1,
-      "timestamp": "2019-07-19T07:12:37.4313348Z",
-      "lastWriteTimeUtc": "2019-07-19T06:39:39.4955007Z",
-      "queryTimestamp": "2019-07-22T07:09:49.9102955Z",
-      "fileCount": 1,
-      "fileSize": 4677844
-    },
-    {
       "folderName": "MCMultiPart-2.5.3.jar",
       "fingerprint": 909753984,
       "fileDateHash": 1944464026,
@@ -1546,6 +1546,21 @@
       "fileSize": 422548
     },
     {
+      "folderName": "arcanearchives-0.2.0-pre-beta1.jar",
+      "fingerprint": 3908327100,
+      "fileDateHash": 936281881,
+      "sectionID": 8,
+      "individualFingerprints": [
+        3908327100
+      ],
+      "status": 1,
+      "timestamp": "2019-07-22T07:15:42.3899204Z",
+      "lastWriteTimeUtc": "2019-07-22T07:00:01.3861398Z",
+      "queryTimestamp": "2019-07-22T07:15:43.4895095Z",
+      "fileCount": 1,
+      "fileSize": 4713583
+    },
+    {
       "folderName": "GiacomosBookshelf-1.12.2-1.2.jar",
       "fingerprint": 506615943,
       "fileDateHash": 2476367548,
@@ -1589,6 +1604,21 @@
       "queryTimestamp": "2019-07-22T07:09:49.9132868Z",
       "fileCount": 1,
       "fileSize": 76753
+    },
+    {
+      "folderName": "rftools-1.12-7.72.jar",
+      "fingerprint": 682615946,
+      "fileDateHash": 2175119471,
+      "sectionID": 8,
+      "individualFingerprints": [
+        682615946
+      ],
+      "status": 1,
+      "timestamp": "2019-07-22T07:15:42.4357977Z",
+      "lastWriteTimeUtc": "2019-07-22T07:11:40.0483373Z",
+      "queryTimestamp": "2019-07-22T07:15:43.4915026Z",
+      "fileCount": 1,
+      "fileSize": 2895812
     },
     {
       "folderName": "OceanFloor-1.12.2-1.0.2.jar",
@@ -1679,21 +1709,6 @@
       "queryTimestamp": "2019-07-22T07:09:49.9142845Z",
       "fileCount": 1,
       "fileSize": 161626
-    },
-    {
-      "folderName": "elementaristics-0.0.9.4.jar",
-      "fingerprint": 287343729,
-      "fileDateHash": 1426562883,
-      "sectionID": 8,
-      "individualFingerprints": [
-        287343729
-      ],
-      "status": 1,
-      "timestamp": "2019-07-21T03:19:39.1777991Z",
-      "lastWriteTimeUtc": "2019-07-21T03:18:40.5708241Z",
-      "queryTimestamp": "2019-07-22T07:09:49.9142845Z",
-      "fileCount": 1,
-      "fileSize": 2199269
     },
     {
       "folderName": "BiomeStaff-1.12.2-1.0.0.jar",
@@ -1916,6 +1931,21 @@
       "fileSize": 9535
     },
     {
+      "folderName": "moreoverlays-1.15.1-mc1.12.2.jar",
+      "fingerprint": 3847633420,
+      "fileDateHash": 2520988969,
+      "sectionID": 8,
+      "individualFingerprints": [
+        3847633420
+      ],
+      "status": 1,
+      "timestamp": "2019-07-22T07:15:42.4357977Z",
+      "lastWriteTimeUtc": "2019-07-22T07:11:21.7124349Z",
+      "queryTimestamp": "2019-07-22T07:15:43.4954918Z",
+      "fileCount": 1,
+      "fileSize": 51284
+    },
+    {
       "folderName": "CoFHCore-1.12.2-4.6.3.27-universal.jar",
       "fingerprint": 3521813500,
       "fileDateHash": 964788876,
@@ -2094,6 +2124,21 @@
       "queryTimestamp": "2019-07-22T07:09:49.9192717Z",
       "fileCount": 1,
       "fileSize": 100362
+    },
+    {
+      "folderName": "elementaristics-0.0.9.5.jar",
+      "fingerprint": 3042197246,
+      "fileDateHash": 4261836314,
+      "sectionID": 8,
+      "individualFingerprints": [
+        3042197246
+      ],
+      "status": 1,
+      "timestamp": "2019-07-22T07:15:42.4168489Z",
+      "lastWriteTimeUtc": "2019-07-22T07:10:56.2516877Z",
+      "queryTimestamp": "2019-07-22T07:15:43.4994816Z",
+      "fileCount": 1,
+      "fileSize": 2199273
     },
     {
       "folderName": "Morph-o-Tool-1.2-21.jar",
@@ -3503,21 +3548,6 @@
       "fileSize": 155196
     },
     {
-      "folderName": "moreoverlays-1.15.0.jar",
-      "fingerprint": 3737606038,
-      "fileDateHash": 3816824446,
-      "sectionID": 8,
-      "individualFingerprints": [
-        3737606038
-      ],
-      "status": 1,
-      "timestamp": "2019-07-18T07:38:57.4353212Z",
-      "lastWriteTimeUtc": "2019-07-17T01:34:04.4902302Z",
-      "queryTimestamp": "2019-07-22T07:09:49.9392193Z",
-      "fileCount": 1,
-      "fileSize": 51827
-    },
-    {
       "folderName": "BetterAdvancements-1.12.2-0.1.0.77.jar",
       "fingerprint": 1663259258,
       "fileDateHash": 2687008128,
@@ -3561,21 +3591,6 @@
       "queryTimestamp": "2019-07-22T07:09:49.9402164Z",
       "fileCount": 1,
       "fileSize": 2312713
-    },
-    {
-      "folderName": "xnet-1.12-1.8.1.jar",
-      "fingerprint": 454087873,
-      "fileDateHash": 916800551,
-      "sectionID": 8,
-      "individualFingerprints": [
-        454087873
-      ],
-      "status": 1,
-      "timestamp": "2019-07-17T01:32:35.2928987Z",
-      "lastWriteTimeUtc": "2019-06-19T02:43:21.2830541Z",
-      "queryTimestamp": "2019-07-22T07:09:49.9412133Z",
-      "fileCount": 1,
-      "fileSize": 495985
     },
     {
       "folderName": "IntegratedDynamics-1.12.2-1.0.17.jar",
@@ -3636,21 +3651,6 @@
       "queryTimestamp": "2019-07-22T07:09:49.9422106Z",
       "fileCount": 1,
       "fileSize": 2426151
-    },
-    {
-      "folderName": "industrialforegoing-1.12.2-1.12.12-236.jar",
-      "fingerprint": 2991823641,
-      "fileDateHash": 538060144,
-      "sectionID": 8,
-      "individualFingerprints": [
-        2991823641
-      ],
-      "status": 1,
-      "timestamp": "2019-07-18T07:38:57.3683438Z",
-      "lastWriteTimeUtc": "2019-07-10T11:04:56.6253662Z",
-      "queryTimestamp": "2019-07-22T07:09:49.9422106Z",
-      "fileCount": 1,
-      "fileSize": 1600649
     },
     {
       "folderName": "walljump.jar",
@@ -4416,21 +4416,6 @@
       "fileSize": 14076
     },
     {
-      "folderName": "Charset-Lib-0.5.6.0.jar",
-      "fingerprint": 215550057,
-      "fileDateHash": 3472849590,
-      "sectionID": 8,
-      "individualFingerprints": [
-        215550057
-      ],
-      "status": 1,
-      "timestamp": "2019-07-21T03:19:39.0531305Z",
-      "lastWriteTimeUtc": "2019-07-21T03:19:02.5100856Z",
-      "queryTimestamp": "2019-07-22T07:09:49.9551758Z",
-      "fileCount": 1,
-      "fileSize": 1130350
-    },
-    {
       "folderName": "ItemFilters-1.0.3.12.jar",
       "fingerprint": 3245498719,
       "fileDateHash": 58433301,
@@ -4444,6 +4429,21 @@
       "queryTimestamp": "2019-07-22T07:09:49.9551758Z",
       "fileCount": 1,
       "fileSize": 78422
+    },
+    {
+      "folderName": "industrialforegoing-1.12.2-1.12.13-237.jar",
+      "fingerprint": 4071690926,
+      "fileDateHash": 1955020936,
+      "sectionID": 8,
+      "individualFingerprints": [
+        4071690926
+      ],
+      "status": 1,
+      "timestamp": "2019-07-22T07:15:42.4268218Z",
+      "lastWriteTimeUtc": "2019-07-22T07:11:00.0069264Z",
+      "queryTimestamp": "2019-07-22T07:15:43.5333903Z",
+      "fileCount": 1,
+      "fileSize": 1603134
     },
     {
       "folderName": "New World-----------",
@@ -5068,21 +5068,6 @@
       "fileSize": 197893
     },
     {
-      "folderName": "rftools-1.12-7.71.jar",
-      "fingerprint": 26401080,
-      "fileDateHash": 4268885318,
-      "sectionID": 8,
-      "individualFingerprints": [
-        26401080
-      ],
-      "status": 1,
-      "timestamp": "2019-07-17T01:32:33.9611397Z",
-      "lastWriteTimeUtc": "2019-06-19T02:47:14.2655162Z",
-      "queryTimestamp": "2019-07-22T07:09:49.9591654Z",
-      "fileCount": 1,
-      "fileSize": 2895608
-    },
-    {
       "folderName": "EnderIO-zoo-1.12.2-5.0.46.jar",
       "fingerprint": 1712112086,
       "fileDateHash": 2031471677,
@@ -5658,6 +5643,21 @@
       "queryTimestamp": "2019-07-22T07:09:49.9641512Z",
       "fileCount": 24,
       "fileSize": 0
+    },
+    {
+      "folderName": "mcjtylib-1.12-3.5.4.jar",
+      "fingerprint": 285741512,
+      "fileDateHash": 4173262927,
+      "sectionID": 8,
+      "individualFingerprints": [
+        285741512
+      ],
+      "status": 1,
+      "timestamp": "2019-07-22T07:15:42.4328056Z",
+      "lastWriteTimeUtc": "2019-07-22T07:11:13.6397012Z",
+      "queryTimestamp": "2019-07-22T07:15:43.5423655Z",
+      "fileCount": 1,
+      "fileSize": 544856
     },
     {
       "folderName": "respawnablepets-1.0.4.2.jar",
