@@ -29,7 +29,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2019-07-22T07:16:19.1308917Z",
+  "lastPlayed": "2019-07-22T07:39:35.5842626Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -13500,14 +13500,14 @@
       "addonID": 289760,
       "gameInstanceID": "a690e0c3-76ab-464e-827b-9ce1090c70c5",
       "installedFile": {
-        "id": 2743936,
-        "displayName": "Treasure2-mc1.12.2-f14.23.5.2768-v1.4.1.jar",
-        "fileName": "Treasure2-mc1.12.2-f14.23.5.2768-v1.4.1.jar",
-        "fileDate": "2019-07-19T00:46:59.733Z",
-        "fileLength": 1495500,
+        "id": 2742692,
+        "displayName": "Treasure2-mc1.12.2-f14.23.5.2768-v1.3.7.jar",
+        "fileName": "Treasure2-mc1.12.2-f14.23.5.2768-v1.3.7.jar",
+        "fileDate": "2019-07-16T23:21:39.207Z",
+        "fileLength": 1437825,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2743/936/Treasure2-mc1.12.2-f14.23.5.2768-v1.4.1.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2742/692/Treasure2-mc1.12.2-f14.23.5.2768-v1.3.7.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
@@ -13522,17 +13522,17 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 2061265999,
+            "fingerprint": 2732660344,
             "type": 0
           },
           {
             "foldername": "com",
-            "fingerprint": 1023403022,
+            "fingerprint": 2113003763,
             "type": 0
           },
           {
             "foldername": "assets",
-            "fingerprint": 1768845224,
+            "fingerprint": 635553642,
             "type": 0
           },
           {
@@ -13542,7 +13542,7 @@
           },
           {
             "foldername": "mcmod.info",
-            "fingerprint": 1596859167,
+            "fingerprint": 2322511913,
             "type": 0
           },
           {
@@ -13556,7 +13556,7 @@
             "type": 0
           }
         ],
-        "packageFingerprint": 3077280296,
+        "packageFingerprint": 2042020080,
         "gameVersion": [
           "1.12.2"
         ],
@@ -13568,12 +13568,12 @@
         "projectId": 0,
         "gameVersionDateReleased": "2017-09-18T05:00:00Z",
         "gameId": 0,
-        "FileNameOnDisk": "Treasure2-mc1.12.2-f14.23.5.2768-v1.4.1.jar"
+        "FileNameOnDisk": "Treasure2-mc1.12.2-f14.23.5.2768-v1.3.7.jar"
       },
       "dateInstalled": "2019-07-18T07:39:00.6188669Z",
-      "dateUpdated": "2019-07-21T01:58:57.6997735Z",
-      "dateLastUpdateAttempted": "2019-07-21T01:58:57.6997735Z",
-      "status": 5,
+      "dateUpdated": "2019-07-22T07:39:03.595993Z",
+      "dateLastUpdateAttempted": "2019-07-22T07:39:03.595993Z",
+      "status": 3,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
