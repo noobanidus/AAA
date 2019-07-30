@@ -29,7 +29,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2019-07-29T00:47:24.0145424Z",
+  "lastPlayed": "2019-07-30T05:50:32.0471762Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -238,6 +238,21 @@
       "queryTimestamp": "2019-07-30T00:45:41.6303754Z",
       "fileCount": 1,
       "fileSize": 44663
+    },
+    {
+      "folderName": "arcanearchives-0.2.0-pre-beta2-hotfix2.jar",
+      "fingerprint": 3628756251,
+      "fileDateHash": 3373978304,
+      "sectionID": 8,
+      "individualFingerprints": [
+        3628756251
+      ],
+      "status": 1,
+      "timestamp": "2019-07-30T05:42:47.4946323Z",
+      "lastWriteTimeUtc": "2019-07-30T05:36:48.840582Z",
+      "queryTimestamp": "2019-07-30T05:42:52.3825732Z",
+      "fileCount": 1,
+      "fileSize": 4738493
     },
     {
       "folderName": "variegated-1.1.1.jar",
@@ -748,21 +763,6 @@
       "queryTimestamp": "2019-07-30T00:45:41.6393256Z",
       "fileCount": 1,
       "fileSize": 378390
-    },
-    {
-      "folderName": "MetalChests-v6.0.1+mc1.12.2.jar",
-      "fingerprint": 2057193191,
-      "fileDateHash": 2787709551,
-      "sectionID": 8,
-      "individualFingerprints": [
-        2057193191
-      ],
-      "status": 1,
-      "timestamp": "2019-07-28T22:58:46.9531969Z",
-      "lastWriteTimeUtc": "2019-07-27T10:32:31.091534Z",
-      "queryTimestamp": "2019-07-30T00:45:41.6393256Z",
-      "fileCount": 1,
-      "fileSize": 229709
     },
     {
       "folderName": "supersoundmuffler-1.12.2-1.0.2.10.jar",
@@ -2774,6 +2774,21 @@
       "fileSize": 14323
     },
     {
+      "folderName": "CreativeCore_v1.9.57_mc1.12.2.jar",
+      "fingerprint": 1881629544,
+      "fileDateHash": 138504515,
+      "sectionID": 8,
+      "individualFingerprints": [
+        1881629544
+      ],
+      "status": 1,
+      "timestamp": "2019-07-30T00:46:58.2662229Z",
+      "lastWriteTimeUtc": "2019-07-30T00:46:23.1232677Z",
+      "queryTimestamp": "2019-07-30T00:46:59.754021Z",
+      "fileCount": 1,
+      "fileSize": 925610
+    },
+    {
       "folderName": "FasterLadderClimbing-1.12-0.1-146.jar",
       "fingerprint": 3344190054,
       "fileDateHash": 2287172135,
@@ -3668,21 +3683,6 @@
       "fileSize": 28517
     },
     {
-      "folderName": "LittleTiles_v1.5.0-pre151_mc1.12.2.jar",
-      "fingerprint": 1842384985,
-      "fileDateHash": 2934779883,
-      "sectionID": 8,
-      "individualFingerprints": [
-        1842384985
-      ],
-      "status": 1,
-      "timestamp": "2019-07-28T23:22:46.0720082Z",
-      "lastWriteTimeUtc": "2019-07-28T23:14:55.2439345Z",
-      "queryTimestamp": "2019-07-30T00:45:41.6762252Z",
-      "fileCount": 1,
-      "fileSize": 1592084
-    },
-    {
       "folderName": "Schematica-1.12.2-1.8.0.169-universal.jar",
       "fingerprint": 3242696918,
       "fileDateHash": 4051534426,
@@ -3786,6 +3786,21 @@
       "queryTimestamp": "2019-07-30T00:45:41.6792173Z",
       "fileCount": 1,
       "fileSize": 386906
+    },
+    {
+      "folderName": "MetalChests-v6.0.8+mc1.12.2.jar",
+      "fingerprint": 1190982798,
+      "fileDateHash": 140081475,
+      "sectionID": 8,
+      "individualFingerprints": [
+        1190982798
+      ],
+      "status": 1,
+      "timestamp": "2019-07-30T00:46:58.2781896Z",
+      "lastWriteTimeUtc": "2019-07-30T00:46:45.7407097Z",
+      "queryTimestamp": "2019-07-30T00:46:59.7669569Z",
+      "fileCount": 1,
+      "fileSize": 231414
     },
     {
       "folderName": "BuildingGadgets-2.7.1.jar",
@@ -5289,21 +5304,6 @@
       "fileSize": 3264747
     },
     {
-      "folderName": "CreativeCore_v1.9.55_mc1.12.2.jar",
-      "fingerprint": 554005302,
-      "fileDateHash": 4293267866,
-      "sectionID": 8,
-      "individualFingerprints": [
-        554005302
-      ],
-      "status": 1,
-      "timestamp": "2019-07-28T23:22:46.0430866Z",
-      "lastWriteTimeUtc": "2019-07-28T23:15:01.4953368Z",
-      "queryTimestamp": "2019-07-30T00:45:41.6961732Z",
-      "fileCount": 1,
-      "fileSize": 923304
-    },
-    {
       "folderName": "Dungeons2-mc1.12.2-f14.23.5.2768-v1.7.1.jar",
       "fingerprint": 687839987,
       "fileDateHash": 1269175036,
@@ -5332,6 +5332,21 @@
       "queryTimestamp": "2019-07-30T00:45:41.6971693Z",
       "fileCount": 1,
       "fileSize": 446699
+    },
+    {
+      "folderName": "LittleTiles_v1.5.0-pre153_mc1.12.2.jar",
+      "fingerprint": 3152493781,
+      "fileDateHash": 2977846603,
+      "sectionID": 8,
+      "individualFingerprints": [
+        3152493781
+      ],
+      "status": 1,
+      "timestamp": "2019-07-30T00:46:58.2712399Z",
+      "lastWriteTimeUtc": "2019-07-30T00:46:33.9015017Z",
+      "queryTimestamp": "2019-07-30T00:46:59.7829409Z",
+      "fileCount": 1,
+      "fileSize": 1591808
     },
     {
       "folderName": "New World----------",
@@ -5661,7 +5676,7 @@
     }
   ],
   "isValid": true,
-  "lastPreviousMatchUpdate": "2019-07-30T00:45:42.9753972Z",
+  "lastPreviousMatchUpdate": "2019-07-30T05:20:05.2916247Z",
   "isEnabled": true,
   "isPinned": false,
   "gameVersion": "1.12.2",
