@@ -4,11 +4,11 @@
 [player is default_player_rank]
 example.permission: true
 example.other_permission: false
-ftbutilities.homes.cooldown: 0s
+ftbutilities.homes.cooldown: "0s"
 ftbutilities.homes.max: 10
-ftbutilities.homes.warmup: 0s
-ftbutilities.spawn.cooldown: 0s
-ftbutilities.spawn.warmup: 0s
+ftbutilities.homes.warmup: "0s"
+ftbutilities.spawn.cooldown: "0s"
+ftbutilities.spawn.warmup: "0s"
 
 [admin is default_op_rank]
 example.other_permission: true

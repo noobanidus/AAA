@@ -1,4 +1,4 @@
-13070 nodes in total
+13073 nodes in total
 Modifying this file won't have any effect, edit ranks.txt!
 
 admin_panel.ftbutilities.crash_reports.delete: OP
@@ -10290,6 +10290,9 @@ ftbutilities.claims.item.minecraft.written_book: ALL
 ftbutilities.claims.item.minecraft.yellow_flower: ALL
 ftbutilities.claims.item.minecraft.yellow_glazed_terracotta: ALL
 ftbutilities.claims.item.minecraft.yellow_shulker_box: ALL
+ftbutilities.claims.item.mob_mash.cooked_crocoduck: ALL
+ftbutilities.claims.item.mob_mash.crocoduck_egg: ALL
+ftbutilities.claims.item.mob_mash.raw_crocoduck: ALL
 ftbutilities.claims.item.mod_lavacow.bonesword: ALL
 ftbutilities.claims.item.mod_lavacow.canebeef: ALL
 ftbutilities.claims.item.mod_lavacow.canepork: ALL
