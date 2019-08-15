@@ -29,7 +29,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2019-08-15T23:27:07.1727252Z",
+  "lastPlayed": "2019-08-15T23:39:02.9894126Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -1992,21 +1992,6 @@
       "queryTimestamp": "2019-08-15T00:30:09.4048344Z",
       "fileCount": 1,
       "fileSize": 51284
-    },
-    {
-      "folderName": "amidst-forge-1.12.2-0.6.1.jar",
-      "fingerprint": 782915235,
-      "fileDateHash": 1208429210,
-      "sectionID": 8,
-      "individualFingerprints": [
-        782915235
-      ],
-      "status": 1,
-      "timestamp": "2019-08-15T01:47:57.7794076Z",
-      "lastWriteTimeUtc": "2019-08-15T01:46:25.850186Z",
-      "queryTimestamp": "2019-08-15T01:47:59.2740046Z",
-      "fileCount": 1,
-      "fileSize": 1273219
     },
     {
       "folderName": "CoFHCore-1.12.2-4.6.3.27-universal.jar",
@@ -19218,83 +19203,6 @@
       "dateUpdated": "2019-07-28T11:29:59.334076Z",
       "dateLastUpdateAttempted": "2019-07-28T11:29:59.334076Z",
       "status": 5,
-      "preferenceAutoInstallUpdates": false,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": false,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
-      "addonID": 286811,
-      "gameInstanceID": "30e35fe0-31d6-4d89-9103-b5b28e1b222a",
-      "installedFile": {
-        "id": 2702017,
-        "displayName": "amidst-forge-1.12.2-0.6.1.jar",
-        "fileName": "amidst-forge-1.12.2-0.6.1.jar",
-        "fileDate": "2019-04-21T20:44:26.747Z",
-        "fileLength": 1273219,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2702/17/amidst-forge-1.12.2-0.6.1.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 3442100418,
-            "type": 0
-          },
-          {
-            "foldername": "net",
-            "fingerprint": 1043225215,
-            "type": 0
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 1482921569,
-            "type": 0
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 2110086382,
-            "type": 0
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 2594995084,
-            "type": 0
-          },
-          {
-            "foldername": "amidst-4.3-beta2-all.jar",
-            "fingerprint": 2269297059,
-            "type": 0
-          }
-        ],
-        "packageFingerprint": 782915235,
-        "gameVersion": [
-          "1.12.2"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2017-09-18T05:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "amidst-forge-1.12.2-0.6.1.jar"
-      },
-      "dateInstalled": "2019-08-15T01:46:25.850186Z",
-      "dateUpdated": "2019-08-15T01:46:25.8511823Z",
-      "dateLastUpdateAttempted": "2019-08-15T01:46:25.8511823Z",
-      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
