@@ -1,6 +1,7 @@
 import crafttweaker.enchantments.IEnchantmentDefinition;
 import crafttweaker.data.IData;
 import mods.chisel.Carving;
+import mods.thermalexpansion.Compactor;
 
 //recipes.addShaped(<quark:backpack>, [[<ore:leather>, <ore:leather>, <ore:leather>],[<ore:gemEmerald>, <comforts:sleeping_bag:*>, <ore:gemEmerald>], [<ore:leather>, <ore:leather>, <ore:leather>]]);
 recipes.remove(<hooked:hook:4>);
@@ -86,8 +87,8 @@ recipes.addShapeless(<minecraft:book>, [<ebwizardry:spell_book:*>]);
 recipes.remove(<botania:virus>);
 recipes.remove(<botania:virus:1>);
 
-recipes.addShapeless(<botania:virus>, [<ore:manaDiamond>, <botania:vineball>, <minecraft:magma_cream>, <minecraft:fermented_spider_eye>, <minecraft:ender_eye>, <minecraft:skull:2>]);
-recipes.addShapeless(<botania:virus:1>, [<ore:manaDiamond>, <botania:vineball>, <minecraft:magma_cream>, <minecraft:fermented_spider_eye>, <minecraft:ender_eye>, <minecraft:skull:0>]);
+recipes.addShapeless(<botania:virus>, [<ore:gemDiamond>, <minecraft:vine>, <minecraft:magma_cream>, <minecraft:spider_eye>, <minecraft:ender_pearl>, <minecraft:skull:2>]);
+recipes.addShapeless(<botania:virus:1>, [<ore:gemDiamond>, <minecraft:vine>, <minecraft:magma_cream>, <minecraft:spider_eye>, <minecraft:ender_pearl>, <minecraft:skull:0>]);
 
 recipes.remove(<hooked:hook:1>);
 recipes.remove(<hooked:hook:2>);
@@ -105,8 +106,6 @@ recipes.removeByRecipeName("betternether:sugar");
 
 mods.bloodmagic.AlchemyArray.addRecipe(<bloodmagic:sigil_whirlwind>, <bloodmagic:component:2>, <bloodmagic:slate:2>);
 
-furnace.addRecipe(<translocators:diamond_nugget>, <minecraft:diamond_horse_armor>);
-
 <ore:stickWood>.add(<simplytea:tea_stick>);
 
 recipes.remove(<minecraft:enchanting_table>);
@@ -117,8 +116,6 @@ recipes.addShapeless(<minecraft:magma_cream>*4, [<minecraft:magma>]);
 
 recipes.addShapeless(<quark:enderdragon_scale>, [<bountifulbaubles:enderdragonscale>]);
 
-Carving.addVariation("marble", <atum:alabaster>);
-Carving.addVariation("basalt", <adventurersamulets:slate>);
 Carving.addVariation("basalt", <rustic:slate>);
 
 recipes.remove(<clickmachine:auto_clicker>);
@@ -134,3 +131,124 @@ recipes.addShaped(<bloodmagic:activation_crystal:1>, [[db, eb, gb], [eb, <bloodm
 eb = <charm:ender_pearl_block>;
 
 recipes.addShaped(<hooked:hook:4>, [[eb, eb, <darkutils:ender_tether>], [null, <hooked:hook:2>, eb], [<hooked:hook:2>, null, eb]]);
+
+recipes.addShapeless(<enderio:item_broken_spawner>.withTag({entityId: "minecraft:chicken"}), [<minecraft:mob_spawner>]);
+
+recipes.remove(<rustic:chain>);
+recipes.addShaped(<rustic:chain>*9, [[null, <ore:ingotIron>, null], [<ore:nuggetIron>, null, <ore:nuggetIron>], [null, <ore:ingotIron>, null]]);
+
+recipes.remove(<rustic:chain_gold>);
+recipes.addShaped(<rustic:chain_gold>*9, [[null, <ore:ingotGold>, null], [<ore:nuggetGold>, null, <ore:nuggetGold>], [null, <ore:ingotGold>, null]]);
+
+recipes.remove(<quark:red_nether_brick_slab>);
+recipes.remove(<quark:end_bricks_slab:0>);
+
+recipes.remove(<quark:stone_speleothem>);
+recipes.remove(<quark:basalt_speleothem>);
+recipes.remove(<quark:marble_speleothem>);
+recipes.remove(<quark:limestone_speleothem>);
+
+recipes.remove(<mysticalworld:amethyst_block>);
+recipes.remove(<netherex:amethyst_block>);
+
+recipes.addShaped(<netherex:amethyst_block>, [[<ore:gemAmethyst>, <ore:gemAmethyst>, <ore:gemAmethyst>], [<ore:gemAmethyst>, <ore:gemAmethyst>, <ore:gemAmethyst>], [<ore:gemAmethyst>, <ore:gemAmethyst>, <ore:gemAmethyst>]]); 
+
+recipes.remove(<mysticalworld:charred_wall>);
+recipes.addShaped(<mysticalworld:charred_wall>*3, [[null, null, null], [<mysticalworld:charred_slab>, <mysticalworld:charred_slab>, <mysticalworld:charred_slab>], [<mysticalworld:charred_planks>, <mysticalworld:charred_planks>, <mysticalworld:charred_planks>]]);
+
+recipes.remove(<quark:quartz_wall>);
+
+recipes.remove(<multistorage:stone_storage>);
+
+recipes.addShaped(<multistorage:stone_storage>, [[<ore:stone>, <ore:stone>, <ore:stone>], [<ore:stone>, <ore:chestWood>, <ore:stone>], [<ore:stone>, <ore:stone>, <ore:stone>]]);
+
+recipes.remove(<quark:basalt:1>);
+
+recipes.remove(<embers:pickaxe_silver>);
+recipes.remove(<embers:axe_silver>);
+recipes.remove(<embers:shovel_silver>);
+recipes.remove(<embers:hoe_silver>);
+recipes.remove(<embers:sword_silver>);
+
+recipes.remove(<embers:pickaxe_copper>);
+recipes.remove(<embers:axe_copper>);
+recipes.remove(<embers:shovel_copper>);
+recipes.remove(<embers:hoe_copper>);
+recipes.remove(<embers:sword_copper>);
+
+recipes.remove(<thermalfoundation:tool.pickaxe_copper>);
+
+recipes.remove(<embers:ingot_copper>);
+recipes.remove(<embers:ingot_silver>);
+recipes.remove(<thermalfoundation:material:128>);
+recipes.remove(<thermalfoundation:material:130>);
+
+recipes.remove(<embers:nugget_copper>);
+recipes.remove(<thaumcraft:nugget:1>);
+recipes.remove(<thermalfoundation:material:192>);
+
+recipes.remove(<embers:nugget_silver>);
+recipes.remove(<thaumcraft:nugget:3>);
+recipes.remove(<thermalfoundation:material:194>);
+recipes.remove(<embers:block_silver>);
+recipes.remove(<embers:block_copper>);
+
+recipes.remove(<embers:ingot_lead>);
+recipes.remove(<thaumcraft:nugget:4>);
+recipes.remove(<embers:nugget_lead>);
+recipes.remove(<embers:block_lead>);
+
+recipes.remove(<embers:ingot_bronze>);
+recipes.remove(<embers:nugget_bronze>);
+recipes.remove(<embers:block_bronze>);
+
+recipes.remove(<quark:red_nether_brick_stairs>);
+
+recipes.remove(<quark:charcoal_block>);
+recipes.remove(<chisel:block_charcoal2>);
+
+recipes.remove(<embers:pickaxe_copper>);
+recipes.remove(<embers:pickaxe_silver>);
+recipes.remove(<embers:pickaxe_lead>);
+recipes.remove(<embers:pickaxe_bronze>);
+
+recipes.remove(<earthworks:tool_iron_hammer>);
+recipes.remove(<earthworks:tool_diamond_hammer>);
+recipes.remove(<earthworks:tool_gold_hammer>);
+
+// TODO: PRAY
+recipes.removeByRecipeName("earthworks:block_mud");
+
+// Keeping the mystgears recipes
+
+// Wooden gears
+recipes.remove(<enderio:item_material:9>);
+recipes.remove(<thermalfoundation:material:22>);
+recipes.remove(<mystgears:gear_wood>);
+
+recipes.addShaped(<mystgears:gear_wood>, [[null, <ore:stickWood>, null], [<ore:stickWood>, null, <ore:stickWood>], [null, <ore:stickWood>, null]]);
+
+// Stone gears
+recipes.remove(<enderio:item_material:10>);
+recipes.remove(<thermalfoundation:material:23>);
+
+// Remove all the thermalfoundation duplicate gears
+recipes.remove(<thermalfoundation:material:24>); // iron
+recipes.remove(<thermalfoundation:material:25>); // gold
+recipes.remove(<thermalfoundation:material:26>); // diamond
+recipes.remove(<thermalfoundation:material:27>); // emerald
+recipes.remove(<thermalfoundation:material:256>); // copper
+recipes.remove(<thermalfoundation:material:257>); // tin
+recipes.remove(<thermalfoundation:material:258>); // silver
+recipes.remove(<thermalfoundation:material:259>); // lead
+recipes.remove(<thermalfoundation:material:260>); // aluminum
+recipes.remove(<thermalfoundation:material:261>); // nickel
+recipes.remove(<thermalfoundation:material:289>); // electrum
+recipes.remove(<thermalfoundation:material:291>); // bronze
+
+recipes.remove(<mysticalworld:amethyst_block>);
+
+recipes.remove(<endercrop:ender_seeds>);
+
+recipes.remove(<waystones:waystone>);
+recipes.addShaped(<waystones:waystone>, [[null, <minecraft:stonebrick>, null], [<minecraft:stonebrick>, <waystones:warp_stone>, <minecraft:stonebrick>], [<minecraft:coal_block>, <minecraft:coal_block>, <minecraft:coal_block>]]);

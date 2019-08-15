@@ -1,4 +1,78 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <enderio:recipes xmlns:enderio="http://enderio.com/recipes" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://enderio.com/recipes recipes.xsd ">
+  <recipe name="Gear, Wood" required="false">
+    <crafting>
+      <grid>
+        <item /><item name="stickWood"/><item />
+        <item name="stickWood"/><item /><item name="stickWood"/>
+        <item /><item name="stickWood"/><item />
+      </grid>
+      <output name="GEAR_WOOD"/>
+    </crafting>
+  </recipe>
 
+  <recipe name="Gear, ae2 messes things up" required="false">
+    <crafting>
+      <grid>
+        <item name="stickWood"/><item /><item name="stickWood"/>
+        <item /><item /><item />
+        <item name="stickWood"/><item /><item name="stickWood"/>
+      </grid>
+      <output name="GEAR_WOOD"/>
+    </crafting>
+  </recipe>
+
+  <recipe name="Gear, just to be sure" required="false">
+    <crafting>
+      <grid size="3x2">
+        <item name="stickWood"/><item /><item name="stickWood"/>
+        <item name="stickWood"/><item /><item name="stickWood"/>
+      </grid>
+      <output name="GEAR_WOOD"/>
+    </crafting>
+  </recipe>
+
+  <recipe name="Gear, better save than sorry" required="false">
+    <crafting>
+      <grid size="2x3">
+        <item name="stickWood"/><item name="stickWood"/>
+        <item /><item />
+        <item name="stickWood"/><item name="stickWood"/>
+      </grid>
+      <output name="GEAR_WOOD"/>
+    </crafting>
+  </recipe>
+
+  <recipe name="Gear, Stone" required="false">
+    <crafting>
+      <grid>
+        <item name="stickWood"/><item name="oredict:cobblestone"/><item name="stickWood"/>
+        <item name="oredict:cobblestone"/><item /><item name="oredict:cobblestone"/>
+        <item name="stickWood"/><item name="oredict:cobblestone"/><item name="stickWood"/>
+      </grid>
+      <output name="GEAR_STONE"/>
+    </crafting>
+  </recipe>
+
+  <recipe name="Gear, Stone, Upgrade" required="false">
+    <crafting>
+      <grid>
+        <item /><item name="oredict:cobblestone"/><item />
+        <item name="oredict:cobblestone"/><item name="GEAR_WOOD"/><item name="oredict:cobblestone"/>
+        <item /><item name="oredict:cobblestone"/><item />
+      </grid>
+      <output name="GEAR_STONE"/>
+    </crafting>
+  </recipe>
+
+  <recipe name="Gear, Iron" required="false">
+    <crafting>
+      <grid>
+        <item name="nuggetIron"/><item name="IRON"/><item name="nuggetIron"/>
+        <item name="IRON"/><item name="POWDER_INFINITY"/><item name="IRON"/>
+        <item name="nuggetIron"/><item name="IRON"/><item name="nuggetIron"/>
+      </grid>
+      <output name="GEAR_IRON"/>
+    </crafting>
+  </recipe>
 </enderio:recipes>

@@ -1,6 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <config>
     <lines at="bottomleft">
+         <line>
+            <str>FPS: </str>
+            <operation>
+                <str>gt</str>
+                <var>fps</var>
+                <num>60</num>
+                <num>45</num>
+                <num>30</num>
+                <num>15</num>
+                <num>0</num>
+                <str>$a</str>
+                <str>$e</str>
+                <str>$6</str>
+                <str>$c</str>
+                <str>$4</str>
+                <str/>
+            </operation>
+            <var>fps</var>       
+        </line>
         <line>
 		<str>day {day}, </str>
 		<if>
