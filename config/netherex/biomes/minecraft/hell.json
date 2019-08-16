@@ -51,7 +51,7 @@
 		}, 
 		{
 			"entity": "ebwizardry:evil_wizard",
-			"spawnWeight": 0,
+			"spawnWeight": 1,
 			"minimumGroupCount": 1,
 			"maximumGroupCount": 1
 		}, 
@@ -93,7 +93,7 @@
 		}, 
 		{
 			"entity": "enderiozoo:epicsquid",
-			"spawnWeight": 0,
+			"spawnWeight": 1,
 			"minimumGroupCount": 1,
 			"maximumGroupCount": 1
 		}

@@ -57,55 +57,55 @@
 		}, 
 		{
 			"entity": "exoticbirds:hummingbird",
-			"spawnWeight": 0,
+			"spawnWeight": 1,
 			"minimumGroupCount": 2,
 			"maximumGroupCount": 5
 		}, 
 		{
 			"entity": "exoticbirds:magpie",
-			"spawnWeight": 0,
+			"spawnWeight": 1,
 			"minimumGroupCount": 2,
 			"maximumGroupCount": 5
 		}, 
 		{
 			"entity": "exoticbirds:peafowl",
-			"spawnWeight": 0,
+			"spawnWeight": 1,
 			"minimumGroupCount": 2,
 			"maximumGroupCount": 5
 		}, 
 		{
 			"entity": "exoticbirds:emperorpenguin",
-			"spawnWeight": 0,
+			"spawnWeight": 1,
 			"minimumGroupCount": 2,
 			"maximumGroupCount": 5
 		}, 
 		{
 			"entity": "exoticbirds:pigeon",
-			"spawnWeight": 0,
+			"spawnWeight": 1,
 			"minimumGroupCount": 2,
 			"maximumGroupCount": 5
 		}, 
 		{
 			"entity": "exoticbirds:cardinal",
-			"spawnWeight": 0,
+			"spawnWeight": 1,
 			"minimumGroupCount": 2,
 			"maximumGroupCount": 5
 		}, 
 		{
 			"entity": "exoticbirds:bluejay",
-			"spawnWeight": 0,
+			"spawnWeight": 1,
 			"minimumGroupCount": 2,
 			"maximumGroupCount": 5
 		}, 
 		{
 			"entity": "exoticbirds:robin",
-			"spawnWeight": 0,
+			"spawnWeight": 1,
 			"minimumGroupCount": 2,
 			"maximumGroupCount": 5
 		}, 
 		{
 			"entity": "enderiozoo:epicsquid",
-			"spawnWeight": 0,
+			"spawnWeight": 1,
 			"minimumGroupCount": 1,
 			"maximumGroupCount": 1
 		}
