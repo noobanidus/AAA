@@ -238,7 +238,6 @@ recipes.remove(<thermalfoundation:material:25>); // gold
 recipes.remove(<thermalfoundation:material:26>); // diamond
 recipes.remove(<thermalfoundation:material:27>); // emerald
 recipes.remove(<thermalfoundation:material:256>); // copper
-recipes.remove(<thermalfoundation:material:257>); // tin
 recipes.remove(<thermalfoundation:material:258>); // silver
 recipes.remove(<thermalfoundation:material:259>); // lead
 recipes.remove(<thermalfoundation:material:260>); // aluminum
