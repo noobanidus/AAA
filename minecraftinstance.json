@@ -29,7 +29,7 @@
   "isUnlocked": true,
   "javaArgsOverride": null,
   "javaDirOverride": null,
-  "lastPlayed": "2019-08-18T05:06:39.8574258Z",
+  "lastPlayed": "2019-08-18T06:25:07.8723362Z",
   "manifest": null,
   "fileDate": "0001-01-01T00:00:00",
   "installedModpack": null,
@@ -148,6 +148,21 @@
       "queryTimestamp": "2019-08-18T02:27:34.5642653Z",
       "fileCount": 1,
       "fileSize": 484209
+    },
+    {
+      "folderName": "AkashicTome-1.2-12.jar",
+      "fingerprint": 3030749418,
+      "fileDateHash": 2875300049,
+      "sectionID": 8,
+      "individualFingerprints": [
+        3030749418
+      ],
+      "status": 1,
+      "timestamp": "2019-08-18T05:59:43.4233814Z",
+      "lastWriteTimeUtc": "2019-08-18T05:06:21.8959365Z",
+      "queryTimestamp": "2019-08-18T05:59:45.6790645Z",
+      "fileCount": 1,
+      "fileSize": 44663
     },
     {
       "folderName": "Bookshelf-1.12.2-2.3.588.jar",
@@ -765,21 +780,6 @@
       "fileSize": 108450
     },
     {
-      "folderName": "wings-1.1.5-custom-1.12.2.jar",
-      "fingerprint": 2832720093,
-      "fileDateHash": 2500948895,
-      "sectionID": 8,
-      "individualFingerprints": [
-        2832720093
-      ],
-      "status": 1,
-      "timestamp": "2019-08-18T04:29:54.8944402Z",
-      "lastWriteTimeUtc": "2019-08-09T11:34:10.0440927Z",
-      "queryTimestamp": "2019-08-18T04:29:55.3402482Z",
-      "fileCount": 1,
-      "fileSize": 324000
-    },
-    {
       "folderName": "FTBUtilities-5.4.0.100.jar",
       "fingerprint": 881641429,
       "fileDateHash": 2525910068,
@@ -1142,6 +1142,21 @@
       "queryTimestamp": "2019-08-18T02:27:34.5732127Z",
       "fileCount": 1,
       "fileSize": 1989
+    },
+    {
+      "folderName": "Electroblob's Wizardry - 4.1.4 - MC 1.12.2.jar",
+      "fingerprint": 2127174446,
+      "fileDateHash": 3794465029,
+      "sectionID": 8,
+      "individualFingerprints": [
+        2127174446
+      ],
+      "status": 1,
+      "timestamp": "2019-08-18T06:12:53.645035Z",
+      "lastWriteTimeUtc": "2019-08-18T06:05:47.8790854Z",
+      "queryTimestamp": "2019-08-18T06:12:55.3684875Z",
+      "fileCount": 1,
+      "fileSize": 2803188
     },
     {
       "folderName": "BuildingGadgets-2.7.2.jar",
@@ -1689,21 +1704,6 @@
       "fileSize": 48873
     },
     {
-      "folderName": "ElectroblobsWizardry-4.2.0-MC1.12.2.jar",
-      "fingerprint": 1415607075,
-      "fileDateHash": 209589543,
-      "sectionID": 8,
-      "individualFingerprints": [
-        1415607075
-      ],
-      "status": 1,
-      "timestamp": "2019-08-18T04:29:54.8665148Z",
-      "lastWriteTimeUtc": "2019-08-18T04:28:17.9780482Z",
-      "queryTimestamp": "2019-08-18T04:29:55.3502212Z",
-      "fileCount": 1,
-      "fileSize": 7271995
-    },
-    {
       "folderName": "dwmh-1.12.2-3.0.1.jar",
       "fingerprint": 4087845895,
       "fileDateHash": 2615173584,
@@ -1947,6 +1947,21 @@
       "queryTimestamp": "2019-08-18T04:55:53.9323301Z",
       "fileCount": 1,
       "fileSize": 847938
+    },
+    {
+      "folderName": "wings-1.1.5-1.12.2.jar",
+      "fingerprint": 831966861,
+      "fileDateHash": 1291497926,
+      "sectionID": 8,
+      "individualFingerprints": [
+        831966861
+      ],
+      "status": 1,
+      "timestamp": "2019-08-18T05:59:43.4562939Z",
+      "lastWriteTimeUtc": "2019-08-18T05:40:05.1836744Z",
+      "queryTimestamp": "2019-08-18T05:59:45.700008Z",
+      "fileCount": 1,
+      "fileSize": 324183
     },
     {
       "folderName": "reauth-3.6.0.jar",
@@ -3208,6 +3223,21 @@
       "queryTimestamp": "2019-08-18T02:27:34.5891888Z",
       "fileCount": 1,
       "fileSize": 53565
+    },
+    {
+      "folderName": "Apotheosis-1.12.2-1.10.4.jar",
+      "fingerprint": 1988936581,
+      "fileDateHash": 1510042857,
+      "sectionID": 8,
+      "individualFingerprints": [
+        1988936581
+      ],
+      "status": 1,
+      "timestamp": "2019-08-18T06:12:53.6171104Z",
+      "lastWriteTimeUtc": "2019-08-18T06:08:13.6407387Z",
+      "queryTimestamp": "2019-08-18T06:12:55.3894318Z",
+      "fileCount": 1,
+      "fileSize": 426457
     },
     {
       "folderName": "AppleSkin-mc1.12-1.0.9.jar",
@@ -4621,6 +4651,107 @@
       "fileSize": 2728977
     },
     {
+      "folderName": "New World-----------",
+      "fingerprint": 2974248260,
+      "fileDateHash": 928157306,
+      "sectionID": 10,
+      "individualFingerprints": [
+        4521085,
+        103945029,
+        122244893,
+        125208356,
+        167132451,
+        173646837,
+        173646837,
+        173646837,
+        173646837,
+        173646837,
+        173646837,
+        173646837,
+        173646837,
+        173646837,
+        173646837,
+        234068404,
+        291802533,
+        390518251,
+        402651088,
+        418801279,
+        427886205,
+        465399145,
+        489458212,
+        489458212,
+        489458212,
+        489458212,
+        489458212,
+        489458212,
+        489458212,
+        489458212,
+        489458212,
+        489458212,
+        498303935,
+        510187878,
+        562212527,
+        569291454,
+        758054953,
+        758054953,
+        758054953,
+        758054953,
+        758054953,
+        758054953,
+        758054953,
+        758054953,
+        758054953,
+        758054953,
+        758054953,
+        1075826452,
+        1230378526,
+        1374386160,
+        1671494163,
+        2142867310,
+        2155785570,
+        2155785570,
+        2184588565,
+        2271338083,
+        2316814055,
+        2327883398,
+        2336574816,
+        2613632566,
+        2734742386,
+        2763463119,
+        2879686905,
+        2911316755,
+        2948110599,
+        2983682406,
+        2993276146,
+        3134755400,
+        3184781582,
+        3264182797,
+        3383409723,
+        3410369569,
+        3442956392,
+        3493000176,
+        3736006272,
+        3783797387,
+        3828245789,
+        3922904517,
+        3983483758,
+        4029608942,
+        4123097394,
+        4159002295,
+        4195008665,
+        4213863462,
+        4272588933,
+        4272588933,
+        4272588933
+      ],
+      "status": 1,
+      "timestamp": "2019-08-18T06:12:53.6849285Z",
+      "lastWriteTimeUtc": "2019-08-18T05:45:34.7985288Z",
+      "queryTimestamp": "2019-08-18T06:12:55.4093788Z",
+      "fileCount": 24,
+      "fileSize": 0
+    },
+    {
       "folderName": "hungering-1.0.0.jar",
       "fingerprint": 886214491,
       "fileDateHash": 3564737779,
@@ -5001,27 +5132,21 @@
     },
     {
       "folderName": "New World----------",
-      "fingerprint": 3488434994,
-      "fileDateHash": 1177907444,
+      "fingerprint": 4121445208,
+      "fileDateHash": 997816493,
       "sectionID": 10,
       "individualFingerprints": [
         42039908,
+        57119833,
         71714280,
-        173646837,
-        173646837,
-        173646837,
-        173646837,
-        173646837,
-        173646837,
-        173646837,
-        173646837,
-        173646837,
+        90066400,
         180480522,
         217801744,
         398363778,
         418801279,
         427886205,
         458430505,
+        465152004,
         489458212,
         489458212,
         489458212,
@@ -5033,9 +5158,6 @@
         489458212,
         489458212,
         654671907,
-        697445917,
-        750591265,
-        755764695,
         758054953,
         758054953,
         758054953,
@@ -5048,53 +5170,61 @@
         758054953,
         758054953,
         866841660,
-        989243467,
-        991410111,
         1006183268,
         1027580940,
-        1037846116,
         1072007538,
+        1209084709,
         1261868603,
         1265803426,
         1285555940,
+        1316056407,
         1354722098,
+        1367726310,
+        1427132735,
         1442023236,
         1547867738,
         1590472985,
-        1634025940,
-        1707944317,
         1883745603,
+        1909180107,
         2024994661,
         2155785570,
         2155785570,
+        2159453434,
         2160872552,
         2169954461,
+        2215935175,
         2283221034,
         2336574816,
         2378624911,
-        2422151223,
         2514824585,
+        2583526272,
         2637221854,
         2678306345,
         2682918738,
-        2717163068,
         2752037055,
         2763463119,
         2774098685,
         2889521833,
+        2889521833,
+        2889521833,
+        2889521833,
+        2889521833,
+        2889521833,
+        2889521833,
+        2889521833,
+        2889521833,
+        2907700621,
+        2956062972,
         3134755400,
-        3147972749,
-        3149031903,
         3161971804,
         3184781582,
-        3347840290,
-        3374901955,
+        3291920937,
+        3376461572,
         3383409723,
-        3442693180,
-        3566674546,
         3578297503,
         3601962656,
         3603695298,
+        3635874564,
         3689067899,
         3736006272,
         3771282984,
@@ -5108,9 +5238,11 @@
         3771282984,
         3771282984,
         3795875277,
+        3818581279,
         3873347297,
         3882745150,
         3894600851,
+        3902912577,
         3934521348,
         3959094045,
         3968536338,
@@ -5123,10 +5255,10 @@
         4272588933
       ],
       "status": 1,
-      "timestamp": "2019-08-16T00:45:32.2035144Z",
-      "lastWriteTimeUtc": "2019-08-15T23:32:38.3649182Z",
-      "queryTimestamp": "2019-08-18T02:27:34.6101132Z",
-      "fileCount": 24,
+      "timestamp": "2019-08-18T05:59:43.4862137Z",
+      "lastWriteTimeUtc": "2019-08-18T05:23:03.7347848Z",
+      "queryTimestamp": "2019-08-18T05:59:45.7359119Z",
+      "fileCount": 25,
       "fileSize": 0
     },
     {
@@ -5326,7 +5458,7 @@
     }
   ],
   "isValid": true,
-  "lastPreviousMatchUpdate": "2019-08-18T04:28:04.8729824Z",
+  "lastPreviousMatchUpdate": "2019-08-18T05:59:46.5416413Z",
   "isEnabled": true,
   "isPinned": false,
   "gameVersion": "1.12.2",
@@ -6747,17 +6879,41 @@
       "addonID": 313970,
       "gameInstanceID": "30e35fe0-31d6-4d89-9103-b5b28e1b222a",
       "installedFile": {
-        "id": 2753458,
-        "displayName": "Apotheosis-1.12.2-1.10.3.jar",
-        "fileName": "Apotheosis-1.12.2-1.10.3.jar",
-        "fileDate": "2019-08-02T18:56:27.437Z",
-        "fileLength": 426127,
+        "id": 2763928,
+        "displayName": "Apotheosis-1.12.2-1.10.4.jar",
+        "fileName": "Apotheosis-1.12.2-1.10.4.jar",
+        "fileDate": "2019-08-17T14:08:36.663Z",
+        "fileLength": 426457,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2753/458/Apotheosis-1.12.2-1.10.3.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2763/928/Apotheosis-1.12.2-1.10.4.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
+          {
+            "id": 0,
+            "addonId": 250419,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 331921,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 238222,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 253449,
+            "type": 2,
+            "fileId": 0
+          },
           {
             "id": 0,
             "addonId": 283644,
@@ -6769,7 +6925,7 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 3978061944,
+            "fingerprint": 3911249430,
             "type": 0
           },
           {
@@ -6779,7 +6935,7 @@
           },
           {
             "foldername": "shadows",
-            "fingerprint": 2764523816,
+            "fingerprint": 1419907080,
             "type": 0
           },
           {
@@ -6789,11 +6945,11 @@
           },
           {
             "foldername": "mcmod.info",
-            "fingerprint": 1726630638,
+            "fingerprint": 2755463538,
             "type": 0
           }
         ],
-        "packageFingerprint": 254706240,
+        "packageFingerprint": 1988936581,
         "gameVersion": [
           "1.12.2"
         ],
@@ -6806,11 +6962,11 @@
         "gameVersionDateReleased": "2017-09-18T05:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "Apotheosis-1.12.2-1.10.3.jar"
+        "FileNameOnDisk": "Apotheosis-1.12.2-1.10.4.jar"
       },
       "dateInstalled": "2019-08-18T05:04:28.5152739Z",
-      "dateUpdated": "2019-08-18T05:04:28.516271Z",
-      "dateLastUpdateAttempted": "2019-08-18T05:04:28.516271Z",
+      "dateUpdated": "2019-08-18T06:08:13.6497141Z",
+      "dateLastUpdateAttempted": "2019-08-18T06:08:13.6497141Z",
       "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -19704,50 +19860,37 @@
       "addonID": 265642,
       "gameInstanceID": "30e35fe0-31d6-4d89-9103-b5b28e1b222a",
       "installedFile": {
-        "id": 2764277,
-        "displayName": "Electroblob's Wizardry - 4.2.0 - MC 1.12.2",
-        "fileName": "ElectroblobsWizardry-4.2.0-MC1.12.2.jar",
-        "fileDate": "2019-08-17T22:37:53.473Z",
-        "fileLength": 7271995,
+        "id": 2656626,
+        "displayName": "Electroblob's Wizardry - 4.1.4 - MC 1.12.2.jar",
+        "fileName": "Electroblob's Wizardry - 4.1.4 - MC 1.12.2.jar",
+        "fileDate": "2019-01-05T18:48:48.797Z",
+        "fileLength": 2803188,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2764/277/ElectroblobsWizardry-4.2.0-MC1.12.2.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2656/626/Electroblob's Wizardry - 4.1.4 - MC 1.12.2.jar",
         "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [
-          {
-            "id": 0,
-            "addonId": 227795,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 227083,
-            "type": 2,
-            "fileId": 0
-          }
-        ],
+        "alternateFileId": 2656627,
+        "dependencies": [],
         "isAvailable": true,
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 4099763020,
+            "fingerprint": 2590445749,
             "type": 0
           },
           {
             "foldername": "electroblob",
-            "fingerprint": 314376225,
+            "fingerprint": 2850649778,
             "type": 0
           },
           {
             "foldername": "assets",
-            "fingerprint": 3169791821,
+            "fingerprint": 522914049,
             "type": 0
           },
           {
             "foldername": "mcmod.info",
-            "fingerprint": 103261724,
+            "fingerprint": 1516123068,
             "type": 0
           },
           {
@@ -19756,9 +19899,8 @@
             "type": 0
           }
         ],
-        "packageFingerprint": 1415607075,
+        "packageFingerprint": 2127174446,
         "gameVersion": [
-          "Forge",
           "1.12.2"
         ],
         "hasInstallScript": false,
@@ -19770,12 +19912,12 @@
         "gameVersionDateReleased": "2008-03-01T06:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "ElectroblobsWizardry-4.2.0-MC1.12.2.jar"
+        "FileNameOnDisk": "Electroblob's Wizardry - 4.1.4 - MC 1.12.2.jar"
       },
       "dateInstalled": "2019-08-01T09:22:25.5685657Z",
-      "dateUpdated": "2019-08-18T04:28:18.0089392Z",
-      "dateLastUpdateAttempted": "2019-08-18T04:28:18.0089392Z",
-      "status": 4,
+      "dateUpdated": "2019-08-18T06:05:47.8920285Z",
+      "dateLastUpdateAttempted": "2019-08-18T06:05:47.8920285Z",
+      "status": 3,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -20842,6 +20984,96 @@
       "preferenceReleaseType": null,
       "manifestName": null,
       "installedTargets": null
+    },
+    {
+      "addonID": 302584,
+      "gameInstanceID": "30e35fe0-31d6-4d89-9103-b5b28e1b222a",
+      "installedFile": {
+        "id": 2722018,
+        "displayName": "Wings 1.1.5 for Minecraft 1.12.2",
+        "fileName": "wings-1.1.5-1.12.2.jar",
+        "fileDate": "2019-06-08T19:05:00.257Z",
+        "fileLength": 324183,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2722/18/wings-1.1.5-1.12.2.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 227083,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 243298,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 491942486,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 3372012647,
+            "type": 0
+          },
+          {
+            "foldername": "logo.png",
+            "fingerprint": 3927784035,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 242508384,
+            "type": 0
+          },
+          {
+            "foldername": "me",
+            "fingerprint": 4133888493,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 1686428313,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 831966861,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "wings-1.1.5-1.12.2.jar"
+      },
+      "dateInstalled": "2019-08-18T05:40:05.1836744Z",
+      "dateUpdated": "2019-08-18T05:40:05.1846721Z",
+      "dateLastUpdateAttempted": "2019-08-18T05:40:05.1846721Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
     },
     {
       "addonID": 242269,

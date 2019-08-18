@@ -64,13 +64,13 @@ key_key.sprint:0
 key_key.drop:16
 key_key.inventory:18
 key_key.chat:20
-key_key.playerlist:0
+key_key.playerlist:15
 key_key.pickItem:-98
 key_key.command:53
 key_key.screenshot:60
 key_key.togglePerspective:63
 key_key.smoothCamera:0
-key_key.fullscreen:87
+key_key.fullscreen:0
 key_key.spectatorOutlines:0
 key_key.swapHands:33
 key_key.saveToolbarActivator:0
@@ -90,19 +90,10 @@ key_Misc Caster Toggle:0
 key_bloodmagic.keybind.open_holding:0
 key_bloodmagic.keybind.cycle_holding_pos:0
 key_bloodmagic.keybind.cycle_holding_neg:0
-key_key.ebwizardry.next_spell:0
-key_key.ebwizardry.previous_spell:0
 key_keybind.baublesinventory:0
 key_arcanearchives.gui.keybinds.manifest:34
-key_arcanearchives.gui.keybinds.socket:83
+key_arcanearchives.gui.keybinds.socket:0
 key_quark.keybind.lockBuilding:0
-key_quark.keybind.dropoff:0
-key_quark.keybind.changeHotbar:0
-key_quark.keybind.chestSort:0
-key_quark.keybind.chestDropoff:0
-key_quark.keybind.chestMerge:0
-key_quark.keybind.chestRestock:0
-key_quark.keybind.chestExtract:0
 key_quark.emote.no:0
 key_quark.emote.yes:0
 key_quark.emote.wave:0
@@ -121,23 +112,32 @@ key_quark.emote.dab:0
 key_quark.emote.jet:0
 key_quark.emote.exorcist:0
 key_quark.emote.zombie:0
+key_quark.keybind.dropoff:0
+key_quark.keybind.changeHotbar:0
+key_quark.keybind.chestSort:0
+key_quark.keybind.chestDropoff:0
+key_quark.keybind.chestMerge:0
+key_quark.keybind.chestRestock:0
+key_quark.keybind.chestExtract:0
 key_roots.keybinds.pouch:45
 key_roots.keybinds.quiver:49
-key_roots.keybinds.spell_slot_3:0
-key_roots.keybinds.spell_slot_5:0
+key_roots.keybinds.spell_slot_1:0
 key_roots.keybinds.spell_slot_2:0
 key_roots.keybinds.spell_slot_next:0
-key_roots.keybinds.spell_slot_previous:0
+key_roots.keybinds.spell_slot_5:0
 key_roots.keybinds.spell_slot_4:0
-key_roots.keybinds.spell_slot_1:0
+key_roots.keybinds.spell_slot_previous:0
+key_roots.keybinds.spell_slot_3:0
 key_cos.key.opencosarmorinventory:0
+key_key.ebwizardry.next_spell:0
+key_key.ebwizardry.previous_spell:0
 key_Toggle Magnetism Suppressor:0
 key_key.ftbutilities.nbt:0
 key_key.ftbutilities.trash:0
 key_key.hooked.fire:46
 key_ingameinfoxml.key.toggle:0
 key_lootdrop.create_chest:0
-key_lootdrop.select_loot:59
+key_lootdrop.select_loot:0
 key_key.moreoverlays.lightoverlay.desc:65
 key_key.moreoverlays.chunkbounds.desc:67
 key_oreexcavation.key.excavate:41
@@ -163,14 +163,14 @@ key_vc.key.moveDown:0
 key_vc.key.openInventory:0
 key_vc.key.dropbomb:0
 key_walljump.key.walljump:42
-key_key.wings.fly:15
+key_key.wings.fly:29
 key_key.pearl_swapping.desc:0
 key_Strip World:211
 key_Dress World:210
-key_Inspect Block:201
+key_Inspect Block:199
 key_zenscroll.options.modifier_key:56
 key_smoothfont.key.guiOpen:0
-key_key.reveal:75
+key_key.reveal:68
 key_key.jei.toggleOverlay:24:CONTROL
 key_key.jei.focusSearch:33:CONTROL
 key_key.jei.toggleCheatMode:0
@@ -221,8 +221,8 @@ key_key.little.mark:0
 key_key.little.config.item:0
 key_key.little.undo:0
 key_key.little.redo:0
-key_nvg.gui.keybinds.night_vision:199
-key_nvg.gui.keybinds.mob_vision:207
+key_nvg.gui.keybinds.night_vision:0
+key_nvg.gui.keybinds.mob_vision:0
 key_nvg.gui.keybinds.both:0
 key_xreliquary.keybind.fortune_coin:0
 key_key.carpet_forward:17
@@ -275,10 +275,3 @@ soundCategory_neutral:1.0
 soundCategory_player:1.0
 soundCategory_ambient:1.0
 soundCategory_voice:1.0
-modelPart_cape:true
-modelPart_jacket:true
-modelPart_left_sleeve:true
-modelPart_right_sleeve:true
-modelPart_left_pants_leg:true
-modelPart_right_pants_leg:true
-modelPart_hat:true
