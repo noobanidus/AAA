@@ -9,3 +9,5 @@ mods.initialinventory.InvHandler.addStartingItem(<dwmh:ocarina>);
 mods.initialinventory.InvHandler.addStartingItem(<botania:virus:1>);
 mods.initialinventory.InvHandler.addStartingItem(<botania:virus>);
 mods.initialinventory.InvHandler.addStartingItem(<botania:cosmetic:15>);
+mods.initialinventory.InvHandler.addStartingItem(<waystones:waystone>);
+
