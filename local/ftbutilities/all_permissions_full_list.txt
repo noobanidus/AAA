@@ -1,4 +1,4 @@
-13073 nodes in total
+13162 nodes in total
 Modifying this file won't have any effect, edit ranks.txt!
 
 admin_panel.ftbutilities.crash_reports.delete: OP
@@ -1475,12 +1475,17 @@ ftbutilities.claims.block.edit.ebwizardry.arcane_workbench: OP
 ftbutilities.claims.block.edit.ebwizardry.crystal_block: OP
 ftbutilities.claims.block.edit.ebwizardry.crystal_flower: OP
 ftbutilities.claims.block.edit.ebwizardry.crystal_ore: OP
+ftbutilities.claims.block.edit.ebwizardry.dry_frosted_ice: OP
 ftbutilities.claims.block.edit.ebwizardry.ice_statue: OP
 ftbutilities.claims.block.edit.ebwizardry.magic_light: OP
 ftbutilities.claims.block.edit.ebwizardry.meteor: OP
+ftbutilities.claims.block.edit.ebwizardry.obsidian_crust: OP
 ftbutilities.claims.block.edit.ebwizardry.petrified_stone: OP
+ftbutilities.claims.block.edit.ebwizardry.runestone: OP
+ftbutilities.claims.block.edit.ebwizardry.runestone_pedestal: OP
 ftbutilities.claims.block.edit.ebwizardry.snare: OP
 ftbutilities.claims.block.edit.ebwizardry.spectral_block: OP
+ftbutilities.claims.block.edit.ebwizardry.thorns: OP
 ftbutilities.claims.block.edit.ebwizardry.transportation_stone: OP
 ftbutilities.claims.block.edit.ebwizardry.vanishing_cobweb: OP
 ftbutilities.claims.block.edit.eerieentities.pumpkin_creeper: OP
@@ -5059,12 +5064,17 @@ ftbutilities.claims.block.interact.ebwizardry.arcane_workbench: OP
 ftbutilities.claims.block.interact.ebwizardry.crystal_block: OP
 ftbutilities.claims.block.interact.ebwizardry.crystal_flower: OP
 ftbutilities.claims.block.interact.ebwizardry.crystal_ore: OP
+ftbutilities.claims.block.interact.ebwizardry.dry_frosted_ice: OP
 ftbutilities.claims.block.interact.ebwizardry.ice_statue: OP
 ftbutilities.claims.block.interact.ebwizardry.magic_light: OP
 ftbutilities.claims.block.interact.ebwizardry.meteor: OP
+ftbutilities.claims.block.interact.ebwizardry.obsidian_crust: OP
 ftbutilities.claims.block.interact.ebwizardry.petrified_stone: OP
+ftbutilities.claims.block.interact.ebwizardry.runestone: OP
+ftbutilities.claims.block.interact.ebwizardry.runestone_pedestal: OP
 ftbutilities.claims.block.interact.ebwizardry.snare: OP
 ftbutilities.claims.block.interact.ebwizardry.spectral_block: OP
+ftbutilities.claims.block.interact.ebwizardry.thorns: OP
 ftbutilities.claims.block.interact.ebwizardry.transportation_stone: OP
 ftbutilities.claims.block.interact.ebwizardry.vanishing_cobweb: OP
 ftbutilities.claims.block.interact.eerieentities.pumpkin_creeper: OP
@@ -7509,6 +7519,7 @@ ftbutilities.claims.item.arcanearchives.radiant_amphora: ALL
 ftbutilities.claims.item.arcanearchives.radiant_chest: ALL
 ftbutilities.claims.item.arcanearchives.radiant_crafting_table: ALL
 ftbutilities.claims.item.arcanearchives.radiant_dust: ALL
+ftbutilities.claims.item.arcanearchives.radiant_key: ALL
 ftbutilities.claims.item.arcanearchives.radiant_lantern: ALL
 ftbutilities.claims.item.arcanearchives.radiant_resonator: ALL
 ftbutilities.claims.item.arcanearchives.radiant_tank: ALL
@@ -9008,6 +9019,24 @@ ftbutilities.claims.item.ebwizardry.advanced_lightning_wand: ALL
 ftbutilities.claims.item.ebwizardry.advanced_necromancy_wand: ALL
 ftbutilities.claims.item.ebwizardry.advanced_sorcery_wand: ALL
 ftbutilities.claims.item.ebwizardry.advanced_wand: ALL
+ftbutilities.claims.item.ebwizardry.amulet_anchoring: ALL
+ftbutilities.claims.item.ebwizardry.amulet_arcane_defence: ALL
+ftbutilities.claims.item.ebwizardry.amulet_auto_shield: ALL
+ftbutilities.claims.item.ebwizardry.amulet_banishing: ALL
+ftbutilities.claims.item.ebwizardry.amulet_channeling: ALL
+ftbutilities.claims.item.ebwizardry.amulet_fire_cloaking: ALL
+ftbutilities.claims.item.ebwizardry.amulet_fire_protection: ALL
+ftbutilities.claims.item.ebwizardry.amulet_glide: ALL
+ftbutilities.claims.item.ebwizardry.amulet_ice_immunity: ALL
+ftbutilities.claims.item.ebwizardry.amulet_ice_protection: ALL
+ftbutilities.claims.item.ebwizardry.amulet_lich: ALL
+ftbutilities.claims.item.ebwizardry.amulet_potential: ALL
+ftbutilities.claims.item.ebwizardry.amulet_recovery: ALL
+ftbutilities.claims.item.ebwizardry.amulet_resurrection: ALL
+ftbutilities.claims.item.ebwizardry.amulet_transience: ALL
+ftbutilities.claims.item.ebwizardry.amulet_warding: ALL
+ftbutilities.claims.item.ebwizardry.amulet_wisdom: ALL
+ftbutilities.claims.item.ebwizardry.amulet_wither_immunity: ALL
 ftbutilities.claims.item.ebwizardry.apprentice_earth_wand: ALL
 ftbutilities.claims.item.ebwizardry.apprentice_fire_wand: ALL
 ftbutilities.claims.item.ebwizardry.apprentice_healing_wand: ALL
@@ -9019,30 +9048,42 @@ ftbutilities.claims.item.ebwizardry.apprentice_wand: ALL
 ftbutilities.claims.item.ebwizardry.arcane_tome: ALL
 ftbutilities.claims.item.ebwizardry.arcane_workbench: ALL
 ftbutilities.claims.item.ebwizardry.armour_upgrade: ALL
+ftbutilities.claims.item.ebwizardry.astral_diamond: ALL
 ftbutilities.claims.item.ebwizardry.attunement_upgrade: ALL
-ftbutilities.claims.item.ebwizardry.basic_earth_wand: ALL
-ftbutilities.claims.item.ebwizardry.basic_fire_wand: ALL
-ftbutilities.claims.item.ebwizardry.basic_healing_wand: ALL
-ftbutilities.claims.item.ebwizardry.basic_ice_wand: ALL
-ftbutilities.claims.item.ebwizardry.basic_lightning_wand: ALL
-ftbutilities.claims.item.ebwizardry.basic_necromancy_wand: ALL
-ftbutilities.claims.item.ebwizardry.basic_sorcery_wand: ALL
 ftbutilities.claims.item.ebwizardry.blank_scroll: ALL
 ftbutilities.claims.item.ebwizardry.blast_upgrade: ALL
+ftbutilities.claims.item.ebwizardry.charm_abseiling: ALL
+ftbutilities.claims.item.ebwizardry.charm_auto_smelt: ALL
+ftbutilities.claims.item.ebwizardry.charm_experience_tome: ALL
+ftbutilities.claims.item.ebwizardry.charm_feeding: ALL
+ftbutilities.claims.item.ebwizardry.charm_flight: ALL
+ftbutilities.claims.item.ebwizardry.charm_growth: ALL
+ftbutilities.claims.item.ebwizardry.charm_haggler: ALL
+ftbutilities.claims.item.ebwizardry.charm_lava_walking: ALL
+ftbutilities.claims.item.ebwizardry.charm_light: ALL
+ftbutilities.claims.item.ebwizardry.charm_minion_health: ALL
+ftbutilities.claims.item.ebwizardry.charm_minion_variants: ALL
+ftbutilities.claims.item.ebwizardry.charm_silk_touch: ALL
+ftbutilities.claims.item.ebwizardry.charm_stop_time: ALL
+ftbutilities.claims.item.ebwizardry.charm_storm: ALL
+ftbutilities.claims.item.ebwizardry.charm_transportation: ALL
 ftbutilities.claims.item.ebwizardry.condenser_upgrade: ALL
 ftbutilities.claims.item.ebwizardry.cooldown_upgrade: ALL
 ftbutilities.claims.item.ebwizardry.crystal_block: ALL
 ftbutilities.claims.item.ebwizardry.crystal_flower: ALL
 ftbutilities.claims.item.ebwizardry.crystal_ore: ALL
+ftbutilities.claims.item.ebwizardry.crystal_shard: ALL
 ftbutilities.claims.item.ebwizardry.duration_upgrade: ALL
 ftbutilities.claims.item.ebwizardry.firebomb: ALL
 ftbutilities.claims.item.ebwizardry.flaming_axe: ALL
 ftbutilities.claims.item.ebwizardry.frost_axe: ALL
+ftbutilities.claims.item.ebwizardry.grand_crystal: ALL
 ftbutilities.claims.item.ebwizardry.identification_scroll: ALL
+ftbutilities.claims.item.ebwizardry.large_mana_flask: ALL
+ftbutilities.claims.item.ebwizardry.lightning_hammer: ALL
 ftbutilities.claims.item.ebwizardry.magic_crystal: ALL
 ftbutilities.claims.item.ebwizardry.magic_silk: ALL
 ftbutilities.claims.item.ebwizardry.magic_wand: ALL
-ftbutilities.claims.item.ebwizardry.mana_flask: ALL
 ftbutilities.claims.item.ebwizardry.master_earth_wand: ALL
 ftbutilities.claims.item.ebwizardry.master_fire_wand: ALL
 ftbutilities.claims.item.ebwizardry.master_healing_wand: ALL
@@ -9051,11 +9092,55 @@ ftbutilities.claims.item.ebwizardry.master_lightning_wand: ALL
 ftbutilities.claims.item.ebwizardry.master_necromancy_wand: ALL
 ftbutilities.claims.item.ebwizardry.master_sorcery_wand: ALL
 ftbutilities.claims.item.ebwizardry.master_wand: ALL
+ftbutilities.claims.item.ebwizardry.medium_mana_flask: ALL
+ftbutilities.claims.item.ebwizardry.melee_upgrade: ALL
+ftbutilities.claims.item.ebwizardry.novice_earth_wand: ALL
+ftbutilities.claims.item.ebwizardry.novice_fire_wand: ALL
+ftbutilities.claims.item.ebwizardry.novice_healing_wand: ALL
+ftbutilities.claims.item.ebwizardry.novice_ice_wand: ALL
+ftbutilities.claims.item.ebwizardry.novice_lightning_wand: ALL
+ftbutilities.claims.item.ebwizardry.novice_necromancy_wand: ALL
+ftbutilities.claims.item.ebwizardry.novice_sorcery_wand: ALL
 ftbutilities.claims.item.ebwizardry.poison_bomb: ALL
+ftbutilities.claims.item.ebwizardry.purifying_elixir: ALL
 ftbutilities.claims.item.ebwizardry.range_upgrade: ALL
+ftbutilities.claims.item.ebwizardry.ring_arcane_frost: ALL
+ftbutilities.claims.item.ebwizardry.ring_battlemage: ALL
+ftbutilities.claims.item.ebwizardry.ring_blockwrangler: ALL
+ftbutilities.claims.item.ebwizardry.ring_combustion: ALL
+ftbutilities.claims.item.ebwizardry.ring_condensing: ALL
+ftbutilities.claims.item.ebwizardry.ring_conjurer: ALL
+ftbutilities.claims.item.ebwizardry.ring_defender: ALL
+ftbutilities.claims.item.ebwizardry.ring_disintegration: ALL
+ftbutilities.claims.item.ebwizardry.ring_earth_biome: ALL
+ftbutilities.claims.item.ebwizardry.ring_earth_melee: ALL
+ftbutilities.claims.item.ebwizardry.ring_extraction: ALL
+ftbutilities.claims.item.ebwizardry.ring_fire_biome: ALL
+ftbutilities.claims.item.ebwizardry.ring_fire_melee: ALL
+ftbutilities.claims.item.ebwizardry.ring_full_moon: ALL
+ftbutilities.claims.item.ebwizardry.ring_hammer: ALL
+ftbutilities.claims.item.ebwizardry.ring_ice_biome: ALL
+ftbutilities.claims.item.ebwizardry.ring_ice_melee: ALL
+ftbutilities.claims.item.ebwizardry.ring_interdiction: ALL
+ftbutilities.claims.item.ebwizardry.ring_leeching: ALL
+ftbutilities.claims.item.ebwizardry.ring_lightning_melee: ALL
+ftbutilities.claims.item.ebwizardry.ring_mana_return: ALL
+ftbutilities.claims.item.ebwizardry.ring_mind_control: ALL
+ftbutilities.claims.item.ebwizardry.ring_necromancy_melee: ALL
+ftbutilities.claims.item.ebwizardry.ring_paladin: ALL
+ftbutilities.claims.item.ebwizardry.ring_poison: ALL
+ftbutilities.claims.item.ebwizardry.ring_seeking: ALL
+ftbutilities.claims.item.ebwizardry.ring_shattering: ALL
+ftbutilities.claims.item.ebwizardry.ring_siphoning: ALL
+ftbutilities.claims.item.ebwizardry.ring_soulbinding: ALL
+ftbutilities.claims.item.ebwizardry.ring_storm: ALL
+ftbutilities.claims.item.ebwizardry.runestone: ALL
+ftbutilities.claims.item.ebwizardry.runestone_pedestal: ALL
 ftbutilities.claims.item.ebwizardry.scroll: ALL
 ftbutilities.claims.item.ebwizardry.siphon_upgrade: ALL
+ftbutilities.claims.item.ebwizardry.small_mana_flask: ALL
 ftbutilities.claims.item.ebwizardry.smoke_bomb: ALL
+ftbutilities.claims.item.ebwizardry.spark_bomb: ALL
 ftbutilities.claims.item.ebwizardry.spectral_boots: ALL
 ftbutilities.claims.item.ebwizardry.spectral_bow: ALL
 ftbutilities.claims.item.ebwizardry.spectral_chestplate: ALL
@@ -10403,6 +10488,7 @@ ftbutilities.claims.item.mysticalworld.cooked_venison: ALL
 ftbutilities.claims.item.mysticalworld.copper_axe: ALL
 ftbutilities.claims.item.mysticalworld.copper_hoe: ALL
 ftbutilities.claims.item.mysticalworld.copper_knife: ALL
+ftbutilities.claims.item.mysticalworld.copper_nugget: ALL
 ftbutilities.claims.item.mysticalworld.copper_pickaxe: ALL
 ftbutilities.claims.item.mysticalworld.copper_shovel: ALL
 ftbutilities.claims.item.mysticalworld.copper_sword: ALL
@@ -10431,6 +10517,7 @@ ftbutilities.claims.item.mysticalworld.raw_squid: ALL
 ftbutilities.claims.item.mysticalworld.silver_axe: ALL
 ftbutilities.claims.item.mysticalworld.silver_hoe: ALL
 ftbutilities.claims.item.mysticalworld.silver_knife: ALL
+ftbutilities.claims.item.mysticalworld.silver_nugget: ALL
 ftbutilities.claims.item.mysticalworld.silver_pickaxe: ALL
 ftbutilities.claims.item.mysticalworld.silver_shovel: ALL
 ftbutilities.claims.item.mysticalworld.silver_sword: ALL
@@ -11460,6 +11547,7 @@ ftbutilities.claims.item.roots.ritual_divine_protection: ALL
 ftbutilities.claims.item.roots.ritual_fire_storm: ALL
 ftbutilities.claims.item.roots.ritual_flower_growth: ALL
 ftbutilities.claims.item.roots.ritual_frost_lands: ALL
+ftbutilities.claims.item.roots.ritual_gathering: ALL
 ftbutilities.claims.item.roots.ritual_germination: ALL
 ftbutilities.claims.item.roots.ritual_healing_aura: ALL
 ftbutilities.claims.item.roots.ritual_heavy_storms: ALL
@@ -12151,6 +12239,7 @@ ftbutilities.claims.item.thaumicaugmentation.gauntlet: ALL
 ftbutilities.claims.item.thaumicaugmentation.key: ALL
 ftbutilities.claims.item.thaumicaugmentation.material: ALL
 ftbutilities.claims.item.thaumicaugmentation.morphic_tool: ALL
+ftbutilities.claims.item.thaumicaugmentation.primal_cutter: ALL
 ftbutilities.claims.item.thaumicaugmentation.rift_seed: ALL
 ftbutilities.claims.item.thaumicaugmentation.seal_copier: ALL
 ftbutilities.claims.item.thaumicaugmentation.stone: ALL
@@ -13078,7 +13167,6 @@ ftbutilities.tpa.cross_dim: ALL
 Available command nodes:
 
 command.advancement
-command.amidst-forge.amidst
 command.applecore.hunger
 command.arcanearchives.brazier
 command.arcanearchives.clipboard
@@ -13266,6 +13354,9 @@ command.publish
 command.quark.quark-config
 command.recipe
 command.replaceitem
+command.roots.ritual
+command.roots.roots
+command.roots.staff
 command.sampler
 command.say
 command.schematica.schematicalist
