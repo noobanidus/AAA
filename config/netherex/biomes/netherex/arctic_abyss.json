@@ -5,15 +5,6 @@
 	"isSubBiome": false,
 	"isEnabled": true,
 	"blocks": {
-		"caveFloorBlock": {
-			"block": "netherex:icy_netherrack"
-		},
-		"fluidBlock": {
-			"block": "minecraft:magma"
-		},
-		"caveWallBlock": {
-			"block": "netherex:icy_netherrack"
-		},
 		"surfaceBlock": {
 			"block": "netherex:frostburn_ice"
 		},
@@ -22,206 +13,215 @@
 		},
 		"caveCeilingBlock": {
 			"block": "netherex:icy_netherrack"
+		},
+		"caveWallBlock": {
+			"block": "netherex:icy_netherrack"
+		},
+		"caveFloorBlock": {
+			"block": "netherex:icy_netherrack"
+		},
+		"fluidBlock": {
+			"block": "minecraft:magma"
 		}
 	},
 	"entities": [
 		{
+			"entity": "netherex:frost",
 			"spawnWeight": 10,
 			"minimumGroupCount": 1,
-			"maximumGroupCount": 3,
-			"entity": "netherex:frost"
+			"maximumGroupCount": 3
 		}, 
 		{
+			"entity": "minecraft:zombie_pigman",
 			"spawnWeight": 45,
 			"minimumGroupCount": 1,
-			"maximumGroupCount": 4,
-			"entity": "minecraft:zombie_pigman"
+			"maximumGroupCount": 4
 		}, 
 		{
+			"entity": "netherex:coolmar_spider",
 			"spawnWeight": 35,
 			"minimumGroupCount": 1,
-			"maximumGroupCount": 4,
-			"entity": "netherex:coolmar_spider"
+			"maximumGroupCount": 4
 		}, 
 		{
+			"entity": "netherex:wight",
 			"spawnWeight": 100,
 			"minimumGroupCount": 1,
-			"maximumGroupCount": 4,
-			"entity": "netherex:wight"
+			"maximumGroupCount": 4
 		}, 
 		{
+			"entity": "netherex:brute",
 			"spawnWeight": 15,
 			"minimumGroupCount": 1,
-			"maximumGroupCount": 1,
-			"entity": "netherex:brute"
+			"maximumGroupCount": 1
 		}, 
 		{
+			"entity": "exoticbirds:hummingbird",
 			"spawnWeight": 1,
 			"minimumGroupCount": 2,
-			"maximumGroupCount": 5,
-			"entity": "exoticbirds:hummingbird"
+			"maximumGroupCount": 5
 		}, 
 		{
+			"entity": "exoticbirds:magpie",
 			"spawnWeight": 1,
 			"minimumGroupCount": 2,
-			"maximumGroupCount": 5,
-			"entity": "exoticbirds:magpie"
+			"maximumGroupCount": 5
 		}, 
 		{
+			"entity": "exoticbirds:peafowl",
 			"spawnWeight": 1,
 			"minimumGroupCount": 2,
-			"maximumGroupCount": 5,
-			"entity": "exoticbirds:peafowl"
+			"maximumGroupCount": 5
 		}, 
 		{
+			"entity": "exoticbirds:emperorpenguin",
 			"spawnWeight": 1,
 			"minimumGroupCount": 2,
-			"maximumGroupCount": 5,
-			"entity": "exoticbirds:emperorpenguin"
+			"maximumGroupCount": 5
 		}, 
 		{
+			"entity": "exoticbirds:pigeon",
 			"spawnWeight": 1,
 			"minimumGroupCount": 2,
-			"maximumGroupCount": 5,
-			"entity": "exoticbirds:pigeon"
+			"maximumGroupCount": 5
 		}, 
 		{
+			"entity": "exoticbirds:cardinal",
 			"spawnWeight": 1,
 			"minimumGroupCount": 2,
-			"maximumGroupCount": 5,
-			"entity": "exoticbirds:cardinal"
+			"maximumGroupCount": 5
 		}, 
 		{
+			"entity": "exoticbirds:bluejay",
 			"spawnWeight": 1,
 			"minimumGroupCount": 2,
-			"maximumGroupCount": 5,
-			"entity": "exoticbirds:bluejay"
+			"maximumGroupCount": 5
 		}, 
 		{
+			"entity": "exoticbirds:robin",
 			"spawnWeight": 1,
 			"minimumGroupCount": 2,
-			"maximumGroupCount": 5,
-			"entity": "exoticbirds:robin"
+			"maximumGroupCount": 5
 		}, 
 		{
+			"entity": "enderiozoo:epicsquid",
 			"spawnWeight": 1,
 			"minimumGroupCount": 1,
-			"maximumGroupCount": 1,
-			"entity": "enderiozoo:epicsquid"
+			"maximumGroupCount": 1
 		}
 	],
 	"traits": [
 		{
+			"trait": "libraryex:pool",
 			"generationAttempts": 2,
-			"generationStage": "terrain_alteration",
+			"randomizeGenerationAttempts": false,
 			"generationProbability": 0.125,
 			"minimumGenerationHeight": 36,
-			"blockToSpawn": {
-				"block": "netherex:ichor"
-			},
-			"randomizeGenerationAttempts": false,
-			"trait": "libraryex:pool",
 			"maximumGenerationHeight": 108,
 			"blockToSurround": {
 				"block": "netherex:frostburn_ice"
-			}
+			},
+			"blockToSpawn": {
+				"block": "netherex:ichor"
+			},
+			"generationStage": "terrain_alteration"
 		}, 
 		{
+			"trait": "libraryex:scatter",
 			"generationAttempts": 5,
-			"generationStage": "decoration",
+			"randomizeGenerationAttempts": true,
 			"generationProbability": 1.0,
 			"minimumGenerationHeight": 4,
+			"maximumGenerationHeight": 124,
 			"blockToSpawn": {
 				"block": "netherex:blue_fire"
 			},
 			"blockToTarget": {
 				"block": "netherex:frostburn_ice"
 			},
-			"randomizeGenerationAttempts": true,
-			"trait": "libraryex:scatter",
-			"maximumGenerationHeight": 124,
-			"placement": "on_ground"
+			"placement": "on_ground",
+			"generationStage": "decoration"
 		}, 
 		{
+			"trait": "libraryex:cluster",
 			"generationAttempts": 10,
-			"generationStage": "decoration",
+			"randomizeGenerationAttempts": true,
 			"generationProbability": 1.0,
 			"minimumGenerationHeight": 4,
-			"blockToSpawn": {
-				"block": "minecraft:glowstone"
-			},
-			"randomizeGenerationAttempts": true,
-			"trait": "libraryex:cluster",
 			"maximumGenerationHeight": 124,
+			"direction": "down",
 			"blockToAttachTo": {
 				"block": "netherex:icy_netherrack"
 			},
-			"direction": "down"
+			"blockToSpawn": {
+				"block": "minecraft:glowstone"
+			},
+			"generationStage": "decoration"
 		}, 
 		{
+			"trait": "libraryex:cluster",
 			"generationAttempts": 10,
-			"generationStage": "decoration",
+			"randomizeGenerationAttempts": false,
 			"generationProbability": 1.0,
 			"minimumGenerationHeight": 1,
-			"blockToSpawn": {
-				"block": "minecraft:glowstone"
-			},
-			"randomizeGenerationAttempts": false,
-			"trait": "libraryex:cluster",
 			"maximumGenerationHeight": 128,
+			"direction": "down",
 			"blockToAttachTo": {
 				"block": "netherex:icy_netherrack"
 			},
-			"direction": "down"
+			"blockToSpawn": {
+				"block": "minecraft:glowstone"
+			},
+			"generationStage": "decoration"
 		}, 
 		{
+			"trait": "libraryex:ore",
 			"generationAttempts": 16,
-			"generationStage": "ore",
+			"randomizeGenerationAttempts": false,
 			"generationProbability": 1.0,
 			"minimumGenerationHeight": 10,
+			"maximumGenerationHeight": 108,
 			"veinSize": 14,
+			"blockToReplace": {
+				"block": "netherex:icy_netherrack"
+			},
 			"blockToSpawn": {
 				"block": "netherex:quartz_ore"
 			},
+			"generationStage": "ore"
+		}, 
+		{
+			"trait": "libraryex:ore",
+			"generationAttempts": 16,
 			"randomizeGenerationAttempts": false,
+			"generationProbability": 1.0,
+			"minimumGenerationHeight": 10,
+			"maximumGenerationHeight": 108,
+			"veinSize": 7,
 			"blockToReplace": {
 				"block": "netherex:icy_netherrack"
 			},
-			"trait": "libraryex:ore",
-			"maximumGenerationHeight": 108
-		}, 
-		{
-			"generationAttempts": 16,
-			"generationStage": "ore",
-			"generationProbability": 1.0,
-			"minimumGenerationHeight": 10,
-			"veinSize": 7,
 			"blockToSpawn": {
 				"block": "netherex:rime_ore"
 			},
-			"randomizeGenerationAttempts": false,
-			"blockToReplace": {
-				"block": "netherex:icy_netherrack"
-			},
-			"trait": "libraryex:ore",
-			"maximumGenerationHeight": 108
+			"generationStage": "ore"
 		}, 
 		{
+			"trait": "libraryex:structure",
 			"generationAttempts": 1,
-			"generationStage": "structure",
-			"generationProbability": 0.25,
-			"structureType": "ground",
-			"minimumGenerationHeight": 32,
-			"clearancePercentage": 0.75,
 			"randomizeGenerationAttempts": false,
+			"generationProbability": 0.25,
+			"minimumGenerationHeight": 32,
+			"maximumGenerationHeight": 118,
 			"structures": [
 				"netherex:pigtificate_village/tiny_pigtificate_village"
 			],
-			"trait": "libraryex:structure",
-			"maximumGenerationHeight": 118,
+			"structureType": "ground",
 			"ignoredBlock": {
 				"block": "minecraft:structure_void"
-			}
+			},
+			"clearancePercentage": 0.75,
+			"generationStage": "structure"
 		}
 	],
 	"subBiomes": []
