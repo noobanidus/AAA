@@ -42,11 +42,15 @@
       {
         "weight": 40,
         "oreName": "oreDiamond"
+      },
+      {
+        "weight": 5,
+        "oreName": "oreAquamarine"
       }
   ],
   "explosionStrength": 5.0,
   "radius": 4,
   "maxWeight": 196,
   "version": 4,
-  "cost": 500000
+  "cost": 100000
 }

@@ -40,11 +40,11 @@ AlchemyTable.removeRecipe([<minecraft:wool:14>, <minecraft:flint>]);
 AlchemyTable.removeRecipe([<minecraft:wool:15>, <minecraft:flint>]);
 
 //mods.bloodmagic.AlchemyTable.addRecipe(IItemStack output, IItemStack[] inputs, int syphon, int ticks, int minTier);
-AlchemyTable.addRecipe(<minecraft:string> * 6, [<ore:wool>, <minecraft:flint>, null, null, null, null], 0, 50, 0);
+AlchemyTable.addRecipe(<minecraft:string> * 6, [<ore:wool>, <minecraft:flint>, null, null, null, null], 0, 20, 0);
 
 // Cobwebs!
 
-AlchemyTable.addRecipe(<minecraft:web>, [<ore:string>, <ore:string>, <ore:string>, <ore:string>, <ore:string>, <minecraft:clay_ball>], 0, 90, 0);
+AlchemyTable.addRecipe(<minecraft:web>, [<ore:string>, <ore:string>, <ore:string>, <ore:string>, <ore:string>, <minecraft:clay_ball>], 0, 20, 0);
 
 // ### SLATES ###
 
@@ -94,4 +94,4 @@ AlchemyArray.addRecipe(<bloodmagic:sentient_pickaxe>, <minecraft:iron_pickaxe>, 
 AlchemyArray.addRecipe(<bloodmagic:sentient_bow>, <minecraft:bow>, <bloodmagic:soul_gem:0>, "bloodmagic:textures/models/alchemyarrays/bindinglightningarray.png");
 AlchemyArray.addRecipe(<bloodmagic:sentient_armour_gem>, <minecraft:iron_chestplate>, <bloodmagic:soul_gem:0>, "bloodmagic:textures/models/alchemyarrays/bindinglightningarray.png");
 
-
+<bloodmagic:cutting_fluid>.maxDamage = 255;

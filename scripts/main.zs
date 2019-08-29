@@ -126,7 +126,7 @@ var gb = <minecraft:gold_block>;
 var eb = <minecraft:emerald_block>;
 
 recipes.remove(<bloodmagic:activation_crystal:1>);
-recipes.addShaped(<bloodmagic:activation_crystal:1>, [[db, eb, gb], [eb, <bloodmagic:activation_crystal:1>, eb], [gb, eb, db]]);
+recipes.addShaped(<bloodmagic:activation_crystal:1>, [[db, eb, gb], [eb, <bloodmagic:activation_crystal>, eb], [gb, eb, db]]);
 
 eb = <charm:ender_pearl_block>;
 
@@ -178,37 +178,11 @@ recipes.remove(<embers:sword_copper>);
 
 recipes.remove(<thermalfoundation:tool.pickaxe_copper>);
 
-recipes.remove(<embers:ingot_copper>);
-recipes.remove(<embers:ingot_silver>);
-recipes.remove(<thermalfoundation:material:128>);
-recipes.remove(<thermalfoundation:material:130>);
-
-recipes.remove(<embers:nugget_copper>);
-recipes.remove(<thaumcraft:nugget:1>);
-recipes.remove(<thermalfoundation:material:192>);
-
-recipes.remove(<embers:nugget_silver>);
-recipes.remove(<thaumcraft:nugget:3>);
-recipes.remove(<thermalfoundation:material:194>);
-recipes.remove(<embers:block_silver>);
-recipes.remove(<embers:block_copper>);
-
-recipes.remove(<embers:ingot_lead>);
-recipes.remove(<thaumcraft:nugget:4>);
-recipes.remove(<embers:nugget_lead>);
-recipes.remove(<embers:block_lead>);
-
-recipes.remove(<embers:ingot_bronze>);
-recipes.remove(<embers:nugget_bronze>);
-recipes.remove(<embers:block_bronze>);
-
 recipes.remove(<quark:red_nether_brick_stairs>);
 
 recipes.remove(<quark:charcoal_block>);
 recipes.remove(<chisel:block_charcoal2>);
 
-recipes.remove(<embers:pickaxe_copper>);
-recipes.remove(<embers:pickaxe_silver>);
 recipes.remove(<embers:pickaxe_lead>);
 recipes.remove(<embers:pickaxe_bronze>);
 
@@ -233,21 +207,13 @@ recipes.remove(<enderio:item_material:10>);
 recipes.remove(<thermalfoundation:material:23>);
 
 // Remove all the thermalfoundation duplicate gears
-recipes.remove(<thermalfoundation:material:24>); // iron
-recipes.remove(<thermalfoundation:material:25>); // gold
-recipes.remove(<thermalfoundation:material:26>); // diamond
-recipes.remove(<thermalfoundation:material:27>); // emerald
-recipes.remove(<thermalfoundation:material:256>); // copper
-recipes.remove(<thermalfoundation:material:258>); // silver
-recipes.remove(<thermalfoundation:material:259>); // lead
-recipes.remove(<thermalfoundation:material:260>); // aluminum
-recipes.remove(<thermalfoundation:material:261>); // nickel
-recipes.remove(<thermalfoundation:material:289>); // electrum
-recipes.remove(<thermalfoundation:material:291>); // bronze
-
-recipes.remove(<mysticalworld:amethyst_block>);
-
 recipes.remove(<endercrop:ender_seeds>);
 
 recipes.remove(<waystones:waystone>);
 recipes.addShaped(<waystones:waystone>, [[null, <minecraft:stonebrick>, null], [<minecraft:stonebrick>, <waystones:warp_stone>, <minecraft:stonebrick>], [<minecraft:coal_block>, <minecraft:coal_block>, <minecraft:coal_block>]]);
+
+recipes.addShapeless(<darkutils:update_detector>, [<minecraft:observer>]);
+
+recipes.addShaped(<minecraft:clock>, [[null, <ore:ingotSilver>, null], [<ore:ingotSilver>, <ore:dustRedstone>, <ore:ingotSilver>], [null, <ore:ingotSilver>, null]]);
+
+recipes.remove(<xreliquary:magicbane>);

@@ -2631,6 +2631,15 @@ false
 <p>Permission for blocks that players can break and place within claimed chunks</p>
 </td></tr>
 <tr>
+<td><code>ftbutilities.claims.block.edit.openblocks.grave</code></td>
+<td><code>bool</code></td>
+<td class='true' colspan='2'><code>true</code></td>
+<td title='
+true 
+false 
+'>
+</td></tr>
+<tr>
 <td><code>ftbutilities.claims.block.interact</code></td>
 <td><code>bool</code></td>
 <td class='false'><code>false</code></td>
@@ -3467,7 +3476,6 @@ false
 <tr><td><code>command.endercore.scoreboardinfo</code></td><td class='error' title='Invalid usage language key!'>/scoreboardinfo &lt;board&gt; &lt;name&gt;</td></tr>
 <tr><td><code>command.entitydata</code></td><td>/entitydata &lt;entity&gt; &lt;dataTag&gt;</td></tr>
 <tr><td><code>command.execute</code></td><td>/execute &lt;entity&gt; &lt;x&gt; &lt;y&gt; &lt;z&gt; &lt;command&gt;<br>/execute &lt;entity&gt; &lt;x&gt; &lt;y&gt; &lt;z&gt; detect &lt;x&gt; &lt;y&gt; &lt;z&gt; &lt;block&gt; &lt;dataValue|-1|state|*&gt; &lt;command&gt;</td></tr>
-<tr><td><code>command.extraalchemy.ea-medal</code></td><td class='error' title='Invalid usage language key!'>/ea-medal</td></tr>
 <tr><td><code>command.fill</code></td><td>/fill &lt;x1&gt; &lt;y1&gt; &lt;z1&gt; &lt;x2&gt; &lt;y2&gt; &lt;z2&gt; &lt;block&gt; [dataValue|state] [oldBlockHandling] [dataTag]</td></tr>
 <tr><td><code>command.forge.dimensions</code></td><td>Use /forge dimensions</td></tr>
 <tr><td><code>command.forge.entity.help.list</code></td><td>Use /forge entity list [filter] [dim] to get entity info that matches the optional filter.</td></tr>
@@ -3492,19 +3500,25 @@ false
 <tr><td><code>command.ftblib.my_settings</code></td><td>/my_settings &lt;config id&gt; [value]</td></tr>
 <tr><td><code>command.ftblib.reload</code></td><td>/reload [*|domain:*|domain:id]</td></tr>
 <tr><td><code>command.ftblib.team.create</code></td><td>/team create &lt;id&gt; [color]</td></tr>
-<tr><td><code>command.ftblib.team.create_server_team</code></td><td>commands.team.create_server_team.usage</td></tr>
+<tr><td><code>command.ftblib.team.create_server_team</code></td><td>/team create_server_team &lt;id&gt;</td></tr>
 <tr><td><code>command.ftblib.team.delete</code></td><td>/team delete &lt;team&gt;</td></tr>
+<tr><td><code>command.ftblib.team.get</code></td><td>/team get &lt;player&gt;</td></tr>
 <tr><td><code>command.ftblib.team.help</code></td><td>/help [page|command name]</td></tr>
+<tr><td><code>command.ftblib.team.info</code></td><td>/team info &lt;team&gt;</td></tr>
 <tr><td><code>command.ftblib.team.join</code></td><td>/team join &lt;team&gt;</td></tr>
 <tr><td><code>command.ftblib.team.kick</code></td><td>/team kick &lt;player&gt;</td></tr>
 <tr><td><code>command.ftblib.team.leave</code></td><td>/team leave</td></tr>
+<tr><td><code>command.ftblib.team.list</code></td><td>/team list</td></tr>
 <tr><td><code>command.ftblib.team.request_invite</code></td><td>/team request_invite &lt;team&gt;</td></tr>
 <tr><td><code>command.ftblib.team.settings</code></td><td>/team settings &lt;config id&gt; [value]</td></tr>
+<tr><td><code>command.ftblib.team.settings_for</code></td><td>commands.team.settings_for.usage</td></tr>
 <tr><td><code>command.ftblib.team.status</code></td><td>/team status &lt;player&gt; [set_status]</td></tr>
 <tr><td><code>command.ftblib.team.transfer_ownership</code></td><td>/team transfer_ownership &lt;player&gt;</td></tr>
 <tr><td><code>command.ftbutilities.back</code></td><td>/back</td></tr>
 <tr><td><code>command.ftbutilities.chunks.claim</code></td><td>/chunks claim</td></tr>
+<tr><td><code>command.ftbutilities.chunks.claim_as</code></td><td>/chunks claim_as &lt;server team&gt; [radius in chunks]</td></tr>
 <tr><td><code>command.ftbutilities.chunks.help</code></td><td>/help [page|command name]</td></tr>
+<tr><td><code>command.ftbutilities.chunks.info</code></td><td>/chunks info</td></tr>
 <tr><td><code>command.ftbutilities.chunks.load</code></td><td>/chunks load</td></tr>
 <tr><td><code>command.ftbutilities.chunks.unclaim</code></td><td>/chunks unclaim</td></tr>
 <tr><td><code>command.ftbutilities.chunks.unclaim_all</code></td><td>/chunks unclaim_all [dimension] [player]</td></tr>
@@ -3531,6 +3545,7 @@ false
 <tr><td><code>command.ftbutilities.nbtedit.player</code></td><td>/nbtedit player &lt;player&gt;</td></tr>
 <tr><td><code>command.ftbutilities.nbtedit.tile</code></td><td>/nbtedit tile &lt;x&gt; &lt;y&gt; &lt;z&gt;</td></tr>
 <tr><td><code>command.ftbutilities.nick</code></td><td>/nick &lt;name...&gt;</td></tr>
+<tr><td><code>command.ftbutilities.nickfor</code></td><td>/nickfor &lt;player&gt; &lt;name...&gt;</td></tr>
 <tr><td><code>command.ftbutilities.ranks.add</code></td><td>/ranks add &lt;id&gt; [parent]</td></tr>
 <tr><td><code>command.ftbutilities.ranks.delete</code></td><td>/ranks delete &lt;rank&gt;</td></tr>
 <tr><td><code>command.ftbutilities.ranks.get</code></td><td>/ranks get [player]</td></tr>
@@ -3564,17 +3579,34 @@ false
 <tr><td><code>command.littletiles.lt-tovanilla</code></td><td>commands.tovanilla.usage</td></tr>
 <tr><td><code>command.locate</code></td><td>/locate &lt;feature&gt;</td></tr>
 <tr><td><code>command.me</code></td><td>/me &lt;action ...&gt;</td></tr>
+<tr><td><code>command.minerva.ea-medal</code></td><td class='error' title='Invalid usage language key!'>/mv-medal</td></tr>
 <tr><td><code>command.naturesaura.naaura</code></td><td>/naaura store|drain &lt;amount&gt; [range]<br>/naaura reset &lt;range&gt;</td></tr>
 <tr><td><code>command.nmsot.nmsot</code></td><td class='error' title='Invalid usage language key!'>/nmsot &lt;help|reload&gt;</td></tr>
+<tr><td><code>command.openblocks.flimflam</code></td><td class='error' title='Invalid usage language key!'>flimflam &lt;player&gt; [&lt;effect&gt;]</td></tr>
+<tr><td><code>command.openblocks.luck</code></td><td class='error' title='Invalid usage language key!'>luck &lt;player&gt; [&lt;amount&gt;]</td></tr>
+<tr><td><code>command.openblocks.ob_inventory</code></td><td class='error' title='Invalid usage language key!'>ob_inventory store &lt;player&gt;<br>ob_inventory restore &lt;player&gt; &lt;file without 'inventory-' and '.dat'&gt;<br>ob_inventory spawn &lt;file without 'inventory-' and '.dat'&gt; [&lt;sub_inventory<br>'main'&gt;,  [&lt;index of item&gt;]]</td></tr>
+<tr><td><code>command.openmods.om_config_s</code></td><td class='error' title='Invalid usage language key!'>om_config_s save &lt;modid&gt; OR
+om_config_s help &lt;modid&gt; &lt;category&gt; &lt;name&gt; OR
+om_config_s get &lt;modid&gt; &lt;category&gt; &lt;name&gt; OR
+om_config_s clear &lt;modid&gt; &lt;category&gt; &lt;name&gt; OR
+om_config_s set &lt;modid&gt; &lt;category&gt; &lt;name&gt; &lt;value&gt;... OR
+om_config_s append &lt;modid&gt; &lt;category&gt; &lt;name&gt; &lt;value&gt;... OR
+om_config_s remove &lt;modid&gt; &lt;category&gt; &lt;name&gt; &lt;value&gt;... OR
+om_config_s default &lt;modid&gt; &lt;category&gt; &lt;name&gt; &lt;value&gt;... OR
+</td></tr>
+<tr><td><code>command.openmods.om_source_s</code></td><td class='error' title='Invalid usage language key!'>om_source_s class &lt;class name&gt;</td></tr>
 <tr><td><code>command.oreexcavation.undo_excavation</code></td><td class='error' title='Invalid usage language key!'>/undo_excavation</td></tr>
 <tr><td><code>command.particle</code></td><td>/particle &lt;name&gt; &lt;x&gt; &lt;y&gt; &lt;z&gt; &lt;xd&gt; &lt;yd&gt; &lt;zd&gt; &lt;speed&gt; [count] [mode] [player] [params]</td></tr>
 <tr><td><code>command.playsound</code></td><td>/playsound &lt;sound&gt; &lt;source&gt; &lt;player&gt; [x] [y] [z] [volume] [pitch] [minimumVolume]</td></tr>
 <tr><td><code>command.publish</code></td><td>/publish</td></tr>
 <tr><td><code>command.quark.quark-config</code></td><td>/quark-config &lt;category&gt; &lt;key&gt; &lt;value&gt; [player] [save?]</td></tr>
 <tr><td><code>command.recipe</code></td><td>/recipe &lt;give|take&gt; [player] &lt;name|*&gt;</td></tr>
+<tr><td><code>command.recycler.recycler</code></td><td class='error' title='Invalid usage language key!'>recycler &lt;command&gt;
+exportCraftingRecipes - save the list of all crafting recipes in "recycling" format in the config directoryaddRecipe - add the recycling recipe of the crafting result of the item hold in main hand
+removeRecipe - remove the recycling recipe of the item hold in main hand</td></tr>
 <tr><td><code>command.replaceitem</code></td><td>/replaceitem &lt;entity|block&gt; ...</td></tr>
 <tr><td><code>command.roots.ritual</code></td><td class='error' title='Invalid usage language key!'>/ritual &lt;ritual name&gt;</td></tr>
-<tr><td><code>command.roots.roots</code></td><td class='error' title='Invalid usage language key!'>/roots book</td></tr>
+<tr><td><code>command.roots.roots</code></td><td class='error' title='Invalid usage language key!'>/roots book | /roots growables</td></tr>
 <tr><td><code>command.roots.staff</code></td><td class='error' title='Invalid usage language key!'>/staff &lt;spell name&gt;</td></tr>
 <tr><td><code>command.sampler</code></td><td class='error' title='Invalid usage language key!'>/sampler help [&lt;command&gt;] | tps | counts [&lt;dim-id&gt;] [&lt;limit&gt;] | info | chunkloaders [&lt;dim-id&gt;] | loads show|hide | packettracker (start [--log=&lt;file&gt;] [--verbose])|stop|(results [--limit &lt;n&gt;] [--raw]) | report [&lt;filename&gt;] [--download] | start [--noClear] | stop | export [&lt;filename&gt;] [--download] | clear | trigger (((ticktime|frametime) &lt;ms&gt;)|login [--extraTicks=&lt;n&gt;]) [--output=&lt;dir&gt;] | memory [--gc] | gc | heapdump [&lt;filename&gt;] [--compress] [--download] [--sync] | threaddump [&lt;filename&gt;] [--download] | sampleinterval [&lt;µs&gt;] | includelinenumbers [yes/no] | find &lt;class&gt; [&lt;dimId&gt;] [--ticking] [--unloaded] [--countOnly/--chunkCounts] [--meta=&lt;n&gt;] [--filter=&lt;x&gt;] [--clear] | chunkinfo [&lt;x&gt; &lt;z&gt; [&lt;dimId&gt;]] | blockinfo [&lt;x&gt; &lt;y&gt; &lt;z&gt; [&lt;dimId&gt;]] [--clear] | nbtsize | registry [ list | list &lt;regName&gt; [domain] [--detail] | domains &lt;regName&gt; [--limit=&lt;n&gt;] | get &lt;regName&gt; (identifier | key | id | class) &lt;value&gt; ] | plugin</td></tr>
 <tr><td><code>command.say</code></td><td>/say &lt;message ...&gt;</td></tr>
@@ -3638,7 +3670,9 @@ false
 <tr><td><code>command.treasure2.treasurewithertree</code></td><td class='error' title='Invalid usage language key!'>/treasurewithertree &lt;x&gt; &lt;y&gt; &lt;z&gt;: spawns a Treasure! wither tree at location (x,y,z)</td></tr>
 <tr><td><code>command.treasure2.trpitonly</code></td><td class='error' title='Invalid usage language key!'>/trpitonly &lt;x&gt; &lt;y&gt; &lt;z&gt; [pit]: spawns a Treasure! pit at location (x,y,z)</td></tr>
 <tr><td><code>command.trigger</code></td><td>/trigger &lt;objective&gt; &lt;add|set&gt; &lt;value&gt;</td></tr>
+<tr><td><code>command.uteamcore.ping</code></td><td class='error' title='Invalid usage language key!'>/ping</td></tr>
 <tr><td><code>command.variegated.enchsim</code></td><td class='error' title='Invalid usage language key!'>/enchsim</td></tr>
+<tr><td><code>command.variegated.varinfo</code></td><td class='error' title='Invalid usage language key!'>/varinfo</td></tr>
 <tr><td><code>command.vtt.vtt</code></td><td class='error' title='Invalid usage language key!'>null</td></tr>
 <tr><td><code>command.waila.dumphandlers</code></td><td class='error' title='Invalid usage language key!'>/dumphandlers</td></tr>
 <tr><td><code>command.weather</code></td><td>/weather &lt;clear|rain|thunder&gt; [duration in seconds]</td></tr>

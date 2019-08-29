@@ -37,7 +37,7 @@
       },
       {
         "weight": 5,
-        "oreName": "oreSaltpeter"
+        "oreName": "oreSalt"
       },
       {
         "weight": 3,
@@ -80,5 +80,5 @@
   "radius": 4,
   "maxWeight": 313,
   "version": 4,
-  "cost": 100000
+  "cost": 40000
 }

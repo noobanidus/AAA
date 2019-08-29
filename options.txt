@@ -11,7 +11,7 @@ bobView:true
 anaglyph3d:false
 maxFps:120
 fboEnable:true
-difficulty:2
+difficulty:0
 fancyGraphics:true
 ao:2
 renderClouds:false
@@ -90,10 +90,11 @@ key_Misc Caster Toggle:0
 key_bloodmagic.keybind.open_holding:0
 key_bloodmagic.keybind.cycle_holding_pos:0
 key_bloodmagic.keybind.cycle_holding_neg:0
+key_key.ebwizardry.next_spell:0
+key_key.ebwizardry.previous_spell:0
 key_keybind.baublesinventory:0
 key_arcanearchives.gui.keybinds.manifest:34
 key_arcanearchives.gui.keybinds.socket:0
-key_quark.keybind.lockBuilding:0
 key_quark.emote.no:0
 key_quark.emote.yes:0
 key_quark.emote.wave:0
@@ -112,6 +113,7 @@ key_quark.emote.dab:0
 key_quark.emote.jet:0
 key_quark.emote.exorcist:0
 key_quark.emote.zombie:0
+key_quark.keybind.lockBuilding:0
 key_quark.keybind.dropoff:0
 key_quark.keybind.changeHotbar:0
 key_quark.keybind.chestSort:0
@@ -121,16 +123,14 @@ key_quark.keybind.chestRestock:0
 key_quark.keybind.chestExtract:0
 key_roots.keybinds.pouch:45
 key_roots.keybinds.quiver:49
-key_roots.keybinds.spell_slot_1:0
 key_roots.keybinds.spell_slot_2:0
 key_roots.keybinds.spell_slot_next:0
+key_roots.keybinds.spell_slot_1:0
+key_roots.keybinds.spell_slot_previous:0
 key_roots.keybinds.spell_slot_5:0
 key_roots.keybinds.spell_slot_4:0
-key_roots.keybinds.spell_slot_previous:0
 key_roots.keybinds.spell_slot_3:0
 key_cos.key.opencosarmorinventory:0
-key_key.ebwizardry.next_spell:0
-key_key.ebwizardry.previous_spell:0
 key_Toggle Magnetism Suppressor:0
 key_key.ftbutilities.nbt:0
 key_key.ftbutilities.trash:0
@@ -140,6 +140,9 @@ key_lootdrop.create_chest:0
 key_lootdrop.select_loot:0
 key_key.moreoverlays.lightoverlay.desc:65
 key_key.moreoverlays.chunkbounds.desc:67
+key_openblocks.keybind.vario_switch:47
+key_openblocks.keybind.vario_vol_up:0
+key_openblocks.keybind.vario_vol_down:0
 key_oreexcavation.key.excavate:41
 key_oreexcavation.key.shape:79
 key_schematica.key.load:181
@@ -275,3 +278,10 @@ soundCategory_neutral:1.0
 soundCategory_player:1.0
 soundCategory_ambient:1.0
 soundCategory_voice:1.0
+modelPart_cape:true
+modelPart_jacket:true
+modelPart_left_sleeve:true
+modelPart_right_sleeve:true
+modelPart_left_pants_leg:true
+modelPart_right_pants_leg:true
+modelPart_hat:true
