@@ -1,0 +1,44 @@
+{
+  "catalystStack": {
+    "registryName": {
+      "domain": "thaumcraft",
+      "path": "ingot"
+    },
+    "meta": 0
+  },
+  "components": [
+    {
+      "weight": 20,
+      "oreName": "oreCinnibar"
+    },
+    {
+      "weight": 20,
+      "oreName": "oreAmber"
+    },
+    {
+      "weight": 32,
+      "oreName": "thaumcraftQuartz"
+    },
+    {
+      "weight": 32,
+      "oreName": "stoneArcaneBrick"
+    },
+    {
+      "weight": 32,
+      "oreName": "stoneArcane"
+    },
+    {
+      "weight": 15,
+      "oreName": "porousStone"
+    },
+    {
+      "weight": 5,
+      "oreName": "blockFlesh"
+    }
+  ],
+  "explosionStrength": 5.0,
+  "radius": 6,
+  "maxWeight": 156,
+  "version": 3,
+  "cost": 10000
+}
