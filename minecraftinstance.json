@@ -705,21 +705,6 @@
       "fileSize": 378390
     },
     {
-      "folderName": "variegated-1.2.1.jar",
-      "fingerprint": 1290225805,
-      "fileDateHash": 479230194,
-      "sectionID": 8,
-      "individualFingerprints": [
-        1290225805
-      ],
-      "status": 1,
-      "timestamp": "2019-08-29T12:33:02.8570441Z",
-      "lastWriteTimeUtc": "2019-08-29T12:09:13.2454332Z",
-      "queryTimestamp": "2019-08-29T12:33:04.4555873Z",
-      "fileCount": 1,
-      "fileSize": 186807
-    },
-    {
       "folderName": "supersoundmuffler-1.12.2-1.0.2.10.jar",
       "fingerprint": 1735383187,
       "fileDateHash": 3852927252,
@@ -2727,6 +2712,21 @@
       "fileSize": 0
     },
     {
+      "folderName": "disench-1.1.0.jar",
+      "fingerprint": 364056303,
+      "fileDateHash": 1104384236,
+      "sectionID": 8,
+      "individualFingerprints": [
+        364056303
+      ],
+      "status": 1,
+      "timestamp": "2019-08-30T04:11:11.9842135Z",
+      "lastWriteTimeUtc": "2019-08-29T13:09:55.0345411Z",
+      "queryTimestamp": "2019-08-30T04:11:17.6137226Z",
+      "fileCount": 1,
+      "fileSize": 51363
+    },
+    {
       "folderName": "lootcapacitortooltips-1.3.jar",
       "fingerprint": 60008387,
       "fileDateHash": 4149168351,
@@ -3749,6 +3749,21 @@
       "fileSize": 447874
     },
     {
+      "folderName": "ForgeMultipart-1.12.2-2.6.2.83-universal.jar",
+      "fingerprint": 3090990458,
+      "fileDateHash": 2311279329,
+      "sectionID": 8,
+      "individualFingerprints": [
+        3090990458
+      ],
+      "status": 1,
+      "timestamp": "2019-08-30T04:11:12.0051008Z",
+      "lastWriteTimeUtc": "2019-08-30T04:09:45.9950978Z",
+      "queryTimestamp": "2019-08-30T04:11:17.6256909Z",
+      "fileCount": 1,
+      "fileSize": 1304958
+    },
+    {
       "folderName": "blockcraftery-1.12.2-1.3.1.jar",
       "fingerprint": 1630431775,
       "fileDateHash": 1384980467,
@@ -3927,6 +3942,21 @@
       "queryTimestamp": "2019-08-29T08:41:57.0243338Z",
       "fileCount": 1,
       "fileSize": 1247278
+    },
+    {
+      "folderName": "Translocators-1.12.2-2.5.2.81-universal.jar",
+      "fingerprint": 1620815758,
+      "fileDateHash": 2880288356,
+      "sectionID": 8,
+      "individualFingerprints": [
+        1620815758
+      ],
+      "status": 1,
+      "timestamp": "2019-08-30T04:11:12.0379795Z",
+      "lastWriteTimeUtc": "2019-08-30T04:09:46.4364581Z",
+      "queryTimestamp": "2019-08-30T04:11:17.6296809Z",
+      "fileCount": 1,
+      "fileSize": 446678
     },
     {
       "folderName": "IntegratedDynamics-1.12.2-1.0.18.jar",
@@ -4617,22 +4647,11 @@
     },
     {
       "folderName": "Copy of Copy of New World",
-      "fingerprint": 179521038,
-      "fileDateHash": 2947697344,
+      "fingerprint": 361510348,
+      "fileDateHash": 3946241188,
       "sectionID": 10,
       "individualFingerprints": [
-        173646837,
-        173646837,
-        173646837,
-        173646837,
-        173646837,
-        173646837,
-        173646837,
-        173646837,
-        173646837,
-        173646837,
-        332238387,
-        349952925,
+        185328120,
         418801279,
         427886205,
         489458212,
@@ -4645,6 +4664,7 @@
         489458212,
         489458212,
         489458212,
+        707694119,
         758054953,
         758054953,
         758054953,
@@ -4656,40 +4676,54 @@
         758054953,
         758054953,
         758054953,
+        779726116,
+        928783040,
+        1043477846,
         1088136327,
-        1108776009,
-        1120678152,
-        1259308606,
-        1276357211,
+        1214663565,
+        1288158890,
+        1357710863,
+        1383206509,
         1540447798,
-        1575238173,
-        1711636311,
-        1815612939,
-        2138050518,
+        1551838744,
+        1728816913,
+        1841757871,
+        2112356029,
         2155785570,
         2155785570,
-        2170973881,
+        2171384791,
         2171933579,
-        2218433315,
+        2177743045,
+        2328772420,
         2336574816,
-        2485176071,
+        2707646913,
         2745783734,
         2763463119,
-        2811120963,
-        2862913944,
-        2876622327,
         2894434628,
         2894434628,
+        2964157080,
         2993026819,
+        3082475563,
+        3082475563,
+        3082475563,
+        3082475563,
+        3082475563,
+        3082475563,
+        3082475563,
+        3082475563,
+        3082475563,
+        3082475563,
         3134755400,
         3184781582,
-        3192320083,
         3232760201,
-        3240969162,
-        3278622821,
+        3258992304,
+        3310604577,
+        3326536337,
         3383409723,
+        3482103815,
         3573230608,
-        3607399091,
+        3672321837,
+        3731450857,
         3736006272,
         3771282984,
         3771282984,
@@ -5246,12 +5280,16 @@
         3771282984,
         3771282984,
         3771282984,
-        3808237475,
+        3873385047,
+        3878992601,
+        3935434416,
+        4016482046,
+        4029128557,
+        4141075736,
         4153548010,
         4175146842,
-        4179380713,
         4199835656,
-        4213684608,
+        4200172680,
         4213863462,
         4272588933,
         4272588933,
@@ -5259,9 +5297,9 @@
         4293898111
       ],
       "status": 1,
-      "timestamp": "2019-08-29T12:08:06.625071Z",
-      "lastWriteTimeUtc": "2019-08-29T12:07:11.7342945Z",
-      "queryTimestamp": "2019-08-29T12:08:09.5055896Z",
+      "timestamp": "2019-08-30T04:11:12.0847347Z",
+      "lastWriteTimeUtc": "2019-08-29T13:23:52.5837059Z",
+      "queryTimestamp": "2019-08-30T04:11:17.6366627Z",
       "fileCount": 24,
       "fileSize": 0
     },
@@ -7410,7 +7448,7 @@
     }
   ],
   "isValid": true,
-  "lastPreviousMatchUpdate": "2019-08-29T12:55:31.4557944Z",
+  "lastPreviousMatchUpdate": "2019-08-30T05:38:53.2250219Z",
   "isEnabled": true,
   "isPinned": false,
   "gameVersion": "1.12.2",
@@ -8374,14 +8412,14 @@
       "addonID": 277064,
       "gameInstanceID": "30e35fe0-31d6-4d89-9103-b5b28e1b222a",
       "installedFile": {
-        "id": 2772935,
-        "displayName": "mysticallib-1.12.2-1.3.4.jar",
-        "fileName": "mysticallib-1.12.2-1.3.4.jar",
-        "fileDate": "2019-08-28T11:23:44.313Z",
-        "fileLength": 339425,
+        "id": 2774238,
+        "displayName": "mysticallib-1.12.2-1.3.5.jar",
+        "fileName": "mysticallib-1.12.2-1.3.5.jar",
+        "fileDate": "2019-08-30T03:49:14.417Z",
+        "fileLength": 339373,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2772/935/mysticallib-1.12.2-1.3.4.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2774/238/mysticallib-1.12.2-1.3.5.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [],
@@ -8389,12 +8427,12 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 726189036,
+            "fingerprint": 1841982195,
             "type": 0
           },
           {
             "foldername": "epicsquid",
-            "fingerprint": 3421043184,
+            "fingerprint": 1706259979,
             "type": 0
           },
           {
@@ -8413,7 +8451,7 @@
             "type": 0
           }
         ],
-        "packageFingerprint": 1287195039,
+        "packageFingerprint": 947678143,
         "gameVersion": [
           "Forge",
           "1.12.2"
@@ -8427,11 +8465,11 @@
         "gameVersionDateReleased": "2017-09-18T05:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "mysticallib-1.12.2-1.3.4.jar"
+        "FileNameOnDisk": "mysticallib-1.12.2-1.3.5.jar"
       },
       "dateInstalled": "2019-08-22T03:58:14.0159301Z",
-      "dateUpdated": "2019-08-29T10:20:23.784997Z",
-      "dateLastUpdateAttempted": "2019-08-29T10:20:23.784997Z",
+      "dateUpdated": "2019-08-30T04:12:35.2628213Z",
+      "dateLastUpdateAttempted": "2019-08-30T04:12:35.2628213Z",
       "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -13769,6 +13807,90 @@
       "installedTargets": null
     },
     {
+      "addonID": 258426,
+      "gameInstanceID": "30e35fe0-31d6-4d89-9103-b5b28e1b222a",
+      "installedFile": {
+        "id": 2755790,
+        "displayName": "ForgeMultipart 1.12.2-2.6.2.83-universal",
+        "fileName": "ForgeMultipart-1.12.2-2.6.2.83-universal.jar",
+        "fileDate": "2019-08-06T08:47:59.433Z",
+        "fileLength": 1304958,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2755/790/ForgeMultipart-1.12.2-2.6.2.83-universal.jar",
+        "isAlternate": false,
+        "alternateFileId": 2755791,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 242818,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 3891823189,
+            "type": 0
+          },
+          {
+            "foldername": "ChickenASM-1.12-1.0.2.7.jar",
+            "fingerprint": 1918344602,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 1520330629,
+            "type": 0
+          },
+          {
+            "foldername": "codechicken",
+            "fingerprint": 1494326866,
+            "type": 0
+          },
+          {
+            "foldername": "dependencies.info",
+            "fingerprint": 3184481455,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 232249196,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 3090990458,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "ForgeMultipart-1.12.2-2.6.2.83-universal.jar"
+      },
+      "dateInstalled": "2019-08-30T04:09:45.9950978Z",
+      "dateUpdated": "2019-08-30T04:09:46.0070664Z",
+      "dateLastUpdateAttempted": "2019-08-30T04:09:46.0070664Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
       "addonID": 280766,
       "gameInstanceID": "30e35fe0-31d6-4d89-9103-b5b28e1b222a",
       "installedFile": {
@@ -14803,14 +14925,14 @@
       "addonID": 246183,
       "gameInstanceID": "30e35fe0-31d6-4d89-9103-b5b28e1b222a",
       "installedFile": {
-        "id": 2773607,
-        "displayName": "Roots-1.12.2-3.0.9.jar",
-        "fileName": "Roots-1.12.2-3.0.9.jar",
-        "fileDate": "2019-08-29T09:30:37.623Z",
-        "fileLength": 1376465,
+        "id": 2774239,
+        "displayName": "Roots-1.12.2-3.0.10.jar",
+        "fileName": "Roots-1.12.2-3.0.10.jar",
+        "fileDate": "2019-08-30T03:53:08.73Z",
+        "fileLength": 1379172,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2773/607/Roots-1.12.2-3.0.9.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2774/239/Roots-1.12.2-3.0.10.jar",
         "isAlternate": false,
         "alternateFileId": 0,
         "dependencies": [
@@ -14822,13 +14944,13 @@
           },
           {
             "id": 0,
-            "addonId": 277064,
+            "addonId": 282940,
             "type": 3,
             "fileId": 0
           },
           {
             "id": 0,
-            "addonId": 282940,
+            "addonId": 277064,
             "type": 3,
             "fileId": 0
           }
@@ -14837,17 +14959,17 @@
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 4265184888,
+            "fingerprint": 2704344343,
             "type": 0
           },
           {
             "foldername": "epicsquid",
-            "fingerprint": 2019055218,
+            "fingerprint": 2640239965,
             "type": 0
           },
           {
             "foldername": "assets",
-            "fingerprint": 1905855408,
+            "fingerprint": 3932365961,
             "type": 0
           },
           {
@@ -14856,7 +14978,7 @@
             "type": 0
           }
         ],
-        "packageFingerprint": 922779508,
+        "packageFingerprint": 3868416781,
         "gameVersion": [
           "Forge",
           "1.12.2"
@@ -14870,11 +14992,11 @@
         "gameVersionDateReleased": "2017-09-18T05:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "Roots-1.12.2-3.0.9.jar"
+        "FileNameOnDisk": "Roots-1.12.2-3.0.10.jar"
       },
       "dateInstalled": "2019-08-29T10:23:16.5442626Z",
-      "dateUpdated": "2019-08-29T10:31:07.6844869Z",
-      "dateLastUpdateAttempted": "2019-08-29T10:31:07.6844869Z",
+      "dateUpdated": "2019-08-30T04:12:44.9481163Z",
+      "dateLastUpdateAttempted": "2019-08-30T04:12:44.9481163Z",
       "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -21041,20 +21163,20 @@
       "addonID": 311357,
       "gameInstanceID": "30e35fe0-31d6-4d89-9103-b5b28e1b222a",
       "installedFile": {
-        "id": 2773616,
-        "displayName": "arcanearchives-0.2.0.7.jar",
-        "fileName": "arcanearchives-0.2.0.7.jar",
-        "fileDate": "2019-08-29T10:02:42.05Z",
+        "id": 2774243,
+        "displayName": "arcanearchives-0.2.0.8.jar",
+        "fileName": "arcanearchives-0.2.0.8.jar",
+        "fileDate": "2019-08-30T04:06:49.007Z",
         "fileLength": 4998014,
         "releaseType": 1,
         "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2773/616/arcanearchives-0.2.0.7.jar",
+        "downloadUrl": "https://edge.forgecdn.net/files/2774/243/arcanearchives-0.2.0.8.jar",
         "isAlternate": false,
-        "alternateFileId": 2773618,
+        "alternateFileId": 2774245,
         "dependencies": [
           {
             "id": 0,
-            "addonId": 243121,
+            "addonId": 253449,
             "type": 2,
             "fileId": 0
           },
@@ -21066,7 +21188,7 @@
           },
           {
             "id": 0,
-            "addonId": 241721,
+            "addonId": 242872,
             "type": 2,
             "fileId": 0
           },
@@ -21078,13 +21200,13 @@
           },
           {
             "id": 0,
-            "addonId": 238222,
+            "addonId": 265642,
             "type": 2,
             "fileId": 0
           },
           {
             "id": 0,
-            "addonId": 245211,
+            "addonId": 238222,
             "type": 2,
             "fileId": 0
           },
@@ -21096,25 +21218,13 @@
           },
           {
             "id": 0,
-            "addonId": 253449,
+            "addonId": 245211,
             "type": 2,
             "fileId": 0
           },
           {
             "id": 0,
-            "addonId": 277064,
-            "type": 3,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 242872,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 265642,
+            "addonId": 243121,
             "type": 2,
             "fileId": 0
           },
@@ -21123,13 +21233,25 @@
             "addonId": 227083,
             "type": 2,
             "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 241721,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 277064,
+            "type": 3,
+            "fileId": 0
           }
         ],
         "isAvailable": true,
         "modules": [
           {
             "foldername": "META-INF",
-            "fingerprint": 123920410,
+            "fingerprint": 4165586683,
             "type": 0
           },
           {
@@ -21139,7 +21261,7 @@
           },
           {
             "foldername": "com",
-            "fingerprint": 2196664322,
+            "fingerprint": 2911192278,
             "type": 0
           },
           {
@@ -21159,7 +21281,7 @@
           },
           {
             "foldername": "mcmod.info",
-            "fingerprint": 2289743191,
+            "fingerprint": 906512536,
             "type": 0
           },
           {
@@ -21183,7 +21305,7 @@
             "type": 0
           }
         ],
-        "packageFingerprint": 3298369848,
+        "packageFingerprint": 515153217,
         "gameVersion": [
           "Forge",
           "1.12.2"
@@ -21197,11 +21319,11 @@
         "gameVersionDateReleased": "2017-09-18T05:00:00Z",
         "gameId": 0,
         "isServerPack": false,
-        "FileNameOnDisk": "arcanearchives-0.2.0.7.jar"
+        "FileNameOnDisk": "arcanearchives-0.2.0.8.jar"
       },
       "dateInstalled": "2019-08-25T08:01:53.9655304Z",
-      "dateUpdated": "2019-08-29T10:20:00.236268Z",
-      "dateLastUpdateAttempted": "2019-08-29T10:20:00.236268Z",
+      "dateUpdated": "2019-08-30T04:12:17.3568795Z",
+      "dateLastUpdateAttempted": "2019-08-30T04:12:17.3568795Z",
       "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -21283,6 +21405,86 @@
       "dateUpdated": "2019-08-22T04:02:48.0758941Z",
       "dateLastUpdateAttempted": "2019-08-22T04:02:48.0758941Z",
       "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 247695,
+      "gameInstanceID": "30e35fe0-31d6-4d89-9103-b5b28e1b222a",
+      "installedFile": {
+        "id": 2755795,
+        "displayName": "Translocators 1.12.2-2.5.2.81-universal",
+        "fileName": "Translocators-1.12.2-2.5.2.81-universal.jar",
+        "fileDate": "2019-08-06T08:51:16.623Z",
+        "fileLength": 446678,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2755/795/Translocators-1.12.2-2.5.2.81-universal.jar",
+        "isAlternate": false,
+        "alternateFileId": 2755796,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 242818,
+            "type": 3,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 258426,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 11009799,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 1118950956,
+            "type": 0
+          },
+          {
+            "foldername": "codechicken",
+            "fingerprint": 2805954089,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 3838575141,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 1620815758,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "Translocators-1.12.2-2.5.2.81-universal.jar"
+      },
+      "dateInstalled": "2019-08-30T04:09:46.4364581Z",
+      "dateUpdated": "2019-08-30T04:09:46.4464315Z",
+      "dateLastUpdateAttempted": "2019-08-30T04:09:46.4464315Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -21805,10 +22007,102 @@
     {
       "addonID": 319227,
       "gameInstanceID": "30e35fe0-31d6-4d89-9103-b5b28e1b222a",
-      "installedFile": null,
-      "dateInstalled": "2019-08-29T12:07:40.7956367Z",
-      "dateUpdated": "2019-08-29T12:38:58.7336745Z",
-      "dateLastUpdateAttempted": "2019-08-29T12:38:58.7336745Z",
+      "installedFile": {
+        "id": 2774251,
+        "displayName": "variegated-1.2.4.jar",
+        "fileName": "variegated-1.2.4.jar",
+        "fileDate": "2019-08-30T04:25:14Z",
+        "fileLength": 189826,
+        "releaseType": 2,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2774/251/variegated-1.2.4.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 224791,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 225561,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 245211,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 223628,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 242830,
+            "type": 2,
+            "fileId": 0
+          },
+          {
+            "id": 0,
+            "addonId": 225643,
+            "type": 2,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2628309887,
+            "type": 0
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 1301831923,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 1848844853,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 1154821259,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 1882628174,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 2789773875,
+        "gameVersion": [
+          "Forge",
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2017-09-18T05:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "variegated-1.2.4.jar"
+      },
+      "dateInstalled": "2019-08-30T04:13:32.863586Z",
+      "dateUpdated": "2019-08-30T05:39:14.0062152Z",
+      "dateLastUpdateAttempted": "2019-08-30T05:39:14.0062152Z",
       "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
@@ -25112,6 +25406,79 @@
       "dateUpdated": "2019-08-18T04:40:53.8851842Z",
       "dateLastUpdateAttempted": "2019-08-18T04:40:53.8851842Z",
       "status": 5,
+      "preferenceAutoInstallUpdates": false,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
+      "addonID": 333909,
+      "gameInstanceID": "30e35fe0-31d6-4d89-9103-b5b28e1b222a",
+      "installedFile": {
+        "id": 2758375,
+        "displayName": "disench-1.1.0.jar",
+        "fileName": "disench-1.1.0.jar",
+        "fileDate": "2019-08-10T01:42:26.157Z",
+        "fileLength": 51363,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2758/375/disench-1.1.0.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 1714190871,
+            "type": 0
+          },
+          {
+            "foldername": "com",
+            "fingerprint": 3711250067,
+            "type": 0
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 1427324030,
+            "type": 0
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 1907261995,
+            "type": 0
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 3056373267,
+            "type": 0
+          }
+        ],
+        "packageFingerprint": 364056303,
+        "gameVersion": [
+          "Forge",
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2017-09-18T05:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "disench-1.1.0.jar"
+      },
+      "dateInstalled": "2019-08-29T13:09:55.0345411Z",
+      "dateUpdated": "2019-08-29T13:09:55.0355412Z",
+      "dateLastUpdateAttempted": "2019-08-29T13:09:55.0355412Z",
+      "status": 4,
       "preferenceAutoInstallUpdates": false,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,

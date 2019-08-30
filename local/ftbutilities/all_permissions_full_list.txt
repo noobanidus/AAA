@@ -1,4 +1,4 @@
-13385 nodes in total
+13396 nodes in total
 Modifying this file won't have any effect, edit ranks.txt!
 
 admin_panel.ftbutilities.crash_reports.delete: OP
@@ -1815,6 +1815,7 @@ ftbutilities.claims.block.edit.extrarails.direction_rail: OP
 ftbutilities.claims.block.edit.extrarails.locking_rail: OP
 ftbutilities.claims.block.edit.extrarails.teleporting_rail: OP
 ftbutilities.claims.block.edit.extrarails.wooden_rail: OP
+ftbutilities.claims.block.edit.forgemultipartcbe.multipart_block: OP
 ftbutilities.claims.block.edit.gumobtainium.gelatin_fluid_block: OP
 ftbutilities.claims.block.edit.incorporeal.corporea_brick_deco: OP
 ftbutilities.claims.block.edit.incorporeal.corporea_brick_deco_double_slab: OP
@@ -3722,6 +3723,7 @@ ftbutilities.claims.block.edit.tombstone.grave_cross: OP
 ftbutilities.claims.block.edit.tombstone.grave_normal: OP
 ftbutilities.claims.block.edit.tombstone.grave_simple: OP
 ftbutilities.claims.block.edit.tombstone.tombstone: OP
+ftbutilities.claims.block.edit.translocators.craftinggrid: OP
 ftbutilities.claims.block.edit.trashcansreborn.trashcan: OP
 ftbutilities.claims.block.edit.trashcansreborn.trashcanfluid: OP
 ftbutilities.claims.block.edit.traverse.blue_rock: OP
@@ -5472,6 +5474,7 @@ ftbutilities.claims.block.interact.extrarails.direction_rail: OP
 ftbutilities.claims.block.interact.extrarails.locking_rail: OP
 ftbutilities.claims.block.interact.extrarails.teleporting_rail: OP
 ftbutilities.claims.block.interact.extrarails.wooden_rail: OP
+ftbutilities.claims.block.interact.forgemultipartcbe.multipart_block: OP
 ftbutilities.claims.block.interact.gumobtainium.gelatin_fluid_block: OP
 ftbutilities.claims.block.interact.incorporeal.corporea_brick_deco: OP
 ftbutilities.claims.block.interact.incorporeal.corporea_brick_deco_double_slab: OP
@@ -7379,6 +7382,7 @@ ftbutilities.claims.block.interact.tombstone.grave_cross: OP
 ftbutilities.claims.block.interact.tombstone.grave_normal: OP
 ftbutilities.claims.block.interact.tombstone.grave_simple: OP
 ftbutilities.claims.block.interact.tombstone.tombstone: OP
+ftbutilities.claims.block.interact.translocators.craftinggrid: OP
 ftbutilities.claims.block.interact.trashcansreborn.trashcan: OP
 ftbutilities.claims.block.interact.trashcansreborn.trashcanfluid: OP
 ftbutilities.claims.block.interact.traverse.blue_rock: OP
@@ -10078,6 +10082,11 @@ ftbutilities.claims.item.metalchests.chest_upgrade: ALL
 ftbutilities.claims.item.metalchests.hungry_chest_upgrade: ALL
 ftbutilities.claims.item.metalchests.metal_chest: ALL
 ftbutilities.claims.item.metalchests.metal_hungry_chest: ALL
+ftbutilities.claims.item.microblockcbe.microblock: ALL
+ftbutilities.claims.item.microblockcbe.saw_diamond: ALL
+ftbutilities.claims.item.microblockcbe.saw_iron: ALL
+ftbutilities.claims.item.microblockcbe.saw_stone: ALL
+ftbutilities.claims.item.microblockcbe.stone_rod: ALL
 ftbutilities.claims.item.minecraft.acacia_boat: ALL
 ftbutilities.claims.item.minecraft.acacia_door: ALL
 ftbutilities.claims.item.minecraft.acacia_fence: ALL
@@ -12826,6 +12835,8 @@ ftbutilities.claims.item.tombstone.tablet_of_recall: ALL
 ftbutilities.claims.item.tombstone.voodoo_poppet: ALL
 ftbutilities.claims.item.toolbelt.belt: ALL
 ftbutilities.claims.item.toolbelt.pouch: ALL
+ftbutilities.claims.item.translocators.diamond_nugget: ALL
+ftbutilities.claims.item.translocators.translocator_part: ALL
 ftbutilities.claims.item.trashcansreborn.trashcan: ALL
 ftbutilities.claims.item.trashcansreborn.trashcanfluid: ALL
 ftbutilities.claims.item.traverse.blue_rock: ALL
