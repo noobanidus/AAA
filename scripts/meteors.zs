@@ -12,3 +12,15 @@ oreNetherBrick.add(<minecraft:nether_brick>);
 
 var oreEmberQuartz = <ore:oreQuartzEmbers>;
 oreEmberQuartz.add(<embers:ore_quartz>);
+
+var hardenedBlood = <ore:hardenedBlood>;
+hardenedBlood.add(<evilcraft:hardened_blood>);
+
+var bloodyCobblestone = <ore:bloodyCobblestone>;
+bloodyCobblestone.add(<evilcraft:bloody_cobblestone>);
+
+var waxedCoal = <ore:waxedCoalBlock>;
+waxedCoal.add(<evilcraft:blood_waxed_coal_block>);
+
+var undeadLog = <ore:logUndead>;
+undeadLog.add(<evilcraft:undead_log>);

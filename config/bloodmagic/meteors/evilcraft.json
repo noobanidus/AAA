@@ -1,0 +1,36 @@
+{
+  "catalystStack": {
+    "registryName": {
+      "domain": "evilcraft",
+      "path": "dark_block"
+    },
+    "meta": 0
+  },
+  "components": [
+    {
+      "weight": 30,
+      "oreName": "oreDark"
+    },
+    {
+      "weight": 10,
+      "oreName": "waxedCoalBlock"
+    },
+    {
+      "weight": 45,
+      "oreName": "bloodyCobblestone"
+    },
+    {
+      "weight": 15,
+      "oreName": "logUndead"
+    },
+    {
+      "weight": 5,
+      "oreName": "hardenedBlood"
+    }
+  ],
+  "explosionStrength": 5.0,
+  "radius": 6,
+  "maxWeight": 105,
+  "version": 3,
+  "cost": 10000
+}
