@@ -40,7 +40,7 @@ AlchemyTable.removeRecipe([<minecraft:wool:14>, <minecraft:flint>]);
 AlchemyTable.removeRecipe([<minecraft:wool:15>, <minecraft:flint>]);
 
 //mods.bloodmagic.AlchemyTable.addRecipe(IItemStack output, IItemStack[] inputs, int syphon, int ticks, int minTier);
-AlchemyTable.addRecipe(<minecraft:string> * 6, [<ore:wool>, <minecraft:flint>, null, null, null, null], 0, 20, 0);
+AlchemyTable.addRecipe(<minecraft:string> * 6, [<ore:wool>, <minecraft:flint>], 0, 20, 0);
 
 // Cobwebs!
 
